@@ -61,11 +61,11 @@ const GameBoard: React.FC<GameBoardProps> = ({
     }
   }, [currentQuestionIndex, isGameOver, isAnswered, isLoading]);
 
-  const pesan = async (messages: string, action: string) => {
+  const pesan = async (messages: string, action: any,icon:any) => {
     await Swal.fire({
-      title: action,
-      text: messages,
-      icon: action,
+      title: `${action}`,
+      text: `${messages}`,
+      icon: icon,
     });
     return;
   };
@@ -74,7 +74,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
     setIsLoading(true);
     try {
       if (!wordsData || !Array.isArray(wordsData) || wordsData.length === 0) {
-        await pesan("Data kata tidak tersedia!", "info");
+        await pesan("Data kata tidak tersedia!","informasi", "info");
         onBackToSetup();
         return;
       }
@@ -85,7 +85,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
         );
       }
       if (filteredWords.length === 0) {
-        await pesan(`Tidak ada kata dengan level "${selectedLevel}"!`, "info");
+        await pesan(`Tidak ada kata dengan level "${selectedLevel}"!`,"informasi", "info");
         onBackToSetup();
         return;
       }
@@ -116,7 +116,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
         const shuffled = newQuestions.sort(() => Math.random() - 0.5);
         const selectedQuestions = shuffled.slice(0, questionCount);
         if (selectedQuestions.length === 0) {
-          pesan("Tidak ada pertanyaan yang tersedia untuk level ini!", "info");
+          pesan("Tidak ada pertanyaan yang tersedia untuk level ini!","informasi", "info");
           onBackToSetup();
           return;
         }
@@ -138,7 +138,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
     } catch (error) {
       console.error("Error initializing game:", error);
       await pesan(
-        "Terjadi kesalahan saat memuat game. Silakan kembali ke menu.",
+        "Terjadi kesalahan saat memuat game. Silakan kembali ke menu.","kesalahan",
         "error",
       );
       onBackToSetup();
@@ -156,7 +156,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
 
     const trimmedAnswer = userAnswer.trim();
     if (trimmedAnswer.length === 0) {
-      await pesan("Silakan masukkan jawaban terlebih dahulu!", "info");
+      await pesan("Silakan masukkan jawaban terlebih dahulu!","informasi", "info");
       return;
     }
 

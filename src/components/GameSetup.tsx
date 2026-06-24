@@ -1,8 +1,7 @@
 import Swal from "sweetalert2";
 import "sweetalert2/dist/sweetalert2.css";
-import React, { useState } from "react";
+import React, { useState,useMemo } from "react";
 import wordsData from "../data/words.json";
-import useMemo from "react";
 
 interface GameSetupProps {
   onStartGame: (level: string, questionCount: number) => void;
@@ -188,7 +187,7 @@ const GameSetup: React.FC<GameSetupProps> = ({
             </div>
 
             <div className="flex flex-wrap gap-2">
-              {questionOptions.map((num) => (
+              {questionOptions.map((num:any) => (
                 <button
                   key={num}
                   onClick={async () => {
