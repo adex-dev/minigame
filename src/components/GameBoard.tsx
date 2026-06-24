@@ -61,7 +61,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
     }
   }, [currentQuestionIndex, isGameOver, isAnswered, isLoading]);
 
-  const pesan = async (messages: string, action: any,icon:any) => {
+  const pesan = async (messages: string, action: any, icon: any) => {
     await Swal.fire({
       title: `${action}`,
       text: `${messages}`,
@@ -74,7 +74,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
     setIsLoading(true);
     try {
       if (!wordsData || !Array.isArray(wordsData) || wordsData.length === 0) {
-        await pesan("Data kata tidak tersedia!","informasi", "info");
+        await pesan("Data kata tidak tersedia!", "informasi", "info");
         onBackToSetup();
         return;
       }
@@ -85,7 +85,11 @@ const GameBoard: React.FC<GameBoardProps> = ({
         );
       }
       if (filteredWords.length === 0) {
-        await pesan(`Tidak ada kata dengan level "${selectedLevel}"!`,"informasi", "info");
+        await pesan(
+          `Tidak ada kata dengan level "${selectedLevel}"!`,
+          "informasi",
+          "info",
+        );
         onBackToSetup();
         return;
       }
@@ -116,7 +120,11 @@ const GameBoard: React.FC<GameBoardProps> = ({
         const shuffled = newQuestions.sort(() => Math.random() - 0.5);
         const selectedQuestions = shuffled.slice(0, questionCount);
         if (selectedQuestions.length === 0) {
-          pesan("Tidak ada pertanyaan yang tersedia untuk level ini!","informasi", "info");
+          pesan(
+            "Tidak ada pertanyaan yang tersedia untuk level ini!",
+            "informasi",
+            "info",
+          );
           onBackToSetup();
           return;
         }
@@ -138,7 +146,8 @@ const GameBoard: React.FC<GameBoardProps> = ({
     } catch (error) {
       console.error("Error initializing game:", error);
       await pesan(
-        "Terjadi kesalahan saat memuat game. Silakan kembali ke menu.","kesalahan",
+        "Terjadi kesalahan saat memuat game. Silakan kembali ke menu.",
+        "kesalahan",
         "error",
       );
       onBackToSetup();
@@ -156,7 +165,11 @@ const GameBoard: React.FC<GameBoardProps> = ({
 
     const trimmedAnswer = userAnswer.trim();
     if (trimmedAnswer.length === 0) {
-      await pesan("Silakan masukkan jawaban terlebih dahulu!","informasi", "info");
+      await pesan(
+        "Silakan masukkan jawaban terlebih dahulu!",
+        "informasi",
+        "info",
+      );
       return;
     }
 
@@ -180,7 +193,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
     } else {
       setIsCorrect(false);
       setWrongAttempts(wrongAttempts + 1);
-
+      setScore(score - 3);
       setTimeout(() => {
         setIsCorrect(null);
         setIsAnswered(false);
@@ -279,7 +292,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
           <p className="text-gray-600 mt-2">
             Tebak kata berdasarkan pertanyaan dalam Bahasa Inggris atau
             Indonesia! <br />
-            saya membuat game ini untuk menghafal vocabullary
+            saya membuat game ini untuk menghafal vocabulary
           </p>
         </div>
         <div className="flex justify-between items-center">
@@ -288,6 +301,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
             className="px-4 py-2 bg-gray-200 hover:bg-gray-300 text-gray-700 rounded-lg font-medium transition-colors">
             ← Kembali
           </button>
+          <p>Benar! <span className="font-bold text-blue-600">+10 Poin</span> & salah! <span className="font-bold text-red-600">-3 Poin</span></p>
           <div className="text-sm text-gray-600">
             Level:{" "}
             <span className="font-semibold capitalize">{selectedLevel}</span>
@@ -348,14 +362,10 @@ const GameBoard: React.FC<GameBoardProps> = ({
                   <button
                     onClick={() => setShowHint(!showHint)}
                     className="flex flex-col text-sm text-wrap px-4 p-1 bg-yellow-400 hover:bg-yellow-500 text-gray-800 rounded-lg font-medium transition-colors">
+                    <span>{showHint ? "" : "💡"}</span>
                     <span>
-                      {
-                        showHint? "":"💡"
-                      }
+                      {showHint ? "Sembunyikan Petunjuk" : "Tampilkan Petunjuk"}
                     </span>
-                    <span>{showHint
-                      ? "Sembunyikan Petunjuk"
-                      : "Tampilkan Petunjuk"}</span>
                   </button>
                   <input
                     ref={inputRef}
