@@ -283,7 +283,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-purple-50 flex items-center justify-center p-4">
-      <div className="max-w-4xl w-full space-y-6">
+      <div className="max-w-4xl w-full space-y-6 relative z-10">
         {/* Header */}
         <div className="text-center">
           <h1 className="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600">
@@ -459,7 +459,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
 
           {/* Game Over */}
           {isGameOver && (
-            <div className="text-center p-6 bg-gradient-to-r from-purple-100 to-blue-100 rounded-xl">
+            <div className="text-center p-6 bg-gradient-to-r from-purple-100 to-blue-100 rounded-xl absolute top-0 sm:w-full sm:left-0 right-0 lg:right-56">
               <h2 className="text-2xl font-bold text-purple-800">
                 🎮 Quiz Selesai!
               </h2>
@@ -471,7 +471,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
                 Total Percobaan: {attempts}
               </p>
               <p className="text-sm text-gray-600">
-                Jawaban Benar: {answeredQuestions.size} dari {questions.length}{" "}
+                Jawaban Benar: {score ==0 ? 0 : answeredQuestions.size} dari {questions.length}{" "}
                 pertanyaan
               </p>
               <p className="text-sm text-gray-600">
