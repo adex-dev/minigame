@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "word": "ABANDON",
+    "meaning": "meninggalkan",
+    "hint": "Berhenti mendukung atau pergi dari seseorang atau sesuatu secara permanen.",
+    "level": "sedang"
+  },
+  {
+    "id": 2,
+    "word": "ABSORB",
+    "meaning": "menyerap",
+    "hint": "Mengambil atau menarik cairan, panas, atau informasi ke dalam.",
+    "level": "sedang"
+  },
+  {
+    "id": 3,
+    "word": "ABSTRACT",
+    "meaning": "abstrak",
+    "hint": "Tidak konkret, berdasarkan ide atau konsep daripada kenyataan fisik.",
+    "level": "sedang"
+  },
+  {
+    "id": 4,
+    "word": "ABUSE",
+    "meaning": "penyalahgunaan",
+    "hint": "Penggunaan sesuatu dengan cara yang salah atau berlebihan.",
+    "level": "sedang"
+  },
+  {
+    "id": 5,
+    "word": "ACCELERATE",
+    "meaning": "mempercepat",
+    "hint": "Meningkatkan kecepatan atau membuat sesuatu terjadi lebih cepat.",
+    "level": "sedang"
+  },
+  {
+    "id": 6,
+    "word": "ACCESS",
+    "meaning": "akses",
+    "hint": "Kesempatan atau hak untuk menggunakan atau memasuki sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 7,
+    "word": "ACCOMMODATE",
+    "meaning": "menampung",
+    "hint": "Menyediakan ruang atau menyesuaikan dengan kebutuhan seseorang.",
+    "level": "sedang"
+  },
+  {
+    "id": 8,
+    "word": "ACCOMPANY",
+    "meaning": "menemani",
+    "hint": "Pergi bersama dengan seseorang atau terjadi bersamaan.",
+    "level": "sedang"
+  },
+  {
+    "id": 9,
+    "word": "ACCUMULATE",
+    "meaning": "mengumpulkan",
+    "hint": "Mengumpulkan atau menimbun secara bertahap dalam jumlah besar.",
+    "level": "sedang"
+  },
+  {
+    "id": 10,
+    "word": "ACCURATE",
+    "meaning": "akurat",
+    "hint": "Tepat dan benar, tanpa kesalahan sesuai dengan fakta.",
+    "level": "sedang"
+  },
+  {
+    "id": 11,
+    "word": "ACKNOWLEDGE",
+    "meaning": "mengakui",
+    "hint": "Menyatakan penerimaan atau pengakuan atas keberadaan seseorang atau sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 12,
+    "word": "ACQUIRE",
+    "meaning": "memperoleh",
+    "hint": "Mendapatkan sesuatu melalui usaha, pembelian, atau belajar.",
+    "level": "sedang"
+  },
+  {
+    "id": 13,
+    "word": "ADAPT",
+    "meaning": "beradaptasi",
+    "hint": "Menyesuaikan diri dengan kondisi, lingkungan, atau situasi baru.",
+    "level": "sedang"
+  },
+  {
+    "id": 14,
+    "word": "ADJUST",
+    "meaning": "menyesuaikan",
+    "hint": "Mengubah sedikit posisi, pengaturan, atau perilaku agar sesuai.",
+    "level": "sedang"
+  },
+  {
+    "id": 15,
+    "word": "ADMINISTER",
+    "meaning": "mengelola",
+    "hint": "Mengatur, mengawasi, atau menjalankan kegiatan organisasi.",
+    "level": "sedang"
+  },
+  {
+    "id": 16,
+    "word": "ADOPT",
+    "meaning": "mengadopsi",
+    "hint": "Mengambil dan menggunakan ide, metode, atau anak secara resmi.",
+    "level": "sedang"
+  },
+  {
+    "id": 17,
+    "word": "ADVERSE",
+    "meaning": "buruk",
+    "hint": "Tidak menguntungkan, merugikan, atau berbahaya.",
+    "level": "sedang"
+  },
+  {
+    "id": 18,
+    "word": "ADVOCATE",
+    "meaning": "mendukung",
+    "hint": "Secara aktif mendukung atau merekomendasikan suatu ide atau kebijakan.",
+    "level": "sedang"
+  },
+  {
+    "id": 19,
+    "word": "AFFECT",
+    "meaning": "memengaruhi",
+    "hint": "Membawa perubahan atau dampak pada sesuatu atau seseorang.",
+    "level": "sedang"
+  },
+  {
+    "id": 20,
+    "word": "AGGREGATE",
+    "meaning": "agregat",
+    "hint": "Keseluruhan atau total yang terdiri dari bagian-bagian terpisah.",
+    "level": "sedang"
+  },
+  {
+    "id": 21,
+    "word": "ALIGN",
+    "meaning": "menyelaraskan",
+    "hint": "Membuat sesuatu menjadi lurus, sejajar, atau sesuai.",
+    "level": "sedang"
+  },
+  {
+    "id": 22,
+    "word": "ALLOCATE",
+    "meaning": "mengalokasikan",
+    "hint": "Menentukan dan membagikan sumber daya untuk tujuan tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 23,
+    "word": "ALTER",
+    "meaning": "mengubah",
+    "hint": "Membuat perubahan pada sesuatu, seringkali sebagian kecil.",
+    "level": "sedang"
+  },
+  {
+    "id": 24,
+    "word": "ANALYZE",
+    "meaning": "menganalisis",
+    "hint": "Memeriksa secara detail untuk memahami dan menjelaskan.",
+    "level": "sedang"
+  },
+  {
+    "id": 25,
+    "word": "ANTICIPATE",
+    "meaning": "mengantisipasi",
+    "hint": "Memperkirakan dan mempersiapkan diri untuk sesuatu yang akan terjadi.",
+    "level": "sedang"
+  },
+  {
+    "id": 26,
+    "word": "APPARENT",
+    "meaning": "jelas",
+    "hint": "Mudah terlihat, dipahami, atau dirasakan oleh semua orang.",
+    "level": "sedang"
+  },
+  {
+    "id": 27,
+    "word": "APPEAL",
+    "meaning": "daya tarik",
+    "hint": "Kualitas yang membuat sesuatu menarik atau menyenangkan.",
+    "level": "sedang"
+  },
+  {
+    "id": 28,
+    "word": "APPROPRIATE",
+    "meaning": "sesuai",
+    "hint": "Cocok atau tepat untuk situasi, tujuan, atau orang tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 29,
+    "word": "APPROXIMATE",
+    "meaning": "perkiraan",
+    "hint": "Mendekati tepat tetapi tidak persis atau akurat.",
+    "level": "sedang"
+  },
+  {
+    "id": 30,
+    "word": "ARBITRARY",
+    "meaning": "sembarangan",
+    "hint": "Didasarkan pada keputusan acak atau keinginan pribadi, bukan alasan.",
+    "level": "sedang"
+  },
+  {
+    "id": 31,
+    "word": "ASSUME",
+    "meaning": "menganggap",
+    "hint": "Percaya bahwa sesuatu benar tanpa bukti yang cukup.",
+    "level": "sedang"
+  },
+  {
+    "id": 32,
+    "word": "ATTRIBUTE",
+    "meaning": "atribut",
+    "hint": "Kualitas, ciri, atau sifat yang dimiliki seseorang atau sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 33,
+    "word": "AUTHORIZE",
+    "meaning": "memberi wewenang",
+    "hint": "Memberikan izin resmi atau kekuasaan untuk melakukan sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 34,
+    "word": "AUTOMATE",
+    "meaning": "mengotomatisasi",
+    "hint": "Menggunakan mesin atau teknologi untuk menggantikan pekerjaan manual.",
+    "level": "sedang"
+  },
+  {
+    "id": 35,
+    "word": "BENCHMARK",
+    "meaning": "tolok ukur",
+    "hint": "Standar untuk mengukur dan membandingkan kualitas atau kinerja.",
+    "level": "sedang"
+  },
+  {
+    "id": 36,
+    "word": "BOND",
+    "meaning": "ikatan",
+    "hint": "Hubungan dekat atau koneksi yang kuat antara orang atau benda.",
+    "level": "sedang"
+  },
+  {
+    "id": 37,
+    "word": "BULK",
+    "meaning": "massa",
+    "hint": "Jumlah besar, ukuran besar, atau bagian utama dari sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 38,
+    "word": "CAPACITY",
+    "meaning": "kapasitas",
+    "hint": "Kemampuan maksimum untuk menampung, melakukan, atau memproduksi.",
+    "level": "sedang"
+  },
+  {
+    "id": 39,
+    "word": "COHERENT",
+    "meaning": "koheren",
+    "hint": "Logis, terstruktur, dan mudah dipahami karena saling berhubungan.",
+    "level": "sedang"
+  },
+  {
+    "id": 40,
+    "word": "COMMENCE",
+    "meaning": "memulai",
+    "hint": "Memulai atau memulai sesuatu secara formal.",
+    "level": "sedang"
+  },
+  {
+    "id": 41,
+    "word": "COMMITMENT",
+    "meaning": "komitmen",
+    "hint": "Janji atau dedikasi untuk melakukan sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 42,
+    "word": "COMMODITY",
+    "meaning": "komoditas",
+    "hint": "Barang atau produk yang diperdagangkan dan memiliki nilai ekonomi.",
+    "level": "sedang"
+  },
+  {
+    "id": 43,
+    "word": "COMPENSATE",
+    "meaning": "mengompensasi",
+    "hint": "Memberikan pembayaran atau ganti rugi atas kerugian atau usaha.",
+    "level": "sedang"
+  },
+  {
+    "id": 44,
+    "word": "COMPETENT",
+    "meaning": "kompeten",
+    "hint": "Memiliki keterampilan, pengetahuan, dan kemampuan yang cukup.",
+    "level": "sedang"
+  },
+  {
+    "id": 45,
+    "word": "COMPREHENSIVE",
+    "meaning": "komprehensif",
+    "hint": "Mencakup semua aspek atau elemen secara lengkap.",
+    "level": "sedang"
+  },
+  {
+    "id": 46,
+    "word": "COMPULSORY",
+    "meaning": "wajib",
+    "hint": "Harus dilakukan sesuai peraturan atau hukum.",
+    "level": "sedang"
+  },
+  {
+    "id": 47,
+    "word": "CONCEIVE",
+    "meaning": "membayangkan",
+    "hint": "Membentuk ide, rencana, atau konsep dalam pikiran.",
+    "level": "sedang"
+  },
+  {
+    "id": 48,
+    "word": "CONCENTRATE",
+    "meaning": "berkonsentrasi",
+    "hint": "Memusatkan perhatian dan pikiran pada satu hal.",
+    "level": "sedang"
+  },
+  {
+    "id": 49,
+    "word": "CONCEPT",
+    "meaning": "konsep",
+    "hint": "Ide atau gagasan umum yang abstrak.",
+    "level": "sedang"
+  },
+  {
+    "id": 50,
+    "word": "CONCERN",
+    "meaning": "keprihatinan",
+    "hint": "Perasaan khawatir atau minat terhadap masalah tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 51,
+    "word": "CONCLUDE",
+    "meaning": "menyimpulkan",
+    "hint": "Membuat keputusan akhir atau kesimpulan berdasarkan fakta.",
+    "level": "sedang"
+  },
+  {
+    "id": 52,
+    "word": "CONCRETE",
+    "meaning": "konkret",
+    "hint": "Nyata, spesifik, atau berbentuk fisik, bukan abstrak.",
+    "level": "sedang"
+  },
+  {
+    "id": 53,
+    "word": "CONDUCT",
+    "meaning": "melakukan",
+    "hint": "Mengelola, menjalankan, atau melaksanakan kegiatan.",
+    "level": "sedang"
+  },
+  {
+    "id": 54,
+    "word": "CONFERENCE",
+    "meaning": "konferensi",
+    "hint": "Pertemuan formal untuk diskusi, biasanya berskala besar.",
+    "level": "sedang"
+  },
+  {
+    "id": 55,
+    "word": "CONFIDENT",
+    "meaning": "percaya diri",
+    "hint": "Yakin akan kemampuan diri sendiri atau hasil yang baik.",
+    "level": "sedang"
+  },
+  {
+    "id": 56,
+    "word": "CONFIRM",
+    "meaning": "mengonfirmasi",
+    "hint": "Memastikan atau membenarkan kebenaran sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 57,
+    "word": "CONFLICT",
+    "meaning": "konflik",
+    "hint": "Pertentangan, ketidaksepakatan, atau perjuangan antara pihak.",
+    "level": "sedang"
+  },
+  {
+    "id": 58,
+    "word": "CONSCIOUS",
+    "meaning": "sadar",
+    "hint": "Menyadari atau memperhatikan sesuatu di sekitar.",
+    "level": "sedang"
+  },
+  {
+    "id": 59,
+    "word": "CONSENT",
+    "meaning": "persetujuan",
+    "hint": "Memberi izin atau setuju untuk sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 60,
+    "word": "CONSERVATIVE",
+    "meaning": "konservatif",
+    "hint": "Cenderung mempertahankan nilai atau tradisi lama.",
+    "level": "sedang"
+  },
+  {
+    "id": 61,
+    "word": "CONSIST",
+    "meaning": "terdiri dari",
+    "hint": "Terbentuk atau tersusun dari komponen-komponen tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 62,
+    "word": "CONSUME",
+    "meaning": "mengonsumsi",
+    "hint": "Makan, minum, atau menggunakan sumber daya.",
+    "level": "sedang"
+  },
+  {
+    "id": 63,
+    "word": "CONTAIN",
+    "meaning": "berisi",
+    "hint": "Memiliki atau menyimpan sesuatu di dalamnya.",
+    "level": "sedang"
+  },
+  {
+    "id": 64,
+    "word": "CONTINUOUS",
+    "meaning": "terus-menerus",
+    "hint": "Berlangsung tanpa henti atau tanpa jeda.",
+    "level": "sedang"
+  },
+  {
+    "id": 65,
+    "word": "CONTRACT",
+    "meaning": "kontrak",
+    "hint": "Perjanjian resmi yang mengikat secara hukum.",
+    "level": "sedang"
+  },
+  {
+    "id": 66,
+    "word": "CONTRAST",
+    "meaning": "kontras",
+    "hint": "Perbedaan yang jelas antara dua hal jika dibandingkan.",
+    "level": "sedang"
+  },
+  {
+    "id": 67,
+    "word": "CONTRIBUTE",
+    "meaning": "berkontribusi",
+    "hint": "Memberikan sesuatu untuk membantu mencapai tujuan bersama.",
+    "level": "sedang"
+  },
+  {
+    "id": 68,
+    "word": "CONTROVERSY",
+    "meaning": "kontroversi",
+    "hint": "Perdebatan publik atau ketidaksetujuan yang tajam.",
+    "level": "sedang"
+  },
+  {
+    "id": 69,
+    "word": "CONVENTIONAL",
+    "meaning": "konvensional",
+    "hint": "Sesuai dengan kebiasaan atau tradisi yang umum.",
+    "level": "sedang"
+  },
+  {
+    "id": 70,
+    "word": "CONVINCE",
+    "meaning": "meyakinkan",
+    "hint": "Membuat seseorang percaya atau setuju dengan sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 71,
+    "word": "COOPERATE",
+    "meaning": "bekerja sama",
+    "hint": "Bekerja bersama dengan orang lain untuk tujuan yang sama.",
+    "level": "sedang"
+  },
+  {
+    "id": 72,
+    "word": "CORRESPOND",
+    "meaning": "berkorespondensi",
+    "hint": "Saling berhubungan atau cocok satu sama lain.",
+    "level": "sedang"
+  },
+  {
+    "id": 73,
+    "word": "COUNTERPART",
+    "meaning": "rekan",
+    "hint": "Orang atau hal yang memiliki fungsi atau posisi setara.",
+    "level": "sedang"
+  },
+  {
+    "id": 74,
+    "word": "CRITICAL",
+    "meaning": "kritis",
+    "hint": "Sangat penting atau menunjukkan penilaian analitis.",
+    "level": "sedang"
+  },
+  {
+    "id": 75,
+    "word": "CULTIVATE",
+    "meaning": "membudidayakan",
+    "hint": "Menanam, mengembangkan, atau memelihara dengan perhatian.",
+    "level": "sedang"
+  },
+  {
+    "id": 76,
+    "word": "CURRENCY",
+    "meaning": "mata uang",
+    "hint": "Uang atau sistem moneter yang digunakan di suatu negara.",
+    "level": "sedang"
+  },
+  {
+    "id": 77,
+    "word": "DATA",
+    "meaning": "data",
+    "hint": "Informasi dalam bentuk angka atau fakta yang dikumpulkan.",
+    "level": "sedang"
+  },
+  {
+    "id": 78,
+    "word": "DECLINE",
+    "meaning": "menurun",
+    "hint": "Menjadi lebih sedikit, lebih kecil, atau lebih buruk; atau menolak.",
+    "level": "sedang"
+  },
+  {
+    "id": 79,
+    "word": "DEDICATE",
+    "meaning": "mendedikasikan",
+    "hint": "Mengabdikan waktu, energi, atau diri untuk sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 80,
+    "word": "DEFICIT",
+    "meaning": "defisit",
+    "hint": "Kekurangan, terutama dalam jumlah uang atau sumber daya.",
+    "level": "sedang"
+  },
+  {
+    "id": 81,
+    "word": "DELIBERATE",
+    "meaning": "sengaja",
+    "hint": "Dilakukan secara sadar dan terencana, bukan tidak sengaja.",
+    "level": "sedang"
+  },
+  {
+    "id": 82,
+    "word": "DEMAND",
+    "meaning": "permintaan",
+    "hint": "Keinginan kuat atau kebutuhan akan barang atau jasa.",
+    "level": "sedang"
+  },
+  {
+    "id": 83,
+    "word": "DEMOCRACY",
+    "meaning": "demokrasi",
+    "hint": "Sistem pemerintahan di mana rakyat memegang kekuasaan.",
+    "level": "sedang"
+  },
+  {
+    "id": 84,
+    "word": "DEPRESS",
+    "meaning": "menekan",
+    "hint": "Membuat sedih atau mengurangi aktivitas ekonomi.",
+    "level": "sedang"
+  },
+  {
+    "id": 85,
+    "word": "DERIVE",
+    "meaning": "berasal",
+    "hint": "Mendapatkan atau berasal dari sumber tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 86,
+    "word": "DETERIORATE",
+    "meaning": "memburuk",
+    "hint": "Menjadi lebih buruk dalam kualitas atau kondisi.",
+    "level": "sedang"
+  },
+  {
+    "id": 87,
+    "word": "DIMENSION",
+    "meaning": "dimensi",
+    "hint": "Ukuran atau aspek, seringkali dalam ruang atau analisis.",
+    "level": "sedang"
+  },
+  {
+    "id": 88,
+    "word": "DIPLOMATIC",
+    "meaning": "diplomatik",
+    "hint": "Berkaitan dengan hubungan luar negeri yang dilakukan secara halus.",
+    "level": "sedang"
+  },
+  {
+    "id": 89,
+    "word": "DISCOURSE",
+    "meaning": "wacana",
+    "hint": "Komunikasi atau diskusi formal tentang suatu topik.",
+    "level": "sedang"
+  },
+  {
+    "id": 90,
+    "word": "DISCREPANCY",
+    "meaning": "perbedaan",
+    "hint": "Ketidaksesuaian antara dua hal yang seharusnya sama.",
+    "level": "sedang"
+  },
+  {
+    "id": 91,
+    "word": "DISCRIMINATE",
+    "meaning": "membedakan",
+    "hint": "Mengenali perbedaan atau memperlakukan secara tidak adil.",
+    "level": "sedang"
+  },
+  {
+    "id": 92,
+    "word": "DISPLACE",
+    "meaning": "menggeser",
+    "hint": "Memindahkan atau menggantikan posisi sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 93,
+    "word": "DISSOLVE",
+    "meaning": "melarutkan",
+    "hint": "Mencampur menjadi bagian yang lebih kecil atau membubarkan.",
+    "level": "sedang"
+  },
+  {
+    "id": 94,
+    "word": "DISTINCT",
+    "meaning": "berbeda",
+    "hint": "Jelas berbeda dan mudah dibedakan dari yang lain.",
+    "level": "sedang"
+  },
+  {
+    "id": 95,
+    "word": "DISTRESS",
+    "meaning": "kesusahan",
+    "hint": "Perasaan cemas, sedih, atau penderitaan yang berat.",
+    "level": "sedang"
+  },
+  {
+    "id": 96,
+    "word": "DIVERSE",
+    "meaning": "beragam",
+    "hint": "Memiliki banyak jenis, variasi, atau perbedaan.",
+    "level": "sedang"
+  },
+  {
+    "id": 97,
+    "word": "DURATION",
+    "meaning": "durasi",
+    "hint": "Lama waktu sesuatu berlangsung atau berlanjut.",
+    "level": "sedang"
+  },
+  {
+    "id": 98,
+    "word": "DYNAMIC",
+    "meaning": "dinamis",
+    "hint": "Aktif, energik, dan terus berubah atau berkembang.",
+    "level": "sedang"
+  },
+  {
+    "id": 99,
+    "word": "ELABORATE",
+    "meaning": "merinci",
+    "hint": "Menjelaskan dengan detail lengkap dan mendalam.",
+    "level": "sedang"
+  },
+  {
+    "id": 100,
+    "word": "ELIMINATE",
+    "meaning": "menghilangkan",
+    "hint": "Menyingkirkan atau membuang sesuatu sepenuhnya.",
+    "level": "sedang"
+  },
+  {
+    "id": 101,
+    "word": "EMBRACE",
+    "meaning": "merangkul",
+    "hint": "Menerima atau memeluk dengan hangat dan antusias.",
+    "level": "sedang"
+  },
+  {
+    "id": 102,
+    "word": "EMERGE",
+    "meaning": "muncul",
+    "hint": "Keluar atau menjadi terlihat setelah sebelumnya tersembunyi.",
+    "level": "sedang"
+  },
+  {
+    "id": 103,
+    "word": "EMPIRICAL",
+    "meaning": "empiris",
+    "hint": "Berdasarkan pengalaman, observasi, atau eksperimen, bukan teori.",
+    "level": "sedang"
+  },
+  {
+    "id": 104,
+    "word": "ENDURE",
+    "meaning": "bertahan",
+    "hint": "Menahan atau melewati situasi sulit dengan tabah.",
+    "level": "sedang"
+  },
+  {
+    "id": 105,
+    "word": "ENERGY",
+    "meaning": "energi",
+    "hint": "Kekuatan atau tenaga untuk melakukan aktivitas.",
+    "level": "sedang"
+  },
+  {
+    "id": 106,
+    "word": "ENORMOUS",
+    "meaning": "sangat besar",
+    "hint": "Sangat besar dalam ukuran, jumlah, atau luas.",
+    "level": "sedang"
+  },
+  {
+    "id": 107,
+    "word": "ENSURE",
+    "meaning": "memastikan",
+    "hint": "Membuat sesuatu pasti terjadi atau tercapai.",
+    "level": "sedang"
+  },
+  {
+    "id": 108,
+    "word": "ENTITY",
+    "meaning": "entitas",
+    "hint": "Sesuatu yang memiliki keberadaan dan identitas tersendiri.",
+    "level": "sedang"
+  },
+  {
+    "id": 109,
+    "word": "ENTREPRENEUR",
+    "meaning": "pengusaha",
+    "hint": "Orang yang memulai, mengelola, dan menanggung risiko bisnis.",
+    "level": "sedang"
+  },
+  {
+    "id": 110,
+    "word": "EQUIPMENT",
+    "meaning": "peralatan",
+    "hint": "Alat, mesin, atau benda yang diperlukan untuk tujuan tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 111,
+    "word": "EQUIVALENT",
+    "meaning": "setara",
+    "hint": "Memiliki nilai, fungsi, atau makna yang sama.",
+    "level": "sedang"
+  },
+  {
+    "id": 112,
+    "word": "ESSENTIAL",
+    "meaning": "esensial",
+    "hint": "Sangat penting dan diperlukan, tidak bisa diabaikan.",
+    "level": "sedang"
+  },
+  {
+    "id": 113,
+    "word": "EVALUATE",
+    "meaning": "mengevaluasi",
+    "hint": "Menilai atau menentukan nilai, kualitas, atau pentingnya.",
+    "level": "sedang"
+  },
+  {
+    "id": 114,
+    "word": "EVOLVE",
+    "meaning": "berevolusi",
+    "hint": "Berkembang atau berubah secara perlahan dalam jangka waktu lama.",
+    "level": "sedang"
+  },
+  {
+    "id": 115,
+    "word": "EXCEED",
+    "meaning": "melebihi",
+    "hint": "Lebih besar atau lebih tinggi dari batas atau jumlah yang diharapkan.",
+    "level": "sedang"
+  },
+  {
+    "id": 116,
+    "word": "EXCLUDED",
+    "meaning": "dikecualikan",
+    "hint": "Tidak termasuk atau tidak diikutsertakan.",
+    "level": "sedang"
+  },
+  {
+    "id": 117,
+    "word": "EXECUTE",
+    "meaning": "mengeksekusi",
+    "hint": "Menjalankan atau melaksanakan rencana atau perintah.",
+    "level": "sedang"
+  },
+  {
+    "id": 118,
+    "word": "EXHIBIT",
+    "meaning": "memamerkan",
+    "hint": "Menampilkan atau memamerkan sesuatu di depan umum.",
+    "level": "sedang"
+  },
+  {
+    "id": 119,
+    "word": "EXPAND",
+    "meaning": "memperluas",
+    "hint": "Menjadi lebih besar, lebih luas, atau lebih detail.",
+    "level": "sedang"
+  },
+  {
+    "id": 120,
+    "word": "EXPERTISE",
+    "meaning": "keahlian",
+    "hint": "Pengetahuan atau keterampilan khusus di bidang tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 121,
+    "word": "EXPLICIT",
+    "meaning": "eksplisit",
+    "hint": "Dinyatakan secara jelas dan terperinci, tanpa keraguan.",
+    "level": "sedang"
+  },
+  {
+    "id": 122,
+    "word": "EXPLOIT",
+    "meaning": "mengeksploitasi",
+    "hint": "Memanfaatkan secara tidak adil atau menggunakan sepenuhnya.",
+    "level": "sedang"
+  },
+  {
+    "id": 123,
+    "word": "EXTENSIVE",
+    "meaning": "luas",
+    "hint": "Mencakup area atau jumlah yang besar.",
+    "level": "sedang"
+  },
+  {
+    "id": 124,
+    "word": "EXTERNAL",
+    "meaning": "eksternal",
+    "hint": "Berada di luar atau berasal dari luar.",
+    "level": "sedang"
+  },
+  {
+    "id": 125,
+    "word": "FACILITATE",
+    "meaning": "memfasilitasi",
+    "hint": "Membuat proses atau kegiatan menjadi lebih mudah.",
+    "level": "sedang"
+  },
+  {
+    "id": 126,
+    "word": "FICTION",
+    "meaning": "fiksi",
+    "hint": "Cerita atau narasi yang tidak berdasarkan fakta nyata.",
+    "level": "sedang"
+  },
+  {
+    "id": 127,
+    "word": "FLUCTUATE",
+    "meaning": "berfluktuasi",
+    "hint": "Berubah-ubah naik turun secara tidak stabil.",
+    "level": "sedang"
+  },
+  {
+    "id": 128,
+    "word": "FRAMEWORK",
+    "meaning": "kerangka",
+    "hint": "Struktur dasar atau sistem yang mendukung sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 129,
+    "word": "GENERATE",
+    "meaning": "menghasilkan",
+    "hint": "Memproduksi atau menciptakan sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 130,
+    "word": "GLOBAL",
+    "meaning": "global",
+    "hint": "Mencakup atau melibatkan seluruh dunia.",
+    "level": "sedang"
+  },
+  {
+    "id": 131,
+    "word": "GUARANTEE",
+    "meaning": "menjamin",
+    "hint": "Memberikan jaminan atau kepastian tentang sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 132,
+    "word": "HARMONY",
+    "meaning": "harmoni",
+    "hint": "Keadaan selaras, cocok, atau damai.",
+    "level": "sedang"
+  },
+  {
+    "id": 133,
+    "word": "IDENTIFY",
+    "meaning": "mengidentifikasi",
+    "hint": "Mengenali, menemukan, atau menetapkan identitas sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 134,
+    "word": "IGNORE",
+    "meaning": "mengabaikan",
+    "hint": "Sengaja tidak memperhatikan atau tidak menghiraukan.",
+    "level": "sedang"
+  },
+  {
+    "id": 135,
+    "word": "ILLUSTRATE",
+    "meaning": "mengilustrasikan",
+    "hint": "Menjelaskan atau menunjukkan dengan contoh atau gambar.",
+    "level": "sedang"
+  },
+  {
+    "id": 136,
+    "word": "IMPACT",
+    "meaning": "dampak",
+    "hint": "Pengaruh atau efek yang kuat dari suatu tindakan.",
+    "level": "sedang"
+  },
+  {
+    "id": 137,
+    "word": "IMPLEMENT",
+    "meaning": "mengimplementasikan",
+    "hint": "Melaksanakan atau menerapkan rencana atau keputusan.",
+    "level": "sedang"
+  },
+  {
+    "id": 138,
+    "word": "IMPLICATE",
+    "meaning": "melibatkan",
+    "hint": "Terlibat atau terkait dengan sesuatu, seringkali negatif.",
+    "level": "sedang"
+  },
+  {
+    "id": 139,
+    "word": "IMPLY",
+    "meaning": "menyiratkan",
+    "hint": "Menyatakan atau menunjukkan secara tidak langsung.",
+    "level": "sedang"
+  },
+  {
+    "id": 140,
+    "word": "IMPOSE",
+    "meaning": "memaksakan",
+    "hint": "Memaksa sesuatu diterima atau ditempatkan pada orang lain.",
+    "level": "sedang"
+  },
+  {
+    "id": 141,
+    "word": "INCOME",
+    "meaning": "pendapatan",
+    "hint": "Uang yang diterima secara teratur dari pekerjaan atau investasi.",
+    "level": "sedang"
+  },
+  {
+    "id": 142,
+    "word": "INCREASE",
+    "meaning": "meningkat",
+    "hint": "Bertambah atau menjadi lebih besar dalam jumlah atau ukuran.",
+    "level": "sedang"
+  },
+  {
+    "id": 143,
+    "word": "INDICATE",
+    "meaning": "menunjukkan",
+    "hint": "Menunjuk, menandakan, atau menyatakan sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 144,
+    "word": "INDIVIDUAL",
+    "meaning": "individu",
+    "hint": "Seorang pribadi atau sesuatu yang terpisah dan unik.",
+    "level": "sedang"
+  },
+  {
+    "id": 145,
+    "word": "INDUCE",
+    "meaning": "menyebabkan",
+    "hint": "Menimbulkan atau menyebabkan terjadinya sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 146,
+    "word": "INEVITABLE",
+    "meaning": "tak terhindarkan",
+    "hint": "Pasti terjadi dan tidak dapat dicegah.",
+    "level": "sedang"
+  },
+  {
+    "id": 147,
+    "word": "INFLUENCE",
+    "meaning": "pengaruh",
+    "hint": "Kemampuan untuk memengaruhi orang atau situasi.",
+    "level": "sedang"
+  },
+  {
+    "id": 148,
+    "word": "INITIAL",
+    "meaning": "awal",
+    "hint": "Terjadi di awal atau pertama kali.",
+    "level": "sedang"
+  },
+  {
+    "id": 149,
+    "word": "INITIATE",
+    "meaning": "memulai",
+    "hint": "Memulai atau mempelopori sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 150,
+    "word": "INNOVATION",
+    "meaning": "inovasi",
+    "hint": "Penemuan, ide, atau metode baru yang lebih baik.",
+    "level": "sedang"
+  },
+  {
+    "id": 151,
+    "word": "INSPECT",
+    "meaning": "memeriksa",
+    "hint": "Melihat secara teliti untuk menilai kondisi atau kualitas.",
+    "level": "sedang"
+  },
+  {
+    "id": 152,
+    "word": "INSTITUTE",
+    "meaning": "lembaga",
+    "hint": "Organisasi yang didirikan untuk tujuan tertentu, biasanya pendidikan.",
+    "level": "sedang"
+  },
+  {
+    "id": 153,
+    "word": "INTEGRATE",
+    "meaning": "mengintegrasikan",
+    "hint": "Menggabungkan bagian-bagian menjadi kesatuan yang utuh.",
+    "level": "sedang"
+  },
+  {
+    "id": 154,
+    "word": "INTELLECTUAL",
+    "meaning": "intelektual",
+    "hint": "Berkaitan dengan kemampuan berpikir dan pemahaman yang dalam.",
+    "level": "sedang"
+  },
+  {
+    "id": 155,
+    "word": "INTENSE",
+    "meaning": "intens",
+    "hint": "Sangat kuat atau dalam, baik fisik maupun emosional.",
+    "level": "sedang"
+  },
+  {
+    "id": 156,
+    "word": "INTERACT",
+    "meaning": "berinteraksi",
+    "hint": "Berkomunikasi atau bekerja sama dengan orang lain.",
+    "level": "sedang"
+  },
+  {
+    "id": 157,
+    "word": "INTERNAL",
+    "meaning": "internal",
+    "hint": "Terjadi atau berada di dalam, bukan di luar.",
+    "level": "sedang"
+  },
+  {
+    "id": 158,
+    "word": "INTERPRET",
+    "meaning": "menginterpretasikan",
+    "hint": "Menjelaskan makna atau maksud dari sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 159,
+    "word": "INTERVENE",
+    "meaning": "mengintervensi",
+    "hint": "Campur tangan untuk mengubah atau memengaruhi situasi.",
+    "level": "sedang"
+  },
+  {
+    "id": 160,
+    "word": "INVESTIGATE",
+    "meaning": "menyelidiki",
+    "hint": "Mencari tahu fakta secara sistematis dan mendalam.",
+    "level": "sedang"
+  },
+  {
+    "id": 161,
+    "word": "JUSTIFY",
+    "meaning": "membenarkan",
+    "hint": "Memberikan alasan atau penjelasan yang meyakinkan.",
+    "level": "sedang"
+  },
+  {
+    "id": 162,
+    "word": "LEGAL",
+    "meaning": "legal",
+    "hint": "Sesuai dengan hukum atau diizinkan secara hukum.",
+    "level": "sedang"
+  },
+  {
+    "id": 163,
+    "word": "LEGISLATION",
+    "meaning": "legislasi",
+    "hint": "Proses pembuatan undang-undang atau peraturan.",
+    "level": "sedang"
+  },
+  {
+    "id": 164,
+    "word": "LEGISLATIVE",
+    "meaning": "legislatif",
+    "hint": "Berkaitan dengan pembuatan undang-undang.",
+    "level": "sedang"
+  },
+  {
+    "id": 165,
+    "word": "LEGITIMATE",
+    "meaning": "sah",
+    "hint": "Dapat diterima secara hukum atau logis.",
+    "level": "sedang"
+  },
+  {
+    "id": 166,
+    "word": "LIBERAL",
+    "meaning": "liberal",
+    "hint": "Mendukung kebebasan, toleransi, dan perubahan sosial.",
+    "level": "sedang"
+  },
+  {
+    "id": 167,
+    "word": "MAINTAIN",
+    "meaning": "mempertahankan",
+    "hint": "Menjaga atau memelihara dalam kondisi yang sama.",
+    "level": "sedang"
+  },
+  {
+    "id": 168,
+    "word": "MANIFEST",
+    "meaning": "terwujud",
+    "hint": "Menjadi nyata atau jelas terlihat.",
+    "level": "sedang"
+  },
+  {
+    "id": 169,
+    "word": "MANIPULATE",
+    "meaning": "memanipulasi",
+    "hint": "Mengontrol atau memengaruhi secara tidak jujur.",
+    "level": "sedang"
+  },
+  {
+    "id": 170,
+    "word": "MEDIA",
+    "meaning": "media",
+    "hint": "Saluran komunikasi massal seperti TV, radio, dan internet.",
+    "level": "sedang"
+  },
+  {
+    "id": 171,
+    "word": "MIGRATE",
+    "meaning": "bermigrasi",
+    "hint": "Pindah dari satu tempat ke tempat lain secara berkala.",
+    "level": "sedang"
+  },
+  {
+    "id": 172,
+    "word": "MINIMUM",
+    "meaning": "minimum",
+    "hint": "Jumlah terkecil yang dibutuhkan atau diperbolehkan.",
+    "level": "sedang"
+  },
+  {
+    "id": 173,
+    "word": "MODIFY",
+    "meaning": "memodifikasi",
+    "hint": "Mengubah atau menyesuaikan agar lebih baik.",
+    "level": "sedang"
+  },
+  {
+    "id": 174,
+    "word": "MONITOR",
+    "meaning": "memantau",
+    "hint": "Mengawasi dan memeriksa secara teratur.",
+    "level": "sedang"
+  },
+  {
+    "id": 175,
+    "word": "MORAL",
+    "meaning": "moral",
+    "hint": "Berkaitan dengan prinsip benar dan salah dalam perilaku.",
+    "level": "sedang"
+  },
+  {
+    "id": 176,
+    "word": "MUTUAL",
+    "meaning": "saling",
+    "hint": "Dirasakan atau dilakukan oleh kedua belah pihak secara sama.",
+    "level": "sedang"
+  },
+  {
+    "id": 177,
+    "word": "NEGOTIATE",
+    "meaning": "bernegosiasi",
+    "hint": "Berdiskusi untuk mencapai kesepakatan bersama.",
+    "level": "sedang"
+  },
+  {
+    "id": 178,
+    "word": "NEVERTHELESS",
+    "meaning": "meskipun begitu",
+    "hint": "Namun, walaupun demikian.",
+    "level": "sedang"
+  },
+  {
+    "id": 179,
+    "word": "OBJECTIVE",
+    "meaning": "objektif",
+    "hint": "Tidak terpengaruh oleh perasaan pribadi atau berdasarkan fakta.",
+    "level": "sedang"
+  },
+  {
+    "id": 180,
+    "word": "OBTAIN",
+    "meaning": "memperoleh",
+    "hint": "Mendapatkan sesuatu melalui usaha atau permintaan.",
+    "level": "sedang"
+  },
+  {
+    "id": 181,
+    "word": "OCCUPY",
+    "meaning": "menempati",
+    "hint": "Mengisi atau berada di suatu tempat atau posisi.",
+    "level": "sedang"
+  },
+  {
+    "id": 182,
+    "word": "OFFICIAL",
+    "meaning": "resmi",
+    "hint": "Disetujui atau dilakukan oleh pihak yang berwenang.",
+    "level": "sedang"
+  },
+  {
+    "id": 183,
+    "word": "OPTIMUM",
+    "meaning": "optimal",
+    "hint": "Tingkat terbaik atau paling menguntungkan.",
+    "level": "sedang"
+  },
+  {
+    "id": 184,
+    "word": "ORIENT",
+    "meaning": "mengarahkan",
+    "hint": "Menyesuaikan atau mengarahkan pada tujuan tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 185,
+    "word": "OUTCOME",
+    "meaning": "hasil",
+    "hint": "Hasil akhir atau konsekuensi dari suatu proses.",
+    "level": "sedang"
+  },
+  {
+    "id": 186,
+    "word": "OVERALL",
+    "meaning": "keseluruhan",
+    "hint": "Secara umum atau mencakup semua aspek.",
+    "level": "sedang"
+  },
+  {
+    "id": 187,
+    "word": "OVERCOME",
+    "meaning": "mengatasi",
+    "hint": "Berhasil menangani atau mengalahkan masalah.",
+    "level": "sedang"
+  },
+  {
+    "id": 188,
+    "word": "OVERRIDE",
+    "meaning": "menggantikan",
+    "hint": "Menolak atau mengesampingkan keputusan lain.",
+    "level": "sedang"
+  },
+  {
+    "id": 189,
+    "word": "PARTICIPATE",
+    "meaning": "berpartisipasi",
+    "hint": "Mengambil bagian dalam suatu kegiatan.",
+    "level": "sedang"
+  },
+  {
+    "id": 190,
+    "word": "PERCEIVE",
+    "meaning": "memersepsikan",
+    "hint": "Melihat, memahami, atau menafsirkan dengan cara tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 191,
+    "word": "PERMANENT",
+    "meaning": "permanen",
+    "hint": "Bertahan lama dan tidak berubah atau berakhir.",
+    "level": "sedang"
+  },
+  {
+    "id": 192,
+    "word": "PERSPECTIVE",
+    "meaning": "perspektif",
+    "hint": "Cara pandang atau sudut pandang terhadap sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 193,
+    "word": "PERSUADE",
+    "meaning": "membujuk",
+    "hint": "Meyakinkan seseorang untuk melakukan atau percaya sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 194,
+    "word": "POTENTIAL",
+    "meaning": "potensial",
+    "hint": "Kemungkinan atau kemampuan untuk berkembang di masa depan.",
+    "level": "sedang"
+  },
+  {
+    "id": 195,
+    "word": "PRECEDE",
+    "meaning": "mendahului",
+    "hint": "Terjadi atau ada sebelum sesuatu yang lain.",
+    "level": "sedang"
+  },
+  {
+    "id": 196,
+    "word": "PRECISE",
+    "meaning": "tepat",
+    "hint": "Sangat akurat dan jelas, tanpa ambiguitas.",
+    "level": "sedang"
+  },
+  {
+    "id": 197,
+    "word": "PREDICT",
+    "meaning": "memprediksi",
+    "hint": "Memperkirakan atau meramalkan apa yang akan terjadi.",
+    "level": "sedang"
+  },
+  {
+    "id": 198,
+    "word": "PRELIMINARY",
+    "meaning": "pendahuluan",
+    "hint": "Terjadi sebagai persiapan sebelum kegiatan utama.",
+    "level": "sedang"
+  },
+  {
+    "id": 199,
+    "word": "PRESERVE",
+    "meaning": "melestarikan",
+    "hint": "Menjaga atau melindungi agar tetap dalam kondisi baik.",
+    "level": "sedang"
+  },
+  {
+    "id": 200,
+    "word": "PRESTIGE",
+    "meaning": "prestise",
+    "hint": "Penghargaan atau reputasi baik dari masyarakat.",
+    "level": "sedang"
+  },
+  {
+    "id": 201,
+    "word": "PRINCIPLE",
+    "meaning": "prinsip",
+    "hint": "Aturan atau keyakinan dasar yang memandu perilaku.",
+    "level": "sedang"
+  },
+  {
+    "id": 202,
+    "word": "PROCEED",
+    "meaning": "melanjutkan",
+    "hint": "Lanjutkan bergerak atau melakukan kegiatan.",
+    "level": "sedang"
+  },
+  {
+    "id": 203,
+    "word": "PROCESS",
+    "meaning": "proses",
+    "hint": "Serangkaian tindakan atau langkah untuk mencapai hasil.",
+    "level": "sedang"
+  },
+  {
+    "id": 204,
+    "word": "PRODUCE",
+    "meaning": "memproduksi",
+    "hint": "Membuat atau menghasilkan sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 205,
+    "word": "PROFESSIONAL",
+    "meaning": "profesional",
+    "hint": "Melakukan pekerjaan dengan standar tinggi dan keahlian.",
+    "level": "sedang"
+  },
+  {
+    "id": 206,
+    "word": "PROFIT",
+    "meaning": "keuntungan",
+    "hint": "Keuntungan finansial setelah dikurangi biaya.",
+    "level": "sedang"
+  },
+  {
+    "id": 207,
+    "word": "PROMOTE",
+    "meaning": "mempromosikan",
+    "hint": "Mendukung, mengiklankan, atau menaikkan pangkat.",
+    "level": "sedang"
+  },
+  {
+    "id": 208,
+    "word": "PROPORTION",
+    "meaning": "proporsi",
+    "hint": "Bagian dari keseluruhan dalam hubungan dengan lainnya.",
+    "level": "sedang"
+  },
+  {
+    "id": 209,
+    "word": "PROSPECT",
+    "meaning": "prospek",
+    "hint": "Kemungkinan atau harapan akan kejadian di masa depan.",
+    "level": "sedang"
+  },
+  {
+    "id": 210,
+    "word": "PROVOKE",
+    "meaning": "memprovokasi",
+    "hint": "Memicu reaksi atau respons, seringkali negatif.",
+    "level": "sedang"
+  },
+  {
+    "id": 211,
+    "word": "PUBLIC",
+    "meaning": "publik",
+    "hint": "Berkaitan dengan masyarakat atau tersedia untuk semua orang.",
+    "level": "sedang"
+  },
+  {
+    "id": 212,
+    "word": "PURSUE",
+    "meaning": "mengejar",
+    "hint": "Berusaha mencapai atau mendapatkan sesuatu dengan tekun.",
+    "level": "sedang"
+  },
+  {
+    "id": 213,
+    "word": "QUALIFY",
+    "meaning": "memenuhi syarat",
+    "hint": "Memiliki kemampuan atau izin untuk melakukan sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 214,
+    "word": "RATIONAL",
+    "meaning": "rasional",
+    "hint": "Berdasarkan logika dan akal sehat.",
+    "level": "sedang"
+  },
+  {
+    "id": 215,
+    "word": "REALIZE",
+    "meaning": "menyadari",
+    "hint": "Menjadi sadar atau memahami sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 216,
+    "word": "RECOGNIZE",
+    "meaning": "mengenali",
+    "hint": "Mengingat atau mengidentifikasi sesuatu yang sudah dikenal.",
+    "level": "sedang"
+  },
+  {
+    "id": 217,
+    "word": "RECOMMEND",
+    "meaning": "merekomendasikan",
+    "hint": "Menyarankan sesuatu sebagai pilihan yang baik.",
+    "level": "sedang"
+  },
+  {
+    "id": 218,
+    "word": "REFER",
+    "meaning": "merujuk",
+    "hint": "Menunjuk atau mengarahkan ke sumber atau orang lain.",
+    "level": "sedang"
+  },
+  {
+    "id": 219,
+    "word": "REFLECT",
+    "meaning": "merefleksikan",
+    "hint": "Memikirkan kembali atau menggambarkan sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 220,
+    "word": "REGARD",
+    "meaning": "menganggap",
+    "hint": "Memandang atau memperlakukan dengan cara tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 221,
+    "word": "REGULATE",
+    "meaning": "mengatur",
+    "hint": "Mengontrol sesuai dengan aturan atau sistem.",
+    "level": "sedang"
+  },
+  {
+    "id": 222,
+    "word": "REINFORCE",
+    "meaning": "memperkuat",
+    "hint": "Menambah kekuatan atau dukungan terhadap sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 223,
+    "word": "RELATE",
+    "meaning": "berhubungan",
+    "hint": "Menghubungkan atau memiliki koneksi dengan sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 224,
+    "word": "RELEASE",
+    "meaning": "melepaskan",
+    "hint": "Membebaskan atau mengizinkan untuk keluar.",
+    "level": "sedang"
+  },
+  {
+    "id": 225,
+    "word": "RELEVANT",
+    "meaning": "relevan",
+    "hint": "Memiliki hubungan atau penting untuk suatu topik.",
+    "level": "sedang"
+  },
+  {
+    "id": 226,
+    "word": "RELIABLE",
+    "meaning": "andal",
+    "hint": "Dapat dipercaya dan konsisten dalam kinerja.",
+    "level": "sedang"
+  },
+  {
+    "id": 227,
+    "word": "RELY",
+    "meaning": "bergantung",
+    "hint": "Mempercayai atau mengandalkan seseorang atau sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 228,
+    "word": "REMOVE",
+    "meaning": "menghapus",
+    "hint": "Mengambil atau menyingkirkan dari posisi atau tempat.",
+    "level": "sedang"
+  },
+  {
+    "id": 229,
+    "word": "REQUIRE",
+    "meaning": "memerlukan",
+    "hint": "Membutuhkan sesuatu untuk tujuan tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 230,
+    "word": "RESEARCH",
+    "meaning": "penelitian",
+    "hint": "Studi sistematis untuk menemukan atau memperluas pengetahuan.",
+    "level": "sedang"
+  },
+  {
+    "id": 231,
+    "word": "RESOLVE",
+    "meaning": "menyelesaikan",
+    "hint": "Menemukan solusi atau keputusan untuk masalah.",
+    "level": "sedang"
+  },
+  {
+    "id": 232,
+    "word": "RESPOND",
+    "meaning": "merespons",
+    "hint": "Memberikan jawaban atau reaksi terhadap sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 233,
+    "word": "RESTRICT",
+    "meaning": "membatasi",
+    "hint": "Membatasi atau mengurangi kebebasan atau ukuran.",
+    "level": "sedang"
+  },
+  {
+    "id": 234,
+    "word": "RETAIN",
+    "meaning": "mempertahankan",
+    "hint": "Menahan atau menyimpan sesuatu agar tidak hilang.",
+    "level": "sedang"
+  },
+  {
+    "id": 235,
+    "word": "REVEAL",
+    "meaning": "mengungkapkan",
+    "hint": "Membuka atau menunjukkan sesuatu yang sebelumnya tersembunyi.",
+    "level": "sedang"
+  },
+  {
+    "id": 236,
+    "word": "REVENUE",
+    "meaning": "pendapatan",
+    "hint": "Uang yang diterima dari kegiatan ekonomi.",
+    "level": "sedang"
+  },
+  {
+    "id": 237,
+    "word": "REVOLUTION",
+    "meaning": "revolusi",
+    "hint": "Perubahan besar dan tiba-tiba dalam sistem atau cara hidup.",
+    "level": "sedang"
+  },
+  {
+    "id": 238,
+    "word": "RISK",
+    "meaning": "risiko",
+    "hint": "Kemungkinan kehilangan atau bahaya dari suatu tindakan.",
+    "level": "sedang"
+  },
+  {
+    "id": 239,
+    "word": "ROLE",
+    "meaning": "peran",
+    "hint": "Fungsi atau posisi dalam suatu situasi atau organisasi.",
+    "level": "sedang"
+  },
+  {
+    "id": 240,
+    "word": "RURAL",
+    "meaning": "pedesaan",
+    "hint": "Berkaitan dengan daerah di luar kota atau di perdesaan.",
+    "level": "sedang"
+  },
+  {
+    "id": 241,
+    "word": "SATISFY",
+    "meaning": "memuaskan",
+    "hint": "Membuat seseorang merasa puas atau cukup.",
+    "level": "sedang"
+  },
+  {
+    "id": 242,
+    "word": "SCALE",
+    "meaning": "skala",
+    "hint": "Ukuran, tingkat, atau sistem pengukuran.",
+    "level": "sedang"
+  },
+  {
+    "id": 243,
+    "word": "SCHEDULE",
+    "meaning": "jadwal",
+    "hint": "Rencana waktu kegiatan yang akan dilaksanakan.",
+    "level": "sedang"
+  },
+  {
+    "id": 244,
+    "word": "SECTOR",
+    "meaning": "sektor",
+    "hint": "Bagian atau bidang dalam kegiatan ekonomi atau sosial.",
+    "level": "sedang"
+  },
+  {
+    "id": 245,
+    "word": "SECURE",
+    "meaning": "aman",
+    "hint": "Terlindungi dari bahaya atau risiko.",
+    "level": "sedang"
+  },
+  {
+    "id": 246,
+    "word": "SELECT",
+    "meaning": "memilih",
+    "hint": "Memilih dengan hati-hati berdasarkan kriteria tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 247,
+    "word": "SEQUENCE",
+    "meaning": "urutan",
+    "hint": "Serangkaian peristiwa atau tindakan dalam tatanan tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 248,
+    "word": "SERIOUS",
+    "meaning": "serius",
+    "hint": "Tidak main-main dan memerlukan perhatian khusus.",
+    "level": "sedang"
+  },
+  {
+    "id": 249,
+    "word": "SETTLE",
+    "meaning": "menyelesaikan",
+    "hint": "Mengakhiri perselisihan atau memutuskan untuk menetap.",
+    "level": "sedang"
+  },
+  {
+    "id": 250,
+    "word": "SHIFT",
+    "meaning": "pergeseran",
+    "hint": "Perubahan dari satu posisi atau arah ke yang lain.",
+    "level": "sedang"
+  },
+  {
+    "id": 251,
+    "word": "SIGNIFICANT",
+    "meaning": "signifikan",
+    "hint": "Cukup penting atau besar untuk diperhatikan.",
+    "level": "sedang"
+  },
+  {
+    "id": 252,
+    "word": "SIMILAR",
+    "meaning": "mirip",
+    "hint": "Mempunyai kemiripan atau kesamaan dengan sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 253,
+    "word": "SITUATION",
+    "meaning": "situasi",
+    "hint": "Keadaan atau kondisi pada waktu tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 254,
+    "word": "SOLE",
+    "meaning": "tunggal",
+    "hint": "Satu-satunya atau milik sendiri.",
+    "level": "sedang"
+  },
+  {
+    "id": 255,
+    "word": "SOLUTION",
+    "meaning": "solusi",
+    "hint": "Cara atau jawaban untuk menyelesaikan masalah.",
+    "level": "sedang"
+  },
+  {
+    "id": 256,
+    "word": "SPECIFIC",
+    "meaning": "spesifik",
+    "hint": "Jelas, tepat, dan merujuk pada sesuatu yang tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 257,
+    "word": "STABLE",
+    "meaning": "stabil",
+    "hint": "Tidak mudah berubah atau goyah.",
+    "level": "sedang"
+  },
+  {
+    "id": 258,
+    "word": "STATUS",
+    "meaning": "status",
+    "hint": "Posisi sosial atau kondisi pada waktu tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 259,
+    "word": "STIMULATE",
+    "meaning": "merangsang",
+    "hint": "Mendorong atau memicu aktivitas atau pertumbuhan.",
+    "level": "sedang"
+  },
+  {
+    "id": 260,
+    "word": "STRATEGY",
+    "meaning": "strategi",
+    "hint": "Rencana jangka panjang untuk mencapai tujuan.",
+    "level": "sedang"
+  },
+  {
+    "id": 261,
+    "word": "STRUCTURE",
+    "meaning": "struktur",
+    "hint": "Cara penyusunan atau pengorganisasian bagian-bagian.",
+    "level": "sedang"
+  },
+  {
+    "id": 262,
+    "word": "SUBSEQUENT",
+    "meaning": "berikutnya",
+    "hint": "Terjadi setelah atau menyusul sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 263,
+    "word": "SUBSTITUTE",
+    "meaning": "pengganti",
+    "hint": "Orang atau benda yang menggantikan posisi lain.",
+    "level": "sedang"
+  },
+  {
+    "id": 264,
+    "word": "SUFFICIENT",
+    "meaning": "cukup",
+    "hint": "Sebanyak yang diperlukan atau memenuhi kebutuhan.",
+    "level": "sedang"
+  },
+  {
+    "id": 265,
+    "word": "SUPERVISE",
+    "meaning": "mengawasi",
+    "hint": "Memantau dan mengarahkan pekerjaan atau kegiatan.",
+    "level": "sedang"
+  },
+  {
+    "id": 266,
+    "word": "SUPPLEMENT",
+    "meaning": "suplemen",
+    "hint": "Tambahan untuk melengkapi atau memperbaiki sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 267,
+    "word": "SUPPORT",
+    "meaning": "mendukung",
+    "hint": "Memberikan bantuan atau menyetujui sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 268,
+    "word": "SURVIVE",
+    "meaning": "bertahan hidup",
+    "hint": "Tetap hidup meskipun dalam kondisi sulit.",
+    "level": "sedang"
+  },
+  {
+    "id": 269,
+    "word": "SUSTAIN",
+    "meaning": "mempertahankan",
+    "hint": "Menjaga sesuatu agar terus berlanjut atau bertahan.",
+    "level": "sedang"
+  },
+  {
+    "id": 270,
+    "word": "SYMBOL",
+    "meaning": "simbol",
+    "hint": "Tanda atau gambar yang mewakili sesuatu yang lain.",
+    "level": "sedang"
+  },
+  {
+    "id": 271,
+    "word": "TEND",
+    "meaning": "cenderung",
+    "hint": "Biasanya atau sering melakukan sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 272,
+    "word": "TOLERATE",
+    "meaning": "mentoleransi",
+    "hint": "Menerima atau membiarkan hal yang tidak disetujui.",
+    "level": "sedang"
+  },
+  {
+    "id": 273,
+    "word": "TRANSFER",
+    "meaning": "mentransfer",
+    "hint": "Memindahkan dari satu tempat atau orang ke yang lain.",
+    "level": "sedang"
+  },
+  {
+    "id": 274,
+    "word": "TRANSFORM",
+    "meaning": "mentransformasikan",
+    "hint": "Mengubah bentuk atau karakter secara drastis.",
+    "level": "sedang"
+  },
+  {
+    "id": 275,
+    "word": "TRANSMIT",
+    "meaning": "menyampaikan",
+    "hint": "Mengirimkan atau meneruskan informasi, sinyal, atau penyakit.",
+    "level": "sedang"
+  },
+  {
+    "id": 276,
+    "word": "TRIGGER",
+    "meaning": "memicu",
+    "hint": "Menyebabkan sesuatu terjadi atau dimulai.",
+    "level": "sedang"
+  },
+  {
+    "id": 277,
+    "word": "ULTIMATE",
+    "meaning": "terakhir",
+    "hint": "Paling akhir, utama, atau terpenting.",
+    "level": "sedang"
+  },
+  {
+    "id": 278,
+    "word": "UNDERGO",
+    "meaning": "menjalani",
+    "hint": "Menghadapi atau mengalami proses atau perubahan.",
+    "level": "sedang"
+  },
+  {
+    "id": 279,
+    "word": "UNDERTAKE",
+    "meaning": "melakukan",
+    "hint": "Berjanji atau mulai melakukan tugas tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 280,
+    "word": "UNIFY",
+    "meaning": "memersatukan",
+    "hint": "Menyatukan atau menggabungkan menjadi kesatuan.",
+    "level": "sedang"
+  },
+  {
+    "id": 281,
+    "word": "UNIQUE",
+    "meaning": "unik",
+    "hint": "Sangat berbeda dan satu-satunya dalam jenisnya.",
+    "level": "sedang"
+  },
+  {
+    "id": 282,
+    "word": "UPDATE",
+    "meaning": "memperbarui",
+    "hint": "Membuat sesuatu lebih baru atau terkini.",
+    "level": "sedang"
+  },
+  {
+    "id": 283,
+    "word": "URBAN",
+    "meaning": "perkotaan",
+    "hint": "Berkaitan dengan kota atau wilayah perkotaan.",
+    "level": "sedang"
+  },
+  {
+    "id": 284,
+    "word": "UTILIZE",
+    "meaning": "memanfaatkan",
+    "hint": "Menggunakan sesuatu secara efektif untuk tujuan tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 285,
+    "word": "VALID",
+    "meaning": "valid",
+    "hint": "Dapat diterima, sah, atau berdasarkan alasan yang kuat.",
+    "level": "sedang"
+  },
+  {
+    "id": 286,
+    "word": "VARY",
+    "meaning": "bervariasi",
+    "hint": "Berubah atau berbeda-beda.",
+    "level": "sedang"
+  },
+  {
+    "id": 287,
+    "word": "VERIFY",
+    "meaning": "memverifikasi",
+    "hint": "Memastikan kebenaran atau keakuratan sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 288,
+    "word": "VERSION",
+    "meaning": "versi",
+    "hint": "Bentuk atau variasi tertentu dari sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 289,
+    "word": "VIA",
+    "meaning": "melalui",
+    "hint": "Melalui perantara atau dengan cara tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 290,
+    "word": "VIOLATE",
+    "meaning": "melanggar",
+    "hint": "Melanggar aturan, hukum, atau perjanjian.",
+    "level": "sedang"
+  },
+  {
+    "id": 291,
+    "word": "VIRTUAL",
+    "meaning": "virtual",
+    "hint": "Dilakukan melalui komputer atau tidak nyata secara fisik.",
+    "level": "sedang"
+  },
+  {
+    "id": 292,
+    "word": "VOLUME",
+    "meaning": "volume",
+    "hint": "Jumlah ruang yang ditempati atau tingkat suara.",
+    "level": "sedang"
+  },
+  {
+    "id": 293,
+    "word": "VOLUNTARY",
+    "meaning": "sukarela",
+    "hint": "Dilakukan dengan kemauan sendiri, bukan karena paksaan.",
+    "level": "sedang"
+  },
+  {
+    "id": 294,
+    "word": "WELFARE",
+    "meaning": "kesejahteraan",
+    "hint": "Kesehatan, kebahagiaan, dan kemakmuran seseorang.",
+    "level": "sedang"
+  },
+  {
+    "id": 295,
+    "word": "WITHDRAW",
+    "meaning": "menarik",
+    "hint": "Mengambil kembali atau keluar dari situasi.",
+    "level": "sedang"
+  },
+  {
+    "id": 296,
+    "word": "ADVANCE",
+    "meaning": "kemajuan",
+    "hint": "Perkembangan atau pergerakan ke depan.",
+    "level": "sedang"
+  },
+  {
+    "id": 297,
+    "word": "AFFORD",
+    "meaning": "mampu",
+    "hint": "Memiliki cukup uang atau waktu untuk sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 298,
+    "word": "ALTERNATIVE",
+    "meaning": "alternatif",
+    "hint": "Pilihan lain yang tersedia selain yang utama.",
+    "level": "sedang"
+  },
+  {
+    "id": 299,
+    "word": "ANNUAL",
+    "meaning": "tahunan",
+    "hint": "Terjadi setiap tahun.",
+    "level": "sedang"
+  },
+  {
+    "id": 300,
+    "word": "APPROPRIATE",
+    "meaning": "sesuai",
+    "hint": "Cocok atau tepat untuk situasi tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 301,
+    "word": "AUTOMATIC",
+    "meaning": "otomatis",
+    "hint": "Beroperasi tanpa campur tangan manusia.",
+    "level": "sedang"
+  },
+  {
+    "id": 302,
+    "word": "BENEFIT",
+    "meaning": "manfaat",
+    "hint": "Keuntungan atau hasil positif.",
+    "level": "sedang"
+  },
+  {
+    "id": 303,
+    "word": "CENTRAL",
+    "meaning": "pusat",
+    "hint": "Terletak di tengah atau paling penting.",
+    "level": "sedang"
+  },
+  {
+    "id": 304,
+    "word": "CHANNEL",
+    "meaning": "saluran",
+    "hint": "Jalur komunikasi atau penyampaian sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 305,
+    "word": "CIRCUMSTANCE",
+    "meaning": "keadaan",
+    "hint": "Kondisi atau fakta yang mempengaruhi situasi.",
+    "level": "sedang"
+  },
+  {
+    "id": 306,
+    "word": "COMMENT",
+    "meaning": "komentar",
+    "hint": "Pendapat atau tanggapan terhadap sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 307,
+    "word": "COMMISSION",
+    "meaning": "komisi",
+    "hint": "Kelompok yang ditunjuk atau pembayaran berdasarkan penjualan.",
+    "level": "sedang"
+  },
+  {
+    "id": 308,
+    "word": "COMPONENT",
+    "meaning": "komponen",
+    "hint": "Bagian dari keseluruhan yang lebih besar.",
+    "level": "sedang"
+  },
+  {
+    "id": 309,
+    "word": "CONCENTRATE",
+    "meaning": "berkonsentrasi",
+    "hint": "Memusatkan perhatian pada satu hal.",
+    "level": "sedang"
+  },
+  {
+    "id": 310,
+    "word": "CONNECTION",
+    "meaning": "koneksi",
+    "hint": "Hubungan atau keterkaitan antara dua hal.",
+    "level": "sedang"
+  },
+  {
+    "id": 311,
+    "word": "CONSCIOUS",
+    "meaning": "sadar",
+    "hint": "Mengetahui dan memperhatikan apa yang terjadi.",
+    "level": "sedang"
+  },
+  {
+    "id": 312,
+    "word": "CONSEQUENT",
+    "meaning": "konsekuen",
+    "hint": "Mengikuti atau terjadi sebagai akibat.",
+    "level": "sedang"
+  },
+  {
+    "id": 313,
+    "word": "CONSULT",
+    "meaning": "berkonsultasi",
+    "hint": "Bertanya atau meminta saran kepada ahli.",
+    "level": "sedang"
+  },
+  {
+    "id": 314,
+    "word": "CONVINCE",
+    "meaning": "meyakinkan",
+    "hint": "Membuat seseorang percaya pada sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 315,
+    "word": "COOPERATION",
+    "meaning": "kerja sama",
+    "hint": "Kegiatan bersama untuk mencapai tujuan bersama.",
+    "level": "sedang"
+  },
+  {
+    "id": 316,
+    "word": "CORPORATE",
+    "meaning": "korporasi",
+    "hint": "Berkaitan dengan perusahaan besar atau bisnis.",
+    "level": "sedang"
+  },
+  {
+    "id": 317,
+    "word": "CORRESPONDENCE",
+    "meaning": "korespondensi",
+    "hint": "Komunikasi melalui surat atau email.",
+    "level": "sedang"
+  },
+  {
+    "id": 318,
+    "word": "COUNSEL",
+    "meaning": "nasihat",
+    "hint": "Saran atau bimbingan dari orang yang ahli.",
+    "level": "sedang"
+  },
+  {
+    "id": 319,
+    "word": "CRITICISM",
+    "meaning": "kritik",
+    "hint": "Penilaian atau pendapat negatif tentang sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 320,
+    "word": "CULTURAL",
+    "meaning": "budaya",
+    "hint": "Berkaitan dengan tradisi dan nilai-nilai masyarakat.",
+    "level": "sedang"
+  },
+  {
+    "id": 321,
+    "word": "DEBATE",
+    "meaning": "perdebatan",
+    "hint": "Diskusi formal dengan argumen berbeda.",
+    "level": "sedang"
+  },
+  {
+    "id": 322,
+    "word": "DECADE",
+    "meaning": "dekade",
+    "hint": "Periode sepuluh tahun.",
+    "level": "sedang"
+  },
+  {
+    "id": 323,
+    "word": "DEMONSTRATE",
+    "meaning": "menunjukkan",
+    "hint": "Menjelaskan atau membuktikan dengan contoh atau tindakan.",
+    "level": "sedang"
+  },
+  {
+    "id": 324,
+    "word": "DETERMINE",
+    "meaning": "menentukan",
+    "hint": "Menetapkan atau menemukan sesuatu dengan pasti.",
+    "level": "sedang"
+  },
+  {
+    "id": 325,
+    "word": "DIFFERENTIATE",
+    "meaning": "membedakan",
+    "hint": "Mengenali atau menunjukkan perbedaan.",
+    "level": "sedang"
+  },
+  {
+    "id": 326,
+    "word": "DIRECT",
+    "meaning": "langsung",
+    "hint": "Terus terusan tanpa perantara.",
+    "level": "sedang"
+  },
+  {
+    "id": 327,
+    "word": "DISAPPOINT",
+    "meaning": "mengecewakan",
+    "hint": "Gagal memenuhi harapan seseorang.",
+    "level": "sedang"
+  },
+  {
+    "id": 328,
+    "word": "DISASTER",
+    "meaning": "bencana",
+    "hint": "Kejadian tiba-tiba yang menyebabkan kerusakan besar.",
+    "level": "sedang"
+  },
+  {
+    "id": 329,
+    "word": "DISCOVERY",
+    "meaning": "penemuan",
+    "hint": "Menemukan sesuatu yang sebelumnya tidak diketahui.",
+    "level": "sedang"
+  },
+  {
+    "id": 330,
+    "word": "DISPLAY",
+    "meaning": "memajang",
+    "hint": "Menunjukkan atau menampilkan sesuatu di depan umum.",
+    "level": "sedang"
+  },
+  {
+    "id": 331,
+    "word": "DISTRIBUTION",
+    "meaning": "distribusi",
+    "hint": "Proses pembagian atau penyebaran sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 332,
+    "word": "DOCUMENT",
+    "meaning": "dokumen",
+    "hint": "Catatan tertulis atau file yang berisi informasi.",
+    "level": "sedang"
+  },
+  {
+    "id": 333,
+    "word": "DOMESTIC",
+    "meaning": "domestik",
+    "hint": "Berkaitan dengan rumah tangga atau dalam negeri.",
+    "level": "sedang"
+  },
+  {
+    "id": 334,
+    "word": "DOMINATE",
+    "meaning": "mendominasi",
+    "hint": "Menguasai atau menjadi yang paling penting.",
+    "level": "sedang"
+  },
+  {
+    "id": 335,
+    "word": "ECONOMY",
+    "meaning": "ekonomi",
+    "hint": "Sistem produksi, distribusi, dan konsumsi barang.",
+    "level": "sedang"
+  },
+  {
+    "id": 336,
+    "word": "EDUCATE",
+    "meaning": "mendidik",
+    "hint": "Memberikan pengetahuan dan keterampilan melalui pengajaran.",
+    "level": "sedang"
+  },
+  {
+    "id": 337,
+    "word": "ELECTRONIC",
+    "meaning": "elektronik",
+    "hint": "Berkaitan dengan perangkat yang menggunakan listrik.",
+    "level": "sedang"
+  },
+  {
+    "id": 338,
+    "word": "EMPLOY",
+    "meaning": "mempekerjakan",
+    "hint": "Memberi pekerjaan kepada seseorang.",
+    "level": "sedang"
+  },
+  {
+    "id": 339,
+    "word": "ENCOURAGE",
+    "meaning": "mendorong",
+    "hint": "Memberi semangat dan dukungan.",
+    "level": "sedang"
+  },
+  {
+    "id": 340,
+    "word": "ENVIRONMENTAL",
+    "meaning": "lingkungan",
+    "hint": "Berkaitan dengan alam dan dampaknya.",
+    "level": "sedang"
+  },
+  {
+    "id": 341,
+    "word": "EQUIVALENT",
+    "meaning": "setara",
+    "hint": "Memiliki nilai, ukuran, atau fungsi yang sama.",
+    "level": "sedang"
+  },
+  {
+    "id": 342,
+    "word": "EVALUATION",
+    "meaning": "evaluasi",
+    "hint": "Proses menilai atau mengukur nilai dan kualitas.",
+    "level": "sedang"
+  },
+  {
+    "id": 343,
+    "word": "EVENTUAL",
+    "meaning": "akhirnya",
+    "hint": "Terjadi pada akhirnya setelah beberapa waktu.",
+    "level": "sedang"
+  },
+  {
+    "id": 344,
+    "word": "EXAMINATION",
+    "meaning": "pemeriksaan",
+    "hint": "Proses inspeksi atau tes untuk menilai sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 345,
+    "word": "EXCESSIVE",
+    "meaning": "berlebihan",
+    "hint": "Lebih dari yang diperlukan atau wajar.",
+    "level": "sedang"
+  },
+  {
+    "id": 346,
+    "word": "EXISTENCE",
+    "meaning": "keberadaan",
+    "hint": "Fakta bahwa sesuatu ada atau hidup.",
+    "level": "sedang"
+  },
+  {
+    "id": 347,
+    "word": "EXPORT",
+    "meaning": "ekspor",
+    "hint": "Mengirim barang ke negara lain untuk dijual.",
+    "level": "sedang"
+  },
+  {
+    "id": 348,
+    "word": "EXPOSURE",
+    "meaning": "paparan",
+    "hint": "Kondisi terpapar atau terlihat oleh sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 349,
+    "word": "EXTENT",
+    "meaning": "tingkat",
+    "hint": "Ukuran atau cakupan seberapa jauh sesuatu terjadi.",
+    "level": "sedang"
+  },
+  {
+    "id": 350,
+    "word": "FEDERAL",
+    "meaning": "federal",
+    "hint": "Berkaitan dengan pemerintahan pusat di negara federal.",
+    "level": "sedang"
+  },
+  {
+    "id": 351,
+    "word": "FLEXIBILITY",
+    "meaning": "fleksibilitas",
+    "hint": "Kemampuan untuk menyesuaikan atau berubah.",
+    "level": "sedang"
+  },
+  {
+    "id": 352,
+    "word": "FOREIGN",
+    "meaning": "asing",
+    "hint": "Berasal dari negara lain.",
+    "level": "sedang"
+  },
+  {
+    "id": 353,
+    "word": "FORMULATE",
+    "meaning": "merumuskan",
+    "hint": "Mengembangkan atau membuat rencana secara sistematis.",
+    "level": "sedang"
+  },
+  {
+    "id": 354,
+    "word": "FREQUENT",
+    "meaning": "sering",
+    "hint": "Terjadi berulang kali dalam waktu dekat.",
+    "level": "sedang"
+  },
+  {
+    "id": 355,
+    "word": "FUNCTION",
+    "meaning": "fungsi",
+    "hint": "Tujuan atau peran dari sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 356,
+    "word": "GENDER",
+    "meaning": "gender",
+    "hint": "Perbedaan sosial antara laki-laki dan perempuan.",
+    "level": "sedang"
+  },
+  {
+    "id": 357,
+    "word": "GENERATE",
+    "meaning": "menghasilkan",
+    "hint": "Memproduksi atau menciptakan sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 358,
+    "word": "GUIDE",
+    "meaning": "panduan",
+    "hint": "Arahan atau saran untuk membantu seseorang.",
+    "level": "sedang"
+  },
+  {
+    "id": 359,
+    "word": "HIGHLIGHT",
+    "meaning": "menyoroti",
+    "hint": "Menarik perhatian pada bagian penting.",
+    "level": "sedang"
+  },
+  {
+    "id": 360,
+    "word": "IDENTITY",
+    "meaning": "identitas",
+    "hint": "Karakteristik yang membuat seseorang unik.",
+    "level": "sedang"
+  },
+  {
+    "id": 361,
+    "word": "ILLUSTRATE",
+    "meaning": "mengilustrasikan",
+    "hint": "Menjelaskan dengan gambar atau contoh.",
+    "level": "sedang"
+  },
+  {
+    "id": 362,
+    "word": "INCIDENT",
+    "meaning": "insiden",
+    "hint": "Kejadian atau peristiwa, biasanya tidak terduga.",
+    "level": "sedang"
+  },
+  {
+    "id": 363,
+    "word": "INCREASING",
+    "meaning": "meningkat",
+    "hint": "Bertambah dalam jumlah atau intensitas.",
+    "level": "sedang"
+  },
+  {
+    "id": 364,
+    "word": "INDEPENDENT",
+    "meaning": "independen",
+    "hint": "Tidak bergantung pada orang lain.",
+    "level": "sedang"
+  },
+  {
+    "id": 365,
+    "word": "INDICATE",
+    "meaning": "menunjukkan",
+    "hint": "Memberi petunjuk atau menandakan.",
+    "level": "sedang"
+  },
+  {
+    "id": 366,
+    "word": "INDUSTRY",
+    "meaning": "industri",
+    "hint": "Sektor produksi barang atau jasa.",
+    "level": "sedang"
+  },
+  {
+    "id": 367,
+    "word": "INJURE",
+    "meaning": "melukai",
+    "hint": "Menyebabkan cedera fisik atau luka.",
+    "level": "sedang"
+  },
+  {
+    "id": 368,
+    "word": "INNOVATIVE",
+    "meaning": "inovatif",
+    "hint": "Memiliki ide baru dan kreatif.",
+    "level": "sedang"
+  },
+  {
+    "id": 369,
+    "word": "INSPECT",
+    "meaning": "memeriksa",
+    "hint": "Melihat secara teliti untuk mengecek kondisi.",
+    "level": "sedang"
+  },
+  {
+    "id": 370,
+    "word": "INSPIRE",
+    "meaning": "menginspirasi",
+    "hint": "Memberi ide atau motivasi untuk berbuat.",
+    "level": "sedang"
+  },
+  {
+    "id": 371,
+    "word": "INSTALL",
+    "meaning": "memasang",
+    "hint": "Menempatkan atau menyiapkan perangkat atau sistem.",
+    "level": "sedang"
+  },
+  {
+    "id": 372,
+    "word": "INSTITUTION",
+    "meaning": "lembaga",
+    "hint": "Organisasi besar yang didirikan untuk tujuan tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 373,
+    "word": "INSURE",
+    "meaning": "mengasuransikan",
+    "hint": "Memberi perlindungan finansial terhadap risiko.",
+    "level": "sedang"
+  },
+  {
+    "id": 374,
+    "word": "INTEGRITY",
+    "meaning": "integritas",
+    "hint": "Kejujuran dan konsistensi moral.",
+    "level": "sedang"
+  },
+  {
+    "id": 375,
+    "word": "INTEND",
+    "meaning": "berniat",
+    "hint": "Merencanakan atau memiliki tujuan tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 376,
+    "word": "INTEREST",
+    "meaning": "ketertarikan",
+    "hint": "Perhatian atau keingintahuan terhadap sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 377,
+    "word": "INTERFERE",
+    "meaning": "campur tangan",
+    "hint": "Terlibat dalam urusan orang lain tanpa izin.",
+    "level": "sedang"
+  },
+  {
+    "id": 378,
+    "word": "INTERNAL",
+    "meaning": "internal",
+    "hint": "Terjadi di dalam organisasi atau sistem.",
+    "level": "sedang"
+  },
+  {
+    "id": 379,
+    "word": "INTERPRET",
+    "meaning": "menafsirkan",
+    "hint": "Menjelaskan makna dari kata atau tindakan.",
+    "level": "sedang"
+  },
+  {
+    "id": 380,
+    "word": "INTERVENTION",
+    "meaning": "intervensi",
+    "hint": "Tindakan yang dilakukan untuk mempengaruhi situasi.",
+    "level": "sedang"
+  },
+  {
+    "id": 381,
+    "word": "INVESTIGATION",
+    "meaning": "penyelidikan",
+    "hint": "Proses mencari fakta untuk menemukan kebenaran.",
+    "level": "sedang"
+  },
+  {
+    "id": 382,
+    "word": "ISSUE",
+    "meaning": "masalah",
+    "hint": "Topik penting atau masalah yang perlu dibahas.",
+    "level": "sedang"
+  },
+  {
+    "id": 383,
+    "word": "LABEL",
+    "meaning": "label",
+    "hint": "Tanda yang menunjukkan nama atau informasi.",
+    "level": "sedang"
+  },
+  {
+    "id": 384,
+    "word": "LEADERSHIP",
+    "meaning": "kepemimpinan",
+    "hint": "Kemampuan untuk memimpin dan mengarahkan.",
+    "level": "sedang"
+  },
+  {
+    "id": 385,
+    "word": "LEGISLATE",
+    "meaning": "membuat undang-undang",
+    "hint": "Membuat atau mengesahkan undang-undang.",
+    "level": "sedang"
+  },
+  {
+    "id": 386,
+    "word": "LEGISLATURE",
+    "meaning": "legislatif",
+    "hint": "Badan yang membuat undang-undang.",
+    "level": "sedang"
+  },
+  {
+    "id": 387,
+    "word": "LEVERAGE",
+    "meaning": "pengaruh",
+    "hint": "Kekuatan atau pengaruh untuk mencapai tujuan.",
+    "level": "sedang"
+  },
+  {
+    "id": 388,
+    "word": "MAINTENANCE",
+    "meaning": "pemeliharaan",
+    "hint": "Perawatan untuk menjaga kondisi baik.",
+    "level": "sedang"
+  },
+  {
+    "id": 389,
+    "word": "MANUAL",
+    "meaning": "manual",
+    "hint": "Dilakukan dengan tangan atau buku petunjuk.",
+    "level": "sedang"
+  },
+  {
+    "id": 390,
+    "word": "MEDICAL",
+    "meaning": "medis",
+    "hint": "Berkaitan dengan pengobatan dan kesehatan.",
+    "level": "sedang"
+  },
+  {
+    "id": 391,
+    "word": "MEMORIAL",
+    "meaning": "peringatan",
+    "hint": "Didedikasikan untuk mengenang seseorang atau peristiwa.",
+    "level": "sedang"
+  },
+  {
+    "id": 392,
+    "word": "MENTAL",
+    "meaning": "mental",
+    "hint": "Berkaitan dengan pikiran atau kejiwaan.",
+    "level": "sedang"
+  },
+  {
+    "id": 393,
+    "word": "MERELY",
+    "meaning": "hanya",
+    "hint": "Digunakan untuk menyatakan sesuatu yang sederhana.",
+    "level": "sedang"
+  },
+  {
+    "id": 394,
+    "word": "METHODOLOGY",
+    "meaning": "metodologi",
+    "hint": "Sistem metode yang digunakan dalam penelitian.",
+    "level": "sedang"
+  },
+  {
+    "id": 395,
+    "word": "MINOR",
+    "meaning": "kecil",
+    "hint": "Tidak besar atau penting.",
+    "level": "sedang"
+  },
+  {
+    "id": 396,
+    "word": "MODE",
+    "meaning": "mode",
+    "hint": "Cara atau gaya melakukan sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 397,
+    "word": "MODERATE",
+    "meaning": "sedang",
+    "hint": "Tidak terlalu besar atau kecil.",
+    "level": "sedang"
+  },
+  {
+    "id": 398,
+    "word": "MODIFICATION",
+    "meaning": "modifikasi",
+    "hint": "Perubahan atau penyesuaian pada sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 399,
+    "word": "MONOPOLY",
+    "meaning": "monopoli",
+    "hint": "Penguasaan pasar oleh satu perusahaan.",
+    "level": "sedang"
+  },
+  {
+    "id": 400,
+    "word": "MULTIPLE",
+    "meaning": "banyak",
+    "hint": "Melibatkan lebih dari satu atau beberapa.",
+    "level": "sedang"
+  },
+  {
+    "id": 401,
+    "word": "NEGATIVE",
+    "meaning": "negatif",
+    "hint": "Buruk, merugikan, atau tanpa keberadaan.",
+    "level": "sedang"
+  },
+  {
+    "id": 402,
+    "word": "NEGOTIATION",
+    "meaning": "negosiasi",
+    "hint": "Diskusi untuk mencapai kesepakatan.",
+    "level": "sedang"
+  },
+  {
+    "id": 403,
+    "word": "NORMALIZE",
+    "meaning": "menormalkan",
+    "hint": "Membuat menjadi normal atau biasa.",
+    "level": "sedang"
+  },
+  {
+    "id": 404,
+    "word": "NOTORIOUS",
+    "meaning": "terkenal buruk",
+    "hint": "Terkenal karena hal yang negatif.",
+    "level": "sedang"
+  },
+  {
+    "id": 405,
+    "word": "OCCUR",
+    "meaning": "terjadi",
+    "hint": "Berlangsung atau muncul pada waktu tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 406,
+    "word": "OPPORTUNITY",
+    "meaning": "kesempatan",
+    "hint": "Waktu yang tepat untuk melakukan sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 407,
+    "word": "OPTION",
+    "meaning": "pilihan",
+    "hint": "Alternatif yang dapat dipilih.",
+    "level": "sedang"
+  },
+  {
+    "id": 408,
+    "word": "ORGANIZE",
+    "meaning": "mengorganisir",
+    "hint": "Mengatur secara sistematis.",
+    "level": "sedang"
+  },
+  {
+    "id": 409,
+    "word": "ORIGIN",
+    "meaning": "asal",
+    "hint": "Tempat atau sumber dari mana sesuatu berasal.",
+    "level": "sedang"
+  },
+  {
+    "id": 410,
+    "word": "OUTLINE",
+    "meaning": "garis besar",
+    "hint": "Rangkuman atau rencana utama.",
+    "level": "sedang"
+  },
+  {
+    "id": 411,
+    "word": "OUTPUT",
+    "meaning": "output",
+    "hint": "Hasil atau produksi dari suatu proses.",
+    "level": "sedang"
+  },
+  {
+    "id": 412,
+    "word": "OVERCOME",
+    "meaning": "mengatasi",
+    "hint": "Berhasil mengalahkan masalah atau kesulitan.",
+    "level": "sedang"
+  },
+  {
+    "id": 413,
+    "word": "OVERLOOK",
+    "meaning": "mengabaikan",
+    "hint": "Tidak memperhatikan atau melewatkan sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 414,
+    "word": "OVERRIDE",
+    "meaning": "mengesampingkan",
+    "hint": "Menolak atau menggantikan keputusan lain.",
+    "level": "sedang"
+  },
+  {
+    "id": 415,
+    "word": "OVERVIEW",
+    "meaning": "gambaran umum",
+    "hint": "Ringkasan atau tinjauan keseluruhan.",
+    "level": "sedang"
+  },
+  {
+    "id": 416,
+    "word": "PARENT",
+    "meaning": "orang tua",
+    "hint": "Ayah atau ibu dari seseorang.",
+    "level": "sedang"
+  },
+  {
+    "id": 417,
+    "word": "PARTICIPANT",
+    "meaning": "peserta",
+    "hint": "Orang yang mengambil bagian dalam kegiatan.",
+    "level": "sedang"
+  },
+  {
+    "id": 418,
+    "word": "PARTICULAR",
+    "meaning": "tertentu",
+    "hint": "Spesifik atau khusus untuk satu hal.",
+    "level": "sedang"
+  },
+  {
+    "id": 419,
+    "word": "PERCENTAGE",
+    "meaning": "persentase",
+    "hint": "Bagian dari seratus atau proporsi.",
+    "level": "sedang"
+  },
+  {
+    "id": 420,
+    "word": "PERFORM",
+    "meaning": "melakukan",
+    "hint": "Menjalankan tugas atau pertunjukan.",
+    "level": "sedang"
+  },
+  {
+    "id": 421,
+    "word": "PERIOD",
+    "meaning": "periode",
+    "hint": "Rentang waktu tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 422,
+    "word": "PERMIT",
+    "meaning": "izin",
+    "hint": "Memberikan izin atau persetujuan.",
+    "level": "sedang"
+  },
+  {
+    "id": 423,
+    "word": "PERSPECTIVE",
+    "meaning": "perspektif",
+    "hint": "Cara melihat atau sudut pandang.",
+    "level": "sedang"
+  },
+  {
+    "id": 424,
+    "word": "PHENOMENON",
+    "meaning": "fenomena",
+    "hint": "Peristiwa atau fakta yang bisa diamati.",
+    "level": "sedang"
+  },
+  {
+    "id": 425,
+    "word": "PHILOSOPHY",
+    "meaning": "filsafat",
+    "hint": "Studi tentang ide dasar dan pemikiran.",
+    "level": "sedang"
+  },
+  {
+    "id": 426,
+    "word": "PLACE",
+    "meaning": "tempat",
+    "hint": "Lokasi atau posisi tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 427,
+    "word": "POTENTIAL",
+    "meaning": "potensial",
+    "hint": "Kemampuan untuk berkembang di masa depan.",
+    "level": "sedang"
+  },
+  {
+    "id": 428,
+    "word": "PRACTICAL",
+    "meaning": "praktis",
+    "hint": "Berguna, realistis, dan bisa diterapkan.",
+    "level": "sedang"
+  },
+  {
+    "id": 429,
+    "word": "PRECAUTION",
+    "meaning": "pencegahan",
+    "hint": "Tindakan untuk mencegah bahaya atau masalah.",
+    "level": "sedang"
+  },
+  {
+    "id": 430,
+    "word": "PREDOMINANT",
+    "meaning": "dominan",
+    "hint": "Yang paling utama atau paling kuat.",
+    "level": "sedang"
+  },
+  {
+    "id": 431,
+    "word": "PREMISE",
+    "meaning": "premis",
+    "hint": "Asumsi dasar yang menjadi dasar argumen.",
+    "level": "sedang"
+  },
+  {
+    "id": 432,
+    "word": "PRESSURE",
+    "meaning": "tekanan",
+    "hint": "Kekuatan atau dorongan yang mempengaruhi.",
+    "level": "sedang"
+  },
+  {
+    "id": 433,
+    "word": "PREVAIL",
+    "meaning": "berlaku",
+    "hint": "Menjadi lebih kuat atau umum.",
+    "level": "sedang"
+  },
+  {
+    "id": 434,
+    "word": "PREVENT",
+    "meaning": "mencegah",
+    "hint": "Menghentikan sesuatu terjadi.",
+    "level": "sedang"
+  },
+  {
+    "id": 435,
+    "word": "PREVIOUS",
+    "meaning": "sebelumnya",
+    "hint": "Terjadi sebelum waktu sekarang.",
+    "level": "sedang"
+  },
+  {
+    "id": 436,
+    "word": "PRIMARY",
+    "meaning": "utama",
+    "hint": "Yang paling penting atau pertama.",
+    "level": "sedang"
+  },
+  {
+    "id": 437,
+    "word": "PRINCIPAL",
+    "meaning": "kepala sekolah",
+    "hint": "Pemimpin atau yang utama.",
+    "level": "sedang"
+  },
+  {
+    "id": 438,
+    "word": "PRIORITY",
+    "meaning": "prioritas",
+    "hint": "Sesuatu yang lebih penting dari yang lain.",
+    "level": "sedang"
+  },
+  {
+    "id": 439,
+    "word": "PRIVATE",
+    "meaning": "pribadi",
+    "hint": "Untuk digunakan oleh orang tertentu, bukan umum.",
+    "level": "sedang"
+  },
+  {
+    "id": 440,
+    "word": "PROCESS",
+    "meaning": "proses",
+    "hint": "Serangkaian langkah untuk mencapai hasil.",
+    "level": "sedang"
+  },
+  {
+    "id": 441,
+    "word": "PROCUREMENT",
+    "meaning": "pengadaan",
+    "hint": "Proses mendapatkan barang atau jasa.",
+    "level": "sedang"
+  },
+  {
+    "id": 442,
+    "word": "PROFESSION",
+    "meaning": "profesi",
+    "hint": "Pekerjaan yang membutuhkan keahlian khusus.",
+    "level": "sedang"
+  },
+  {
+    "id": 443,
+    "word": "PROFICIENT",
+    "meaning": "mahir",
+    "hint": "Sangat terampil dalam bidang tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 444,
+    "word": "PROGRESS",
+    "meaning": "kemajuan",
+    "hint": "Perkembangan menuju tujuan.",
+    "level": "sedang"
+  },
+  {
+    "id": 445,
+    "word": "PROHIBIT",
+    "meaning": "melarang",
+    "hint": "Mencegah atau tidak mengizinkan.",
+    "level": "sedang"
+  },
+  {
+    "id": 446,
+    "word": "PROJECT",
+    "meaning": "proyek",
+    "hint": "Rencana kerja untuk mencapai tujuan tertentu.",
+    "level": "sedang"
+  },
+  {
+    "id": 447,
+    "word": "PROLONG",
+    "meaning": "memperpanjang",
+    "hint": "Membuat sesuatu berlangsung lebih lama.",
+    "level": "sedang"
+  },
+  {
+    "id": 448,
+    "word": "PROMOTE",
+    "meaning": "mempromosikan",
+    "hint": "Mendukung, mengiklankan, atau menaikkan posisi.",
+    "level": "sedang"
+  },
+  {
+    "id": 449,
+    "word": "PROPER",
+    "meaning": "tepat",
+    "hint": "Sesuai dengan standar yang benar.",
+    "level": "sedang"
+  },
+  {
+    "id": 450,
+    "word": "PROPORTION",
+    "meaning": "proporsi",
+    "hint": "Bagian dari keseluruhan.",
+    "level": "sedang"
+  },
+  {
+    "id": 451,
+    "word": "PROTECT",
+    "meaning": "melindungi",
+    "hint": "Menjaga dari bahaya atau kerusakan.",
+    "level": "sedang"
+  },
+  {
+    "id": 452,
+    "word": "PROTEST",
+    "meaning": "protes",
+    "hint": "Menyatakan ketidaksetujuan secara terbuka.",
+    "level": "sedang"
+  },
+  {
+    "id": 453,
+    "word": "PROVIDE",
+    "meaning": "menyediakan",
+    "hint": "Memberikan apa yang dibutuhkan.",
+    "level": "sedang"
+  },
+  {
+    "id": 454,
+    "word": "PUBLIC",
+    "meaning": "publik",
+    "hint": "Untuk semua orang atau masyarakat umum.",
+    "level": "sedang"
+  },
+  {
+    "id": 455,
+    "word": "PURCHASE",
+    "meaning": "pembelian",
+    "hint": "Membeli barang atau jasa.",
+    "level": "sedang"
+  },
+  {
+    "id": 456,
+    "word": "PURPOSE",
+    "meaning": "tujuan",
+    "hint": "Alasan mengapa sesuatu dilakukan.",
+    "level": "sedang"
+  },
+  {
+    "id": 457,
+    "word": "QUALIFICATION",
+    "meaning": "kualifikasi",
+    "hint": "Keahlian atau syarat untuk sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 458,
+    "word": "RANGE",
+    "meaning": "rentang",
+    "hint": "Variasi atau batas antara dua nilai.",
+    "level": "sedang"
+  },
+  {
+    "id": 459,
+    "word": "RAPID",
+    "meaning": "cepat",
+    "hint": "Terjadi dengan kecepatan tinggi.",
+    "level": "sedang"
+  },
+  {
+    "id": 460,
+    "word": "RATE",
+    "meaning": "tingkat",
+    "hint": "Jumlah atau kecepatan terjadinya sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 461,
+    "word": "REACH",
+    "meaning": "mencapai",
+    "hint": "Menjangkau atau sampai ke tujuan.",
+    "level": "sedang"
+  },
+  {
+    "id": 462,
+    "word": "REACTION",
+    "meaning": "reaksi",
+    "hint": "Tanggapan terhadap sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 463,
+    "word": "REALISTIC",
+    "meaning": "realistis",
+    "hint": "Berdasarkan kenyataan, bukan imajinasi.",
+    "level": "sedang"
+  },
+  {
+    "id": 464,
+    "word": "RECOVER",
+    "meaning": "pulih",
+    "hint": "Kembali normal setelah sakit atau masalah.",
+    "level": "sedang"
+  },
+  {
+    "id": 465,
+    "word": "RECRUIT",
+    "meaning": "merekrut",
+    "hint": "Mendaftarkan atau mempekerjakan orang baru.",
+    "level": "sedang"
+  },
+  {
+    "id": 466,
+    "word": "REDUCE",
+    "meaning": "mengurangi",
+    "hint": "Membuat lebih kecil atau lebih sedikit.",
+    "level": "sedang"
+  },
+  {
+    "id": 467,
+    "word": "REFORM",
+    "meaning": "reformasi",
+    "hint": "Perubahan untuk memperbaiki sistem.",
+    "level": "sedang"
+  },
+  {
+    "id": 468,
+    "word": "REGISTER",
+    "meaning": "mendaftar",
+    "hint": "Mencatat atau mendaftarkan diri secara resmi.",
+    "level": "sedang"
+  },
+  {
+    "id": 469,
+    "word": "REGULAR",
+    "meaning": "teratur",
+    "hint": "Terjadi dengan pola yang tetap.",
+    "level": "sedang"
+  },
+  {
+    "id": 470,
+    "word": "REJECT",
+    "meaning": "menolak",
+    "hint": "Menolak tawaran atau permintaan.",
+    "level": "sedang"
+  },
+  {
+    "id": 471,
+    "word": "RELATIONSHIP",
+    "meaning": "hubungan",
+    "hint": "Koneksi antara orang atau hal.",
+    "level": "sedang"
+  },
+  {
+    "id": 472,
+    "word": "REPLACE",
+    "meaning": "mengganti",
+    "hint": "Menempatkan sesuatu sebagai pengganti yang lain.",
+    "level": "sedang"
+  },
+  {
+    "id": 473,
+    "word": "REPRESENT",
+    "meaning": "mewakili",
+    "hint": "Berbicara atau bertindak atas nama orang lain.",
+    "level": "sedang"
+  },
+  {
+    "id": 474,
+    "word": "REPRODUCE",
+    "meaning": "mereproduksi",
+    "hint": "Membuat salinan atau menghasilkan keturunan.",
+    "level": "sedang"
+  },
+  {
+    "id": 475,
+    "word": "REPUTATION",
+    "meaning": "reputasi",
+    "hint": "Pandangan umum tentang seseorang atau sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 476,
+    "word": "RESERVATION",
+    "meaning": "reservasi",
+    "hint": "Pemesanan tempat atau layanan.",
+    "level": "sedang"
+  },
+  {
+    "id": 477,
+    "word": "RESPECT",
+    "meaning": "menghormati",
+    "hint": "Menganggap penting dan menghargai.",
+    "level": "sedang"
+  },
+  {
+    "id": 478,
+    "word": "RESPOND",
+    "meaning": "merespons",
+    "hint": "Memberi jawaban atau reaksi.",
+    "level": "sedang"
+  },
+  {
+    "id": 479,
+    "word": "RESTORE",
+    "meaning": "memulihkan",
+    "hint": "Mengembalikan ke kondisi semula.",
+    "level": "sedang"
+  },
+  {
+    "id": 480,
+    "word": "RETAIN",
+    "meaning": "mempertahankan",
+    "hint": "Menjaga agar tetap ada atau tidak hilang.",
+    "level": "sedang"
+  },
+  {
+    "id": 481,
+    "word": "REVEAL",
+    "meaning": "mengungkapkan",
+    "hint": "Menunjukkan sesuatu yang tersembunyi.",
+    "level": "sedang"
+  },
+  {
+    "id": 482,
+    "word": "REVENUE",
+    "meaning": "pendapatan",
+    "hint": "Pemasukan dari bisnis atau investasi.",
+    "level": "sedang"
+  },
+  {
+    "id": 483,
+    "word": "REVIEW",
+    "meaning": "meninjau",
+    "hint": "Melihat kembali atau mengevaluasi.",
+    "level": "sedang"
+  },
+  {
+    "id": 484,
+    "word": "REVOLUTION",
+    "meaning": "revolusi",
+    "hint": "Perubahan besar dan mendasar.",
+    "level": "sedang"
+  },
+  {
+    "id": 485,
+    "word": "SATISFACTION",
+    "meaning": "kepuasan",
+    "hint": "Perasaan puas dan bahagia.",
+    "level": "sedang"
+  },
+  {
+    "id": 486,
+    "word": "SCENARIO",
+    "meaning": "skenario",
+    "hint": "Gambaran tentang kemungkinan masa depan.",
+    "level": "sedang"
+  },
+  {
+    "id": 487,
+    "word": "SCHEDULE",
+    "meaning": "jadwal",
+    "hint": "Rencana waktu untuk kegiatan.",
+    "level": "sedang"
+  },
+  {
+    "id": 488,
+    "word": "SECTOR",
+    "meaning": "sektor",
+    "hint": "Bidang atau bagian dari ekonomi atau masyarakat.",
+    "level": "sedang"
+  },
+  {
+    "id": 489,
+    "word": "SECURE",
+    "meaning": "aman",
+    "hint": "Terlindungi dan bebas dari bahaya.",
+    "level": "sedang"
+  },
+  {
+    "id": 490,
+    "word": "SELECT",
+    "meaning": "memilih",
+    "hint": "Memilih dengan hati-hati.",
+    "level": "sedang"
+  },
+  {
+    "id": 491,
+    "word": "SERIES",
+    "meaning": "seri",
+    "hint": "Beberapa hal yang terjadi secara berurutan.",
+    "level": "sedang"
+  },
+  {
+    "id": 492,
+    "word": "SIGNIFICANCE",
+    "meaning": "signifikansi",
+    "hint": "Pentingnya atau makna dari sesuatu.",
+    "level": "sedang"
+  },
+  {
+    "id": 493,
+    "word": "SIMILARITY",
+    "meaning": "persamaan",
+    "hint": "Kesamaan antara dua atau lebih hal.",
+    "level": "sedang"
+  },
+  {
+    "id": 494,
+    "word": "SOCIETY",
+    "meaning": "masyarakat",
+    "hint": "Kelompok orang yang hidup bersama dalam suatu komunitas.",
+    "level": "sedang"
+  },
+  {
+    "id": 495,
+    "word": "STABILITY",
+    "meaning": "stabilitas",
+    "hint": "Kondisi yang stabil dan tidak berubah.",
+    "level": "sedang"
+  },
+  {
+    "id": 496,
+    "word": "STRATEGIC",
+    "meaning": "strategis",
+    "hint": "Berkaitan dengan strategi jangka panjang.",
+    "level": "sedang"
+  },
+  {
+    "id": 497,
+    "word": "STRUCTURAL",
+    "meaning": "struktural",
+    "hint": "Berkaitan dengan struktur atau susunan.",
+    "level": "sedang"
+  },
+  {
+    "id": 498,
+    "word": "SUBSTANTIAL",
+    "meaning": "substansial",
+    "hint": "Cukup besar, signifikan, atau penting.",
+    "level": "sedang"
+  },
+  {
+    "id": 499,
+    "word": "SUSTAINABLE",
+    "meaning": "berkelanjutan",
+    "hint": "Dapat dipertahankan dalam jangka panjang.",
+    "level": "sedang"
+  },
+  {
+    "id": 500,
+    "word": "TRANSITION",
+    "meaning": "transisi",
+    "hint": "Perubahan dari satu kondisi ke kondisi lainnya.",
+    "level": "sedang"
+  }
+]

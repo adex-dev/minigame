@@ -1,0 +1,71 @@
+@reference "../../index.css";
+.main-game-setup {
+  @apply bg-gradient-to-br from-blue-50 to-purple-50 p-4 min-h-screen flex items-center justify-center;
+}
+.box-main-err {
+  @apply bg-white/90 backdrop-blur-sm rounded-3xl shadow-2xl p-8 text-center w-1/2 h-1/2;
+}
+.icon-warning {
+  @apply text-6xl mb-6;
+}
+.box-main-err > h2 {
+  @apply text-2xl font-bold text-red-600;
+}
+.box-main-err > p {
+  @apply mt-2 text-gray-600;
+}
+.box-main-err > p:nth-last-child(1) {
+  @apply text-sm mt-1 text-gray-500;
+}
+.container-setup{
+    @apply bg-white/90 backdrop-blur-sm rounded-3xl shadow-2xl p-8 space-y-8
+}
+.container-setup-header{
+    @apply text-center;
+}
+.container-setup-header>div{
+    @apply text-6xl mb-4;
+}
+.container-setup-header>h1{
+    @apply text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600;
+}
+  .container-setup-header > p {
+    @apply text-gray-600 mt-2;
+  }
+  .container-level{
+    @apply grid grid-cols-2 gap-6
+  }
+  .container-level > div{
+    @apply gap-6;
+  }
+  .choose-level-label{
+    @apply block text-sm font-semibold text-gray-700;
+  }
+  .choose-level{
+    @apply grid grid-cols-4 gap-3
+  }
+  .button-level{
+    @apply justify-center flex flex-col p-4 rounded-xl font-medium transition-all duration-300 transform hover:scale-105;
+  }
+  .button-level-active{
+    @apply text-white shadow-lg ring-2 ring-white ring-offset-2
+  }
+  .button-level-inactive{
+    @apply bg-gray-100 text-gray-700 hover:bg-gray-200
+  }
+   .button-header{
+    @apply text-xs
+  }
+  .button-level>span:nth-last-child(1){
+    @apply text-xs opacity-75 mt-1
+  }
+
+  .box-question-count{
+    @apply flex justify-between items-center
+  }
+   .box-question-count > label{
+    @apply block text-sm font-semibold text-gray-700
+  }
+  .box-question-count > span {
+    @apply text-xs text-gray-500;
+  }

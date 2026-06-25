@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import AdminPage from './components/AdminPage';
-import wordsData from './data/words.json';
+import wordsData from './data/words_b1.json';
 
 const AdminApp: React.FC = () => {
   const [data, setData] = useState(wordsData);

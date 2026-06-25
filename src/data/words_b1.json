@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "word": "ACTUALLY",
+    "meaning": "sebenarnya",
+    "hint": "Digunakan saat mengungkapkan fakta atau kenyataan yang sebenarnya.",
+    "level": "mudah"
+  },
+  {
+    "id": 2,
+    "word": "ADMIT",
+    "meaning": "mengakui",
+    "hint": "Digunakan saat mengatakan kebenaran meskipun itu memalukan.",
+    "level": "mudah"
+  },
+  {
+    "id": 3,
+    "word": "ADVICE",
+    "meaning": "nasihat",
+    "hint": "Pendapat tentang apa yang sebaiknya dilakukan seseorang.",
+    "level": "mudah"
+  },
+  {
+    "id": 4,
+    "word": "AGREE",
+    "meaning": "setuju",
+    "hint": "Digunakan saat memiliki pendapat yang sama dengan orang lain.",
+    "level": "mudah"
+  },
+  {
+    "id": 5,
+    "word": "ALLOW",
+    "meaning": "mengizinkan",
+    "hint": "Memberi izin atau kebebasan untuk melakukan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 6,
+    "word": "ALTHOUGH",
+    "meaning": "meskipun",
+    "hint": "Digunakan untuk menghubungkan dua kalimat yang bertentangan.",
+    "level": "mudah"
+  },
+  {
+    "id": 7,
+    "word": "ANGRY",
+    "meaning": "marah",
+    "hint": "Perasaan tidak senang karena sesuatu yang tidak adil.",
+    "level": "mudah"
+  },
+  {
+    "id": 8,
+    "word": "APOLOGIZE",
+    "meaning": "meminta maaf",
+    "hint": "Mengatakan maaf setelah melakukan kesalahan.",
+    "level": "mudah"
+  },
+  {
+    "id": 9,
+    "word": "APPOINTMENT",
+    "meaning": "janji temu",
+    "hint": "Kesepakatan untuk bertemu di waktu tertentu.",
+    "level": "mudah"
+  },
+  {
+    "id": 10,
+    "word": "ARRANGE",
+    "meaning": "mengatur",
+    "hint": "Merencanakan atau menyiapkan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 11,
+    "word": "ATTENTION",
+    "meaning": "perhatian",
+    "hint": "Fokus atau konsentrasi terhadap sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 12,
+    "word": "AVOID",
+    "meaning": "menghindari",
+    "hint": "Menjauh atau tidak melakukan sesuatu yang tidak diinginkan.",
+    "level": "mudah"
+  },
+  {
+    "id": 13,
+    "word": "BALANCE",
+    "meaning": "keseimbangan",
+    "hint": "Keadaan di mana semua bagian berada dalam proporsi yang tepat.",
+    "level": "mudah"
+  },
+  {
+    "id": 14,
+    "word": "BECAUSE",
+    "meaning": "karena",
+    "hint": "Digunakan untuk memberikan alasan.",
+    "level": "mudah"
+  },
+  {
+    "id": 15,
+    "word": "BEHAVE",
+    "meaning": "berperilaku",
+    "hint": "Bertindak atau bersikap dengan cara tertentu.",
+    "level": "mudah"
+  },
+  {
+    "id": 16,
+    "word": "BELIEVE",
+    "meaning": "percaya",
+    "hint": "Menerima bahwa sesuatu itu benar.",
+    "level": "mudah"
+  },
+  {
+    "id": 17,
+    "word": "BELONG",
+    "meaning": "milik",
+    "hint": "Menjadi bagian dari sesuatu atau dimiliki oleh seseorang.",
+    "level": "mudah"
+  },
+  {
+    "id": 18,
+    "word": "BENEFIT",
+    "meaning": "manfaat",
+    "hint": "Keuntungan atau hal positif dari sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 19,
+    "word": "BORROW",
+    "meaning": "meminjam",
+    "hint": "Mengambil sesuatu untuk digunakan dan mengembalikannya.",
+    "level": "mudah"
+  },
+  {
+    "id": 20,
+    "word": "BRIEF",
+    "meaning": "singkat",
+    "hint": "Berlangsung dalam waktu yang pendek.",
+    "level": "mudah"
+  },
+  {
+    "id": 21,
+    "word": "BUSY",
+    "meaning": "sibuk",
+    "hint": "Memiliki banyak pekerjaan atau kegiatan.",
+    "level": "mudah"
+  },
+  {
+    "id": 22,
+    "word": "CAREFUL",
+    "meaning": "hati-hati",
+    "hint": "Memberikan perhatian penuh untuk menghindari kesalahan.",
+    "level": "mudah"
+  },
+  {
+    "id": 23,
+    "word": "CELEBRATE",
+    "meaning": "merayakan",
+    "hint": "Melakukan kegiatan khusus untuk memperingati sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 24,
+    "word": "CERTAIN",
+    "meaning": "pasti",
+    "hint": "Yakin atau tidak ragu-ragu tentang sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 25,
+    "word": "CHANCE",
+    "meaning": "kesempatan",
+    "hint": "Peluang untuk melakukan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 26,
+    "word": "CHANGE",
+    "meaning": "berubah",
+    "hint": "Menjadi berbeda dari sebelumnya.",
+    "level": "mudah"
+  },
+  {
+    "id": 27,
+    "word": "CHOOSE",
+    "meaning": "memilih",
+    "hint": "Memutuskan untuk mengambil satu dari beberapa pilihan.",
+    "level": "mudah"
+  },
+  {
+    "id": 28,
+    "word": "CLEAR",
+    "meaning": "jelas",
+    "hint": "Mudah dipahami atau terlihat.",
+    "level": "mudah"
+  },
+  {
+    "id": 29,
+    "word": "COMMON",
+    "meaning": "umum",
+    "hint": "Sering terjadi atau biasa ditemukan.",
+    "level": "mudah"
+  },
+  {
+    "id": 30,
+    "word": "COMPARE",
+    "meaning": "membandingkan",
+    "hint": "Melihat persamaan dan perbedaan antara dua hal.",
+    "level": "mudah"
+  },
+  {
+    "id": 31,
+    "word": "COMPLAIN",
+    "meaning": "mengeluh",
+    "hint": "Mengatakan ketidakpuasan tentang sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 32,
+    "word": "COMPLETE",
+    "meaning": "lengkap",
+    "hint": "Selesai atau sudah mencakup semua bagian.",
+    "level": "mudah"
+  },
+  {
+    "id": 33,
+    "word": "CONCERN",
+    "meaning": "kepedulian",
+    "hint": "Perasaan khawatir atau perhatian tentang sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 34,
+    "word": "CONFIDENT",
+    "meaning": "percaya diri",
+    "hint": "Yakin pada kemampuan diri sendiri.",
+    "level": "mudah"
+  },
+  {
+    "id": 35,
+    "word": "CONFUSE",
+    "meaning": "membingungkan",
+    "hint": "Membuat seseorang tidak mengerti.",
+    "level": "mudah"
+  },
+  {
+    "id": 36,
+    "word": "CONNECT",
+    "meaning": "menghubungkan",
+    "hint": "Membuat hubungan antara dua hal.",
+    "level": "mudah"
+  },
+  {
+    "id": 37,
+    "word": "CONSIDER",
+    "meaning": "mempertimbangkan",
+    "hint": "Berpikir dengan hati-hati tentang sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 38,
+    "word": "CONTINUE",
+    "meaning": "melanjutkan",
+    "hint": "Tetap melakukan sesuatu tanpa berhenti.",
+    "level": "mudah"
+  },
+  {
+    "id": 39,
+    "word": "CONTROL",
+    "meaning": "mengendalikan",
+    "hint": "Memiliki kekuatan untuk mengarahkan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 40,
+    "word": "CONVINCE",
+    "meaning": "meyakinkan",
+    "hint": "Membuat seseorang percaya atau setuju.",
+    "level": "mudah"
+  },
+  {
+    "id": 41,
+    "word": "COUNT",
+    "meaning": "menghitung",
+    "hint": "Menentukan jumlah dengan angka.",
+    "level": "mudah"
+  },
+  {
+    "id": 42,
+    "word": "COURAGE",
+    "meaning": "keberanian",
+    "hint": "Kemampuan untuk menghadapi rasa takut.",
+    "level": "mudah"
+  },
+  {
+    "id": 43,
+    "word": "COVER",
+    "meaning": "menutupi",
+    "hint": "Meletakkan sesuatu di atas permukaan.",
+    "level": "mudah"
+  },
+  {
+    "id": 44,
+    "word": "CREATE",
+    "meaning": "menciptakan",
+    "hint": "Membuat sesuatu yang baru.",
+    "level": "mudah"
+  },
+  {
+    "id": 45,
+    "word": "CURRENT",
+    "meaning": "saat ini",
+    "hint": "Terjadi atau ada pada waktu sekarang.",
+    "level": "mudah"
+  },
+  {
+    "id": 46,
+    "word": "CUSTOMER",
+    "meaning": "pelanggan",
+    "hint": "Orang yang membeli barang atau jasa.",
+    "level": "mudah"
+  },
+  {
+    "id": 47,
+    "word": "DAMAGE",
+    "meaning": "kerusakan",
+    "hint": "Kondisi rusak atau tidak berfungsi dengan baik.",
+    "level": "mudah"
+  },
+  {
+    "id": 48,
+    "word": "DANGEROUS",
+    "meaning": "berbahaya",
+    "hint": "Dapat menyebabkan cedera atau kerugian.",
+    "level": "mudah"
+  },
+  {
+    "id": 49,
+    "word": "DEAL",
+    "meaning": "kesepakatan",
+    "hint": "Persetujuan antara dua pihak.",
+    "level": "mudah"
+  },
+  {
+    "id": 50,
+    "word": "DECIDE",
+    "meaning": "memutuskan",
+    "hint": "Membuat pilihan setelah berpikir.",
+    "level": "mudah"
+  },
+  {
+    "id": 51,
+    "word": "DEFEND",
+    "meaning": "membela",
+    "hint": "Melindungi dari serangan atau kritik.",
+    "level": "mudah"
+  },
+  {
+    "id": 52,
+    "word": "DEFINE",
+    "meaning": "mendefinisikan",
+    "hint": "Menjelaskan arti atau makna sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 53,
+    "word": "DELAY",
+    "meaning": "menunda",
+    "hint": "Membuat sesuatu terjadi lebih lambat.",
+    "level": "mudah"
+  },
+  {
+    "id": 54,
+    "word": "DELIVER",
+    "meaning": "mengirimkan",
+    "hint": "Membawa barang ke tempat yang dituju.",
+    "level": "mudah"
+  },
+  {
+    "id": 55,
+    "word": "DEMAND",
+    "meaning": "permintaan",
+    "hint": "Keinginan yang kuat akan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 56,
+    "word": "DESERVE",
+    "meaning": "layak",
+    "hint": "Pantas menerima sesuatu karena usaha atau tindakan.",
+    "level": "mudah"
+  },
+  {
+    "id": 57,
+    "word": "DETAIL",
+    "meaning": "detail",
+    "hint": "Informasi kecil yang spesifik.",
+    "level": "mudah"
+  },
+  {
+    "id": 58,
+    "word": "DETERMINE",
+    "meaning": "menentukan",
+    "hint": "Membuat keputusan dengan pasti.",
+    "level": "mudah"
+  },
+  {
+    "id": 59,
+    "word": "DEVELOP",
+    "meaning": "mengembangkan",
+    "hint": "Membuat sesuatu menjadi lebih baik.",
+    "level": "mudah"
+  },
+  {
+    "id": 60,
+    "word": "DIFFERENT",
+    "meaning": "berbeda",
+    "hint": "Tidak sama dengan yang lain.",
+    "level": "mudah"
+  },
+  {
+    "id": 61,
+    "word": "DIFFICULT",
+    "meaning": "sulit",
+    "hint": "Membutuhkan banyak usaha untuk dilakukan.",
+    "level": "mudah"
+  },
+  {
+    "id": 62,
+    "word": "DIRECT",
+    "meaning": "langsung",
+    "hint": "Tanpa perantara atau belokan.",
+    "level": "mudah"
+  },
+  {
+    "id": 63,
+    "word": "DISAPPEAR",
+    "meaning": "menghilang",
+    "hint": "Tidak terlihat atau tidak ada lagi.",
+    "level": "mudah"
+  },
+  {
+    "id": 64,
+    "word": "DISCOVER",
+    "meaning": "menemukan",
+    "hint": "Mengetahui atau menemukan sesuatu untuk pertama kalinya.",
+    "level": "mudah"
+  },
+  {
+    "id": 65,
+    "word": "DISCUSS",
+    "meaning": "mendiskusikan",
+    "hint": "Berbicara tentang suatu topik bersama.",
+    "level": "mudah"
+  },
+  {
+    "id": 66,
+    "word": "DISTANCE",
+    "meaning": "jarak",
+    "hint": "Ukuran ruang antara dua titik.",
+    "level": "mudah"
+  },
+  {
+    "id": 67,
+    "word": "DIVIDE",
+    "meaning": "membagi",
+    "hint": "Memisahkan menjadi beberapa bagian.",
+    "level": "mudah"
+  },
+  {
+    "id": 68,
+    "word": "DOUBT",
+    "meaning": "keraguan",
+    "hint": "Perasaan tidak yakin tentang sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 69,
+    "word": "DRAW",
+    "meaning": "menggambar",
+    "hint": "Membuat gambar dengan alat tulis.",
+    "level": "mudah"
+  },
+  {
+    "id": 70,
+    "word": "DREAM",
+    "meaning": "mimpi",
+    "hint": "Pengalaman saat tidur atau harapan masa depan.",
+    "level": "mudah"
+  },
+  {
+    "id": 71,
+    "word": "DRESS",
+    "meaning": "berpakaian",
+    "hint": "Memakai pakaian di tubuh.",
+    "level": "mudah"
+  },
+  {
+    "id": 72,
+    "word": "DRINK",
+    "meaning": "minum",
+    "hint": "Memasukkan cairan ke dalam mulut.",
+    "level": "mudah"
+  },
+  {
+    "id": 73,
+    "word": "DRIVE",
+    "meaning": "mengemudi",
+    "hint": "Mengoperasikan kendaraan.",
+    "level": "mudah"
+  },
+  {
+    "id": 74,
+    "word": "DURING",
+    "meaning": "selama",
+    "hint": "Sepanjang waktu tertentu.",
+    "level": "mudah"
+  },
+  {
+    "id": 75,
+    "word": "EARN",
+    "meaning": "mendapatkan",
+    "hint": "Menerima uang sebagai imbalan kerja.",
+    "level": "mudah"
+  },
+  {
+    "id": 76,
+    "word": "EDUCATION",
+    "meaning": "pendidikan",
+    "hint": "Proses belajar dan mengajar.",
+    "level": "mudah"
+  },
+  {
+    "id": 77,
+    "word": "EFFECT",
+    "meaning": "efek",
+    "hint": "Hasil atau perubahan dari suatu tindakan.",
+    "level": "mudah"
+  },
+  {
+    "id": 78,
+    "word": "EFFORT",
+    "meaning": "usaha",
+    "hint": "Kerja keras untuk mencapai tujuan.",
+    "level": "mudah"
+  },
+  {
+    "id": 79,
+    "word": "ELSE",
+    "meaning": "lain",
+    "hint": "Selain yang sudah disebutkan.",
+    "level": "mudah"
+  },
+  {
+    "id": 80,
+    "word": "EMOTION",
+    "meaning": "emosi",
+    "hint": "Perasaan seperti senang, sedih, atau marah.",
+    "level": "mudah"
+  },
+  {
+    "id": 81,
+    "word": "ENCOURAGE",
+    "meaning": "mendorong",
+    "hint": "Memberi semangat kepada seseorang.",
+    "level": "mudah"
+  },
+  {
+    "id": 82,
+    "word": "ENJOY",
+    "meaning": "menikmati",
+    "hint": "Mendapatkan kesenangan dari sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 83,
+    "word": "ENOUGH",
+    "meaning": "cukup",
+    "hint": "Sebanyak yang dibutuhkan.",
+    "level": "mudah"
+  },
+  {
+    "id": 84,
+    "word": "ENTER",
+    "meaning": "masuk",
+    "hint": "Pergi ke dalam suatu tempat.",
+    "level": "mudah"
+  },
+  {
+    "id": 85,
+    "word": "ENVIRONMENT",
+    "meaning": "lingkungan",
+    "hint": "Kondisi alam di sekitar kita.",
+    "level": "mudah"
+  },
+  {
+    "id": 86,
+    "word": "EQUAL",
+    "meaning": "sama",
+    "hint": "Memiliki ukuran atau nilai yang sama.",
+    "level": "mudah"
+  },
+  {
+    "id": 87,
+    "word": "ESCAPE",
+    "meaning": "melarikan diri",
+    "hint": "Keluar dari situasi berbahaya.",
+    "level": "mudah"
+  },
+  {
+    "id": 88,
+    "word": "ESTABLISH",
+    "meaning": "mendirikan",
+    "hint": "Membuat atau memulai sesuatu secara resmi.",
+    "level": "mudah"
+  },
+  {
+    "id": 89,
+    "word": "EVENT",
+    "meaning": "acara",
+    "hint": "Sesuatu yang terjadi pada waktu tertentu.",
+    "level": "mudah"
+  },
+  {
+    "id": 90,
+    "word": "EXACT",
+    "meaning": "tepat",
+    "hint": "Benar dan akurat.",
+    "level": "mudah"
+  },
+  {
+    "id": 91,
+    "word": "EXAMINE",
+    "meaning": "memeriksa",
+    "hint": "Melihat dengan cermat.",
+    "level": "mudah"
+  },
+  {
+    "id": 92,
+    "word": "EXCEPT",
+    "meaning": "kecuali",
+    "hint": "Tidak termasuk sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 93,
+    "word": "EXCHANGE",
+    "meaning": "pertukaran",
+    "hint": "Memberi dan menerima sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 94,
+    "word": "EXCITE",
+    "meaning": "menyenangkan",
+    "hint": "Membangkitkan semangat atau antusiasme.",
+    "level": "mudah"
+  },
+  {
+    "id": 95,
+    "word": "EXCUSE",
+    "meaning": "maaf",
+    "hint": "Alasan untuk tidak melakukan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 96,
+    "word": "EXIST",
+    "meaning": "ada",
+    "hint": "Berada di dunia nyata.",
+    "level": "mudah"
+  },
+  {
+    "id": 97,
+    "word": "EXPAND",
+    "meaning": "memperluas",
+    "hint": "Menjadi lebih besar.",
+    "level": "mudah"
+  },
+  {
+    "id": 98,
+    "word": "EXPECT",
+    "meaning": "mengharapkan",
+    "hint": "Percaya bahwa sesuatu akan terjadi.",
+    "level": "mudah"
+  },
+  {
+    "id": 99,
+    "word": "EXPERIENCE",
+    "meaning": "pengalaman",
+    "hint": "Pengetahuan dari melakukan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 100,
+    "word": "EXPLAIN",
+    "meaning": "menjelaskan",
+    "hint": "Membuat sesuatu lebih mudah dipahami.",
+    "level": "mudah"
+  },
+  {
+    "id": 101,
+    "word": "EXPLORE",
+    "meaning": "menjelajah",
+    "hint": "Bepergian untuk menemukan tempat baru.",
+    "level": "mudah"
+  },
+  {
+    "id": 102,
+    "word": "EXTEND",
+    "meaning": "memperpanjang",
+    "hint": "Membuat menjadi lebih panjang.",
+    "level": "mudah"
+  },
+  {
+    "id": 103,
+    "word": "EXTRA",
+    "meaning": "ekstra",
+    "hint": "Lebih dari yang diperlukan.",
+    "level": "mudah"
+  },
+  {
+    "id": 104,
+    "word": "FACT",
+    "meaning": "fakta",
+    "hint": "Sesuatu yang benar dan terbukti.",
+    "level": "mudah"
+  },
+  {
+    "id": 105,
+    "word": "FAIR",
+    "meaning": "adil",
+    "hint": "Perlakuan yang sama dan tidak berat sebelah.",
+    "level": "mudah"
+  },
+  {
+    "id": 106,
+    "word": "FAITH",
+    "meaning": "iman",
+    "hint": "Kepercayaan yang kuat pada sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 107,
+    "word": "FAVORITE",
+    "meaning": "favorit",
+    "hint": "Yang paling disukai.",
+    "level": "mudah"
+  },
+  {
+    "id": 108,
+    "word": "FEATURE",
+    "meaning": "fitur",
+    "hint": "Karakteristik atau bagian penting.",
+    "level": "mudah"
+  },
+  {
+    "id": 109,
+    "word": "FEEL",
+    "meaning": "merasa",
+    "hint": "Mengalami emosi atau sensasi fisik.",
+    "level": "mudah"
+  },
+  {
+    "id": 110,
+    "word": "FEW",
+    "meaning": "sedikit",
+    "hint": "Jumlah yang kecil.",
+    "level": "mudah"
+  },
+  {
+    "id": 111,
+    "word": "FIGURE",
+    "meaning": "angka",
+    "hint": "Simbol angka atau bentuk tubuh.",
+    "level": "mudah"
+  },
+  {
+    "id": 112,
+    "word": "FINAL",
+    "meaning": "akhir",
+    "hint": "Terjadi di bagian paling terakhir.",
+    "level": "mudah"
+  },
+  {
+    "id": 113,
+    "word": "FINANCE",
+    "meaning": "keuangan",
+    "hint": "Berkaitan dengan uang.",
+    "level": "mudah"
+  },
+  {
+    "id": 114,
+    "word": "FIND",
+    "meaning": "menemukan",
+    "hint": "Bertemu atau melihat sesuatu yang dicari.",
+    "level": "mudah"
+  },
+  {
+    "id": 115,
+    "word": "FIX",
+    "meaning": "memperbaiki",
+    "hint": "Memperbaiki sesuatu yang rusak.",
+    "level": "mudah"
+  },
+  {
+    "id": 116,
+    "word": "FLIGHT",
+    "meaning": "penerbangan",
+    "hint": "Perjalanan dengan pesawat.",
+    "level": "mudah"
+  },
+  {
+    "id": 117,
+    "word": "FOCUS",
+    "meaning": "fokus",
+    "hint": "Memusatkan perhatian pada satu hal.",
+    "level": "mudah"
+  },
+  {
+    "id": 118,
+    "word": "FOLLOW",
+    "meaning": "mengikuti",
+    "hint": "Pergi setelah seseorang atau sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 119,
+    "word": "FORCE",
+    "meaning": "kekuatan",
+    "hint": "Tenaga untuk melakukan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 120,
+    "word": "FORGET",
+    "meaning": "lupa",
+    "hint": "Tidak ingat lagi.",
+    "level": "mudah"
+  },
+  {
+    "id": 121,
+    "word": "FORMAL",
+    "meaning": "formal",
+    "hint": "Resmi dan sesuai aturan.",
+    "level": "mudah"
+  },
+  {
+    "id": 122,
+    "word": "FORTUNATE",
+    "meaning": "beruntung",
+    "hint": "Mendapat hasil yang baik.",
+    "level": "mudah"
+  },
+  {
+    "id": 123,
+    "word": "FRESH",
+    "meaning": "segar",
+    "hint": "Baru dan belum kadaluarsa.",
+    "level": "mudah"
+  },
+  {
+    "id": 124,
+    "word": "FRIENDLY",
+    "meaning": "ramah",
+    "hint": "Bersikap baik dan menyenangkan.",
+    "level": "mudah"
+  },
+  {
+    "id": 125,
+    "word": "FRIGHTEN",
+    "meaning": "menakutkan",
+    "hint": "Membuat seseorang takut.",
+    "level": "mudah"
+  },
+  {
+    "id": 126,
+    "word": "FULL",
+    "meaning": "penuh",
+    "hint": "Tidak ada ruang kosong.",
+    "level": "mudah"
+  },
+  {
+    "id": 127,
+    "word": "FUNCTION",
+    "meaning": "fungsi",
+    "hint": "Tujuan atau kegunaan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 128,
+    "word": "GAIN",
+    "meaning": "mendapatkan",
+    "hint": "Memperoleh sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 129,
+    "word": "GENERAL",
+    "meaning": "umum",
+    "hint": "Mencakup semua atau sebagian besar.",
+    "level": "mudah"
+  },
+  {
+    "id": 130,
+    "word": "GENTLE",
+    "meaning": "lembut",
+    "hint": "Halus dan tidak kasar.",
+    "level": "mudah"
+  },
+  {
+    "id": 131,
+    "word": "GIFT",
+    "meaning": "hadiah",
+    "hint": "Sesuatu yang diberikan tanpa dibayar.",
+    "level": "mudah"
+  },
+  {
+    "id": 132,
+    "word": "GIVE",
+    "meaning": "memberi",
+    "hint": "Menyerahkan sesuatu kepada orang lain.",
+    "level": "mudah"
+  },
+  {
+    "id": 133,
+    "word": "GRAB",
+    "meaning": "meraih",
+    "hint": "Mengambil dengan cepat.",
+    "level": "mudah"
+  },
+  {
+    "id": 134,
+    "word": "GRADE",
+    "meaning": "nilai",
+    "hint": "Skor atau peringkat dalam belajar.",
+    "level": "mudah"
+  },
+  {
+    "id": 135,
+    "word": "GRADUATE",
+    "meaning": "lulus",
+    "hint": "Menyelesaikan studi di sekolah atau universitas.",
+    "level": "mudah"
+  },
+  {
+    "id": 136,
+    "word": "GREEDY",
+    "meaning": "tamak",
+    "hint": "Ingin lebih dari yang dibutuhkan.",
+    "level": "mudah"
+  },
+  {
+    "id": 137,
+    "word": "GROW",
+    "meaning": "tumbuh",
+    "hint": "Menjadi lebih besar.",
+    "level": "mudah"
+  },
+  {
+    "id": 138,
+    "word": "GUARANTEE",
+    "meaning": "jaminan",
+    "hint": "Janji bahwa sesuatu akan terjadi.",
+    "level": "mudah"
+  },
+  {
+    "id": 139,
+    "word": "GUARD",
+    "meaning": "menjaga",
+    "hint": "Melindungi dari bahaya.",
+    "level": "mudah"
+  },
+  {
+    "id": 140,
+    "word": "GUESS",
+    "meaning": "menebak",
+    "hint": "Memberi jawaban tanpa pasti.",
+    "level": "mudah"
+  },
+  {
+    "id": 141,
+    "word": "GUILTY",
+    "meaning": "bersalah",
+    "hint": "Telah melakukan kesalahan atau kejahatan.",
+    "level": "mudah"
+  },
+  {
+    "id": 142,
+    "word": "HABIT",
+    "meaning": "kebiasaan",
+    "hint": "Hal yang sering dilakukan tanpa berpikir.",
+    "level": "mudah"
+  },
+  {
+    "id": 143,
+    "word": "HANDLE",
+    "meaning": "menangani",
+    "hint": "Mengelola atau mengurus sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 144,
+    "word": "HAPPEN",
+    "meaning": "terjadi",
+    "hint": "Berlangsung atau ada peristiwa.",
+    "level": "mudah"
+  },
+  {
+    "id": 145,
+    "word": "HARDLY",
+    "meaning": "hampir tidak",
+    "hint": "Sangat jarang atau nyaris tidak.",
+    "level": "mudah"
+  },
+  {
+    "id": 146,
+    "word": "HARSH",
+    "meaning": "keras",
+    "hint": "Kasar dan tidak lembut.",
+    "level": "mudah"
+  },
+  {
+    "id": 147,
+    "word": "HASTE",
+    "meaning": "terburu-buru",
+    "hint": "Bergerak dengan cepat.",
+    "level": "mudah"
+  },
+  {
+    "id": 148,
+    "word": "HEALTHY",
+    "meaning": "sehat",
+    "hint": "Bebas dari penyakit.",
+    "level": "mudah"
+  },
+  {
+    "id": 149,
+    "word": "HONEST",
+    "meaning": "jujur",
+    "hint": "Selalu mengatakan kebenaran.",
+    "level": "mudah"
+  },
+  {
+    "id": 150,
+    "word": "HOPEFUL",
+    "meaning": "berharap",
+    "hint": "Percaya bahwa hal baik akan terjadi.",
+    "level": "mudah"
+  },
+  {
+    "id": 151,
+    "word": "HURRY",
+    "meaning": "bergegas",
+    "hint": "Melakukan sesuatu dengan cepat.",
+    "level": "mudah"
+  },
+  {
+    "id": 152,
+    "word": "IDEAL",
+    "meaning": "ideal",
+    "hint": "Sempurna atau terbaik.",
+    "level": "mudah"
+  },
+  {
+    "id": 153,
+    "word": "IDENTIFY",
+    "meaning": "mengidentifikasi",
+    "hint": "Mengenali siapa atau apa sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 154,
+    "word": "IGNORE",
+    "meaning": "mengabaikan",
+    "hint": "Sengaja tidak memperhatikan.",
+    "level": "mudah"
+  },
+  {
+    "id": 155,
+    "word": "IMAGINE",
+    "meaning": "membayangkan",
+    "hint": "Memikirkan sesuatu dalam pikiran.",
+    "level": "mudah"
+  },
+  {
+    "id": 156,
+    "word": "IMMEDIATE",
+    "meaning": "segera",
+    "hint": "Terjadi tanpa penundaan.",
+    "level": "mudah"
+  },
+  {
+    "id": 157,
+    "word": "IMPORTANT",
+    "meaning": "penting",
+    "hint": "Memiliki nilai atau pengaruh besar.",
+    "level": "mudah"
+  },
+  {
+    "id": 158,
+    "word": "IMPROVE",
+    "meaning": "memperbaiki",
+    "hint": "Membuat menjadi lebih baik.",
+    "level": "mudah"
+  },
+  {
+    "id": 159,
+    "word": "INCLUDE",
+    "meaning": "termasuk",
+    "hint": "Memiliki atau memasukkan sebagai bagian.",
+    "level": "mudah"
+  },
+  {
+    "id": 160,
+    "word": "INCOME",
+    "meaning": "pendapatan",
+    "hint": "Uang yang diterima dari pekerjaan.",
+    "level": "mudah"
+  },
+  {
+    "id": 161,
+    "word": "INCREASE",
+    "meaning": "meningkat",
+    "hint": "Bertambah dalam jumlah.",
+    "level": "mudah"
+  },
+  {
+    "id": 162,
+    "word": "INDIVIDUAL",
+    "meaning": "individu",
+    "hint": "Satu orang atau sesuatu yang unik.",
+    "level": "mudah"
+  },
+  {
+    "id": 163,
+    "word": "INFLUENCE",
+    "meaning": "pengaruh",
+    "hint": "Kemampuan untuk memengaruhi.",
+    "level": "mudah"
+  },
+  {
+    "id": 164,
+    "word": "INFORM",
+    "meaning": "memberi tahu",
+    "hint": "Menyampaikan informasi kepada seseorang.",
+    "level": "mudah"
+  },
+  {
+    "id": 165,
+    "word": "INITIAL",
+    "meaning": "awal",
+    "hint": "Terjadi di permulaan.",
+    "level": "mudah"
+  },
+  {
+    "id": 166,
+    "word": "INJURE",
+    "meaning": "melukai",
+    "hint": "Menyebabkan cedera fisik.",
+    "level": "mudah"
+  },
+  {
+    "id": 167,
+    "word": "INNOVATION",
+    "meaning": "inovasi",
+    "hint": "Ide atau metode baru.",
+    "level": "mudah"
+  },
+  {
+    "id": 168,
+    "word": "INSPECT",
+    "meaning": "memeriksa",
+    "hint": "Melihat dengan teliti.",
+    "level": "mudah"
+  },
+  {
+    "id": 169,
+    "word": "INSPIRE",
+    "meaning": "menginspirasi",
+    "hint": "Memberi ide atau motivasi.",
+    "level": "mudah"
+  },
+  {
+    "id": 170,
+    "word": "INSTEAD",
+    "meaning": "sebagai gantinya",
+    "hint": "Sebagai alternatif dari sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 171,
+    "word": "INTEGRATE",
+    "meaning": "mengintegrasikan",
+    "hint": "Menggabungkan menjadi kesatuan.",
+    "level": "mudah"
+  },
+  {
+    "id": 172,
+    "word": "INTEND",
+    "meaning": "berniat",
+    "hint": "Merencanakan atau menginginkan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 173,
+    "word": "INTEREST",
+    "meaning": "ketertarikan",
+    "hint": "Perhatian terhadap sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 174,
+    "word": "INTERRUPT",
+    "meaning": "menyela",
+    "hint": "Menghentikan seseorang yang sedang berbicara.",
+    "level": "mudah"
+  },
+  {
+    "id": 175,
+    "word": "INTERVIEW",
+    "meaning": "wawancara",
+    "hint": "Percakapan untuk mendapatkan informasi.",
+    "level": "mudah"
+  },
+  {
+    "id": 176,
+    "word": "INVOLVE",
+    "meaning": "melibatkan",
+    "hint": "Mencakup atau membutuhkan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 177,
+    "word": "JOIN",
+    "meaning": "bergabung",
+    "hint": "Menjadi bagian dari kelompok.",
+    "level": "mudah"
+  },
+  {
+    "id": 178,
+    "word": "JUDGE",
+    "meaning": "menilai",
+    "hint": "Membentuk pendapat tentang sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 179,
+    "word": "JUSTIFY",
+    "meaning": "membenarkan",
+    "hint": "Memberikan alasan untuk sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 180,
+    "word": "KEEP",
+    "meaning": "menjaga",
+    "hint": "Mempertahankan atau menyimpan.",
+    "level": "mudah"
+  },
+  {
+    "id": 181,
+    "word": "KIND",
+    "meaning": "baik",
+    "hint": "Ramah dan perhatian.",
+    "level": "mudah"
+  },
+  {
+    "id": 182,
+    "word": "KNOWLEDGE",
+    "meaning": "pengetahuan",
+    "hint": "Informasi dan pemahaman tentang sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 183,
+    "word": "LACK",
+    "meaning": "kekurangan",
+    "hint": "Tidak memiliki cukup sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 184,
+    "word": "LAW",
+    "meaning": "hukum",
+    "hint": "Aturan yang harus dipatuhi masyarakat.",
+    "level": "mudah"
+  },
+  {
+    "id": 185,
+    "word": "LEAD",
+    "meaning": "memimpin",
+    "hint": "Mengarahkan atau memandu.",
+    "level": "mudah"
+  },
+  {
+    "id": 186,
+    "word": "LEARN",
+    "meaning": "belajar",
+    "hint": "Memperoleh pengetahuan baru.",
+    "level": "mudah"
+  },
+  {
+    "id": 187,
+    "word": "LEGAL",
+    "meaning": "legal",
+    "hint": "Sesuai dengan hukum.",
+    "level": "mudah"
+  },
+  {
+    "id": 188,
+    "word": "LEND",
+    "meaning": "meminjamkan",
+    "hint": "Memberikan sesuatu untuk sementara.",
+    "level": "mudah"
+  },
+  {
+    "id": 189,
+    "word": "LEVEL",
+    "meaning": "tingkat",
+    "hint": "Posisi atau ketinggian relatif.",
+    "level": "mudah"
+  },
+  {
+    "id": 190,
+    "word": "LIMIT",
+    "meaning": "batas",
+    "hint": "Titik di mana sesuatu tidak bisa lebih jauh.",
+    "level": "mudah"
+  },
+  {
+    "id": 191,
+    "word": "LISTEN",
+    "meaning": "mendengarkan",
+    "hint": "Memperhatikan suara atau pembicaraan.",
+    "level": "mudah"
+  },
+  {
+    "id": 192,
+    "word": "LOCAL",
+    "meaning": "lokal",
+    "hint": "Berasal dari daerah tertentu.",
+    "level": "mudah"
+  },
+  {
+    "id": 193,
+    "word": "LONELY",
+    "meaning": "kesepian",
+    "hint": "Merasa sendirian dan sedih.",
+    "level": "mudah"
+  },
+  {
+    "id": 194,
+    "word": "LOSE",
+    "meaning": "kehilangan",
+    "hint": "Tidak memiliki lagi sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 195,
+    "word": "LOVE",
+    "meaning": "cinta",
+    "hint": "Perasaan sayang yang kuat.",
+    "level": "mudah"
+  },
+  {
+    "id": 196,
+    "word": "LUCK",
+    "meaning": "keberuntungan",
+    "hint": "Peristiwa baik yang tidak terduga.",
+    "level": "mudah"
+  },
+  {
+    "id": 197,
+    "word": "MAJOR",
+    "meaning": "utama",
+    "hint": "Lebih besar atau lebih penting.",
+    "level": "mudah"
+  },
+  {
+    "id": 198,
+    "word": "MANAGE",
+    "meaning": "mengelola",
+    "hint": "Mengurus atau mengendalikan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 199,
+    "word": "MATTER",
+    "meaning": "masalah",
+    "hint": "Hal atau situasi yang penting.",
+    "level": "mudah"
+  },
+  {
+    "id": 200,
+    "word": "MEAN",
+    "meaning": "berarti",
+    "hint": "Memiliki makna atau maksud tertentu.",
+    "level": "mudah"
+  },
+  {
+    "id": 201,
+    "word": "MEASURE",
+    "meaning": "mengukur",
+    "hint": "Menentukan ukuran atau jumlah.",
+    "level": "mudah"
+  },
+  {
+    "id": 202,
+    "word": "MEDICAL",
+    "meaning": "medis",
+    "hint": "Berkaitan dengan kesehatan.",
+    "level": "mudah"
+  },
+  {
+    "id": 203,
+    "word": "MEMORY",
+    "meaning": "ingatan",
+    "hint": "Kemampuan untuk mengingat.",
+    "level": "mudah"
+  },
+  {
+    "id": 204,
+    "word": "MENTION",
+    "meaning": "menyebutkan",
+    "hint": "Mengatakan sesuatu secara singkat.",
+    "level": "mudah"
+  },
+  {
+    "id": 205,
+    "word": "METHOD",
+    "meaning": "metode",
+    "hint": "Cara melakukan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 206,
+    "word": "MIND",
+    "meaning": "pikiran",
+    "hint": "Bagian tubuh yang berpikir dan merasakan.",
+    "level": "mudah"
+  },
+  {
+    "id": 207,
+    "word": "MINOR",
+    "meaning": "kecil",
+    "hint": "Tidak besar atau penting.",
+    "level": "mudah"
+  },
+  {
+    "id": 208,
+    "word": "MISTAKE",
+    "meaning": "kesalahan",
+    "hint": "Tindakan yang salah.",
+    "level": "mudah"
+  },
+  {
+    "id": 209,
+    "word": "MIX",
+    "meaning": "mencampur",
+    "hint": "Menggabungkan beberapa hal.",
+    "level": "mudah"
+  },
+  {
+    "id": 210,
+    "word": "MOMENT",
+    "meaning": "momen",
+    "hint": "Waktu yang singkat.",
+    "level": "mudah"
+  },
+  {
+    "id": 211,
+    "word": "MONEY",
+    "meaning": "uang",
+    "hint": "Alat tukar dalam bentuk koin atau kertas.",
+    "level": "mudah"
+  },
+  {
+    "id": 212,
+    "word": "MONTH",
+    "meaning": "bulan",
+    "hint": "Periode waktu sekitar 30 hari.",
+    "level": "mudah"
+  },
+  {
+    "id": 213,
+    "word": "MORE",
+    "meaning": "lebih",
+    "hint": "Dalam jumlah yang lebih besar.",
+    "level": "mudah"
+  },
+  {
+    "id": 214,
+    "word": "MORNING",
+    "meaning": "pagi",
+    "hint": "Waktu antara matahari terbit dan siang.",
+    "level": "mudah"
+  },
+  {
+    "id": 215,
+    "word": "MOST",
+    "meaning": "paling",
+    "hint": "Dalam jumlah atau derajat terbesar.",
+    "level": "mudah"
+  },
+  {
+    "id": 216,
+    "word": "MOVE",
+    "meaning": "bergerak",
+    "hint": "Berpindah dari satu tempat ke tempat lain.",
+    "level": "mudah"
+  },
+  {
+    "id": 217,
+    "word": "MUSIC",
+    "meaning": "musik",
+    "hint": "Suara atau nada yang teratur dan indah.",
+    "level": "mudah"
+  },
+  {
+    "id": 218,
+    "word": "MUST",
+    "meaning": "harus",
+    "hint": "Menunjukkan kewajiban atau keharusan.",
+    "level": "mudah"
+  },
+  {
+    "id": 219,
+    "word": "NATURE",
+    "meaning": "alam",
+    "hint": "Dunia fisik dan makhluk hidup di dalamnya.",
+    "level": "mudah"
+  },
+  {
+    "id": 220,
+    "word": "NEED",
+    "meaning": "membutuhkan",
+    "hint": "Memerlukan sesuatu untuk bertahan atau berfungsi.",
+    "level": "mudah"
+  },
+  {
+    "id": 221,
+    "word": "NEGATIVE",
+    "meaning": "negatif",
+    "hint": "Buruk atau tidak menguntungkan.",
+    "level": "mudah"
+  },
+  {
+    "id": 222,
+    "word": "NEITHER",
+    "meaning": "tidak juga",
+    "hint": "Bukan salah satu dari dua hal.",
+    "level": "mudah"
+  },
+  {
+    "id": 223,
+    "word": "NEVER",
+    "meaning": "tidak pernah",
+    "hint": "Pada waktu tidak sama sekali.",
+    "level": "mudah"
+  },
+  {
+    "id": 224,
+    "word": "NICE",
+    "meaning": "baik",
+    "hint": "Menyenangkan atau baik.",
+    "level": "mudah"
+  },
+  {
+    "id": 225,
+    "word": "NORMAL",
+    "meaning": "normal",
+    "hint": "Biasa dan sesuai dengan yang diharapkan.",
+    "level": "mudah"
+  },
+  {
+    "id": 226,
+    "word": "NORTH",
+    "meaning": "utara",
+    "hint": "Arah yang berlawanan dengan selatan.",
+    "level": "mudah"
+  },
+  {
+    "id": 227,
+    "word": "NOTICE",
+    "meaning": "memperhatikan",
+    "hint": "Melihat atau menyadari sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 228,
+    "word": "NOVEL",
+    "meaning": "novel",
+    "hint": "Buku cerita panjang fiksi.",
+    "level": "mudah"
+  },
+  {
+    "id": 229,
+    "word": "NUMBER",
+    "meaning": "nomor",
+    "hint": "Simbol yang menunjukkan jumlah.",
+    "level": "mudah"
+  },
+  {
+    "id": 230,
+    "word": "OBJECT",
+    "meaning": "objek",
+    "hint": "Benda yang dapat dilihat dan disentuh.",
+    "level": "mudah"
+  },
+  {
+    "id": 231,
+    "word": "OBSERVE",
+    "meaning": "mengamati",
+    "hint": "Melihat dengan perhatian.",
+    "level": "mudah"
+  },
+  {
+    "id": 232,
+    "word": "OBVIOUS",
+    "meaning": "jelas",
+    "hint": "Sangat mudah dilihat atau dipahami.",
+    "level": "mudah"
+  },
+  {
+    "id": 233,
+    "word": "OCCASION",
+    "meaning": "kesempatan",
+    "hint": "Waktu atau peristiwa tertentu.",
+    "level": "mudah"
+  },
+  {
+    "id": 234,
+    "word": "OFFER",
+    "meaning": "menawarkan",
+    "hint": "Memberi kesempatan untuk menerima sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 235,
+    "word": "OFFICIAL",
+    "meaning": "resmi",
+    "hint": "Dilakukan oleh pihak yang berwenang.",
+    "level": "mudah"
+  },
+  {
+    "id": 236,
+    "word": "OF",
+    "meaning": "dari",
+    "hint": "Menunjukkan hubungan kepemilikan atau asal.",
+    "level": "mudah"
+  },
+  {
+    "id": 237,
+    "word": "ONCE",
+    "meaning": "sekali",
+    "hint": "Satu kali saja.",
+    "level": "mudah"
+  },
+  {
+    "id": 238,
+    "word": "OPEN",
+    "meaning": "buka",
+    "hint": "Tidak tertutup, dapat dimasuki.",
+    "level": "mudah"
+  },
+  {
+    "id": 239,
+    "word": "OPINION",
+    "meaning": "pendapat",
+    "hint": "Pandangan atau keyakinan pribadi.",
+    "level": "mudah"
+  },
+  {
+    "id": 240,
+    "word": "OPPORTUNITY",
+    "meaning": "kesempatan",
+    "hint": "Waktu yang tepat untuk melakukan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 241,
+    "word": "ORDER",
+    "meaning": "pesanan",
+    "hint": "Permintaan untuk membeli atau meminta sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 242,
+    "word": "ORGANIZE",
+    "meaning": "mengorganisir",
+    "hint": "Mengatur dengan sistem yang baik.",
+    "level": "mudah"
+  },
+  {
+    "id": 243,
+    "word": "ORIGINAL",
+    "meaning": "asli",
+    "hint": "Bukan salinan, yang pertama atau awal.",
+    "level": "mudah"
+  },
+  {
+    "id": 244,
+    "word": "OTHER",
+    "meaning": "lainnya",
+    "hint": "Selain yang sudah disebutkan.",
+    "level": "mudah"
+  },
+  {
+    "id": 245,
+    "word": "OUTSIDE",
+    "meaning": "luar",
+    "hint": "Bukan di dalam, berada di luar ruangan.",
+    "level": "mudah"
+  },
+  {
+    "id": 246,
+    "word": "OVER",
+    "meaning": "di atas",
+    "hint": "Menunjukkan posisi lebih tinggi atau selesai.",
+    "level": "mudah"
+  },
+  {
+    "id": 247,
+    "word": "OWN",
+    "meaning": "milik sendiri",
+    "hint": "Menunjukkan kepemilikan pribadi.",
+    "level": "mudah"
+  },
+  {
+    "id": 248,
+    "word": "PACK",
+    "meaning": "mengemas",
+    "hint": "Memasukkan barang ke dalam wadah untuk dibawa.",
+    "level": "mudah"
+  },
+  {
+    "id": 249,
+    "word": "PAGE",
+    "meaning": "halaman",
+    "hint": "Satu sisi lembaran kertas dalam buku.",
+    "level": "mudah"
+  },
+  {
+    "id": 250,
+    "word": "PAIN",
+    "meaning": "sakit",
+    "hint": "Perasaan tidak nyaman pada tubuh atau pikiran.",
+    "level": "mudah"
+  },
+  {
+    "id": 251,
+    "word": "PAINT",
+    "meaning": "melukis",
+    "hint": "Memberi warna pada permukaan.",
+    "level": "mudah"
+  },
+  {
+    "id": 252,
+    "word": "PART",
+    "meaning": "bagian",
+    "hint": "Potongan atau segmen dari keseluruhan.",
+    "level": "mudah"
+  },
+  {
+    "id": 253,
+    "word": "PARTICULAR",
+    "meaning": "tertentu",
+    "hint": "Spesifik atau khusus untuk satu hal.",
+    "level": "mudah"
+  },
+  {
+    "id": 254,
+    "word": "PARTY",
+    "meaning": "pesta",
+    "hint": "Perayaan sosial dengan makanan dan hiburan.",
+    "level": "mudah"
+  },
+  {
+    "id": 255,
+    "word": "PASS",
+    "meaning": "melewati",
+    "hint": "Bergerak melewati sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 256,
+    "word": "PAST",
+    "meaning": "masa lalu",
+    "hint": "Waktu yang telah berlalu.",
+    "level": "mudah"
+  },
+  {
+    "id": 257,
+    "word": "PATIENT",
+    "meaning": "pasien",
+    "hint": "Orang yang menerima perawatan medis.",
+    "level": "mudah"
+  },
+  {
+    "id": 258,
+    "word": "PAY",
+    "meaning": "membayar",
+    "hint": "Memberi uang untuk membeli barang atau jasa.",
+    "level": "mudah"
+  },
+  {
+    "id": 259,
+    "word": "PEACE",
+    "meaning": "damai",
+    "hint": "Keadaan tanpa konflik atau kekacauan.",
+    "level": "mudah"
+  },
+  {
+    "id": 260,
+    "word": "PERCENT",
+    "meaning": "persen",
+    "hint": "Bagian per seratus.",
+    "level": "mudah"
+  },
+  {
+    "id": 261,
+    "word": "PERFECT",
+    "meaning": "sempurna",
+    "hint": "Tanpa kesalahan atau cacat.",
+    "level": "mudah"
+  },
+  {
+    "id": 262,
+    "word": "PERFORM",
+    "meaning": "melakukan",
+    "hint": "Menjalankan tugas atau aksi.",
+    "level": "mudah"
+  },
+  {
+    "id": 263,
+    "word": "PERIOD",
+    "meaning": "periode",
+    "hint": "Jangka waktu tertentu.",
+    "level": "mudah"
+  },
+  {
+    "id": 264,
+    "word": "PERSONAL",
+    "meaning": "pribadi",
+    "hint": "Berkaitan dengan individu tertentu.",
+    "level": "mudah"
+  },
+  {
+    "id": 265,
+    "word": "PICK",
+    "meaning": "memilih",
+    "hint": "Memilih atau mengambil dengan tangan.",
+    "level": "mudah"
+  },
+  {
+    "id": 266,
+    "word": "PLACE",
+    "meaning": "tempat",
+    "hint": "Lokasi tertentu.",
+    "level": "mudah"
+  },
+  {
+    "id": 267,
+    "word": "PLAN",
+    "meaning": "rencana",
+    "hint": "Pengaturan untuk melakukan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 268,
+    "word": "PLANT",
+    "meaning": "tanaman",
+    "hint": "Makhluk hidup yang tumbuh di tanah.",
+    "level": "mudah"
+  },
+  {
+    "id": 269,
+    "word": "PLAY",
+    "meaning": "bermain",
+    "hint": "Melakukan kegiatan untuk kesenangan.",
+    "level": "mudah"
+  },
+  {
+    "id": 270,
+    "word": "PLEASE",
+    "meaning": "tolong",
+    "hint": "Kata sopan saat meminta sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 271,
+    "word": "PLEASURE",
+    "meaning": "kesenangan",
+    "hint": "Perasaan senang atau puas.",
+    "level": "mudah"
+  },
+  {
+    "id": 272,
+    "word": "PLENTY",
+    "meaning": "banyak",
+    "hint": "Lebih dari cukup.",
+    "level": "mudah"
+  },
+  {
+    "id": 273,
+    "word": "POINT",
+    "meaning": "titik",
+    "hint": "Posisi atau gagasan utama.",
+    "level": "mudah"
+  },
+  {
+    "id": 274,
+    "word": "POLITE",
+    "meaning": "sopan",
+    "hint": "Menunjukkan perilaku yang baik dan hormat.",
+    "level": "mudah"
+  },
+  {
+    "id": 275,
+    "word": "POOR",
+    "meaning": "miskin",
+    "hint": "Tidak memiliki cukup uang.",
+    "level": "mudah"
+  },
+  {
+    "id": 276,
+    "word": "POSITION",
+    "meaning": "posisi",
+    "hint": "Lokasi atau situasi seseorang.",
+    "level": "mudah"
+  },
+  {
+    "id": 277,
+    "word": "POSSIBLE",
+    "meaning": "mungkin",
+    "hint": "Dapat terjadi atau dilakukan.",
+    "level": "mudah"
+  },
+  {
+    "id": 278,
+    "word": "POWER",
+    "meaning": "kekuatan",
+    "hint": "Kemampuan untuk melakukan atau memengaruhi.",
+    "level": "mudah"
+  },
+  {
+    "id": 279,
+    "word": "PRACTICE",
+    "meaning": "praktik",
+    "hint": "Melakukan sesuatu berulang kali untuk menjadi lebih baik.",
+    "level": "mudah"
+  },
+  {
+    "id": 280,
+    "word": "PREPARE",
+    "meaning": "mempersiapkan",
+    "hint": "Menyiapkan sesuatu untuk digunakan.",
+    "level": "mudah"
+  },
+  {
+    "id": 281,
+    "word": "PRESENT",
+    "meaning": "hadir",
+    "hint": "Berada di tempat sekarang.",
+    "level": "mudah"
+  },
+  {
+    "id": 282,
+    "word": "PRESSURE",
+    "meaning": "tekanan",
+    "hint": "Kekuatan yang mendorong atau menekan.",
+    "level": "mudah"
+  },
+  {
+    "id": 283,
+    "word": "PRETTY",
+    "meaning": "cantik",
+    "hint": "Menarik atau indah untuk dilihat.",
+    "level": "mudah"
+  },
+  {
+    "id": 284,
+    "word": "PREVENT",
+    "meaning": "mencegah",
+    "hint": "Menghentikan sesuatu terjadi.",
+    "level": "mudah"
+  },
+  {
+    "id": 285,
+    "word": "PRICE",
+    "meaning": "harga",
+    "hint": "Jumlah uang yang harus dibayar.",
+    "level": "mudah"
+  },
+  {
+    "id": 286,
+    "word": "PRINCIPLE",
+    "meaning": "prinsip",
+    "hint": "Aturan dasar atau keyakinan.",
+    "level": "mudah"
+  },
+  {
+    "id": 287,
+    "word": "PRIVATE",
+    "meaning": "pribadi",
+    "hint": "Tidak untuk umum.",
+    "level": "mudah"
+  },
+  {
+    "id": 288,
+    "word": "PROBABLY",
+    "meaning": "mungkin",
+    "hint": "Kemungkinan besar.",
+    "level": "mudah"
+  },
+  {
+    "id": 289,
+    "word": "PROBLEM",
+    "meaning": "masalah",
+    "hint": "Situasi yang sulit atau tidak diinginkan.",
+    "level": "mudah"
+  },
+  {
+    "id": 290,
+    "word": "PROCESS",
+    "meaning": "proses",
+    "hint": "Serangkaian langkah.",
+    "level": "mudah"
+  },
+  {
+    "id": 291,
+    "word": "PRODUCE",
+    "meaning": "memproduksi",
+    "hint": "Membuat atau menghasilkan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 292,
+    "word": "PROFESSIONAL",
+    "meaning": "profesional",
+    "hint": "Berkaitan dengan pekerjaan atau keahlian.",
+    "level": "mudah"
+  },
+  {
+    "id": 293,
+    "word": "PROGRESS",
+    "meaning": "kemajuan",
+    "hint": "Perkembangan menuju tujuan.",
+    "level": "mudah"
+  },
+  {
+    "id": 294,
+    "word": "PROJECT",
+    "meaning": "proyek",
+    "hint": "Tugas atau pekerjaan yang direncanakan.",
+    "level": "mudah"
+  },
+  {
+    "id": 295,
+    "word": "PROMISE",
+    "meaning": "berjanji",
+    "hint": "Mengatakan akan melakukan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 296,
+    "word": "PROPER",
+    "meaning": "tepat",
+    "hint": "Sesuai atau benar.",
+    "level": "mudah"
+  },
+  {
+    "id": 297,
+    "word": "PROTECT",
+    "meaning": "melindungi",
+    "hint": "Menjaga dari bahaya.",
+    "level": "mudah"
+  },
+  {
+    "id": 298,
+    "word": "PROUD",
+    "meaning": "bangga",
+    "hint": "Merasa senang tentang pencapaian.",
+    "level": "mudah"
+  },
+  {
+    "id": 299,
+    "word": "PROVE",
+    "meaning": "membuktikan",
+    "hint": "Menunjukkan bahwa sesuatu itu benar.",
+    "level": "mudah"
+  },
+  {
+    "id": 300,
+    "word": "PROVIDE",
+    "meaning": "menyediakan",
+    "hint": "Memberikan apa yang dibutuhkan.",
+    "level": "mudah"
+  },
+  {
+    "id": 301,
+    "word": "PUBLIC",
+    "meaning": "umum",
+    "hint": "Untuk semua orang.",
+    "level": "mudah"
+  },
+  {
+    "id": 302,
+    "word": "PURCHASE",
+    "meaning": "membeli",
+    "hint": "Mendapatkan barang dengan membayar.",
+    "level": "mudah"
+  },
+  {
+    "id": 303,
+    "word": "PURPOSE",
+    "meaning": "tujuan",
+    "hint": "Alasan atau maksud.",
+    "level": "mudah"
+  },
+  {
+    "id": 304,
+    "word": "QUALITY",
+    "meaning": "kualitas",
+    "hint": "Tingkat kebaikan atau nilai.",
+    "level": "mudah"
+  },
+  {
+    "id": 305,
+    "word": "QUESTION",
+    "meaning": "pertanyaan",
+    "hint": "Kata-kata untuk meminta informasi.",
+    "level": "mudah"
+  },
+  {
+    "id": 306,
+    "word": "QUICK",
+    "meaning": "cepat",
+    "hint": "Bergerak atau terjadi dengan kecepatan tinggi.",
+    "level": "mudah"
+  },
+  {
+    "id": 307,
+    "word": "QUIET",
+    "meaning": "tenang",
+    "hint": "Tidak berisik atau sunyi.",
+    "level": "mudah"
+  },
+  {
+    "id": 308,
+    "word": "RADIO",
+    "meaning": "radio",
+    "hint": "Alat untuk mendengarkan siaran suara.",
+    "level": "mudah"
+  },
+  {
+    "id": 309,
+    "word": "RAISE",
+    "meaning": "mengangkat",
+    "hint": "Menaikkan ke posisi lebih tinggi.",
+    "level": "mudah"
+  },
+  {
+    "id": 310,
+    "word": "RANGE",
+    "meaning": "rentang",
+    "hint": "Variasi atau jarak antara dua batas.",
+    "level": "mudah"
+  },
+  {
+    "id": 311,
+    "word": "REACH",
+    "meaning": "mencapai",
+    "hint": "Menjangkau atau sampai di suatu tempat.",
+    "level": "mudah"
+  },
+  {
+    "id": 312,
+    "word": "REALIZE",
+    "meaning": "menyadari",
+    "hint": "Menjadi sadar tentang sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 313,
+    "word": "REASON",
+    "meaning": "alasan",
+    "hint": "Sebab atau penjelasan.",
+    "level": "mudah"
+  },
+  {
+    "id": 314,
+    "word": "RECEIVE",
+    "meaning": "menerima",
+    "hint": "Mendapatkan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 315,
+    "word": "RECENT",
+    "meaning": "baru-baru ini",
+    "hint": "Terjadi tidak lama yang lalu.",
+    "level": "mudah"
+  },
+  {
+    "id": 316,
+    "word": "RECOGNIZE",
+    "meaning": "mengenali",
+    "hint": "Mengetahui seseorang atau sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 317,
+    "word": "RECOMMEND",
+    "meaning": "merekomendasikan",
+    "hint": "Menyarankan sesuatu sebagai pilihan baik.",
+    "level": "mudah"
+  },
+  {
+    "id": 318,
+    "word": "RECORD",
+    "meaning": "rekaman",
+    "hint": "Informasi yang disimpan secara tertulis atau audio.",
+    "level": "mudah"
+  },
+  {
+    "id": 319,
+    "word": "REDUCE",
+    "meaning": "mengurangi",
+    "hint": "Membuat menjadi lebih kecil atau lebih sedikit.",
+    "level": "mudah"
+  },
+  {
+    "id": 320,
+    "word": "REFUSE",
+    "meaning": "menolak",
+    "hint": "Tidak mau menerima atau melakukan.",
+    "level": "mudah"
+  },
+  {
+    "id": 321,
+    "word": "REGARD",
+    "meaning": "menganggap",
+    "hint": "Memandang atau memperlakukan dengan cara tertentu.",
+    "level": "mudah"
+  },
+  {
+    "id": 322,
+    "word": "REGULAR",
+    "meaning": "teratur",
+    "hint": "Terjadi dengan pola yang tetap.",
+    "level": "mudah"
+  },
+  {
+    "id": 323,
+    "word": "REJECT",
+    "meaning": "menolak",
+    "hint": "Menolak tawaran atau permintaan.",
+    "level": "mudah"
+  },
+  {
+    "id": 324,
+    "word": "RELATIONSHIP",
+    "meaning": "hubungan",
+    "hint": "Koneksi antara orang atau hal.",
+    "level": "mudah"
+  },
+  {
+    "id": 325,
+    "word": "RELEASE",
+    "meaning": "melepaskan",
+    "hint": "Membebaskan atau mengizinkan keluar.",
+    "level": "mudah"
+  },
+  {
+    "id": 326,
+    "word": "RELEVANT",
+    "meaning": "relevan",
+    "hint": "Berhubungan dengan topik yang dibahas.",
+    "level": "mudah"
+  },
+  {
+    "id": 327,
+    "word": "RELY",
+    "meaning": "bergantung",
+    "hint": "Mempercayai seseorang atau sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 328,
+    "word": "REMEMBER",
+    "meaning": "mengingat",
+    "hint": "Tetap memiliki informasi dalam ingatan.",
+    "level": "mudah"
+  },
+  {
+    "id": 329,
+    "word": "REMOVE",
+    "meaning": "menghapus",
+    "hint": "Menyingkirkan dari tempatnya.",
+    "level": "mudah"
+  },
+  {
+    "id": 330,
+    "word": "REPEAT",
+    "meaning": "mengulangi",
+    "hint": "Melakukan atau mengatakan lagi.",
+    "level": "mudah"
+  },
+  {
+    "id": 331,
+    "word": "REPLACE",
+    "meaning": "mengganti",
+    "hint": "Menempatkan sesuatu sebagai pengganti.",
+    "level": "mudah"
+  },
+  {
+    "id": 332,
+    "word": "REPORT",
+    "meaning": "laporan",
+    "hint": "Informasi yang disampaikan secara resmi.",
+    "level": "mudah"
+  },
+  {
+    "id": 333,
+    "word": "REPRESENT",
+    "meaning": "mewakili",
+    "hint": "Bertindak atas nama orang lain.",
+    "level": "mudah"
+  },
+  {
+    "id": 334,
+    "word": "REPUTATION",
+    "meaning": "reputasi",
+    "hint": "Pandangan umum tentang seseorang.",
+    "level": "mudah"
+  },
+  {
+    "id": 335,
+    "word": "REQUEST",
+    "meaning": "permintaan",
+    "hint": "Tindakan meminta sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 336,
+    "word": "REQUIRE",
+    "meaning": "memerlukan",
+    "hint": "Membutuhkan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 337,
+    "word": "RESEARCH",
+    "meaning": "penelitian",
+    "hint": "Studi untuk menemukan pengetahuan baru.",
+    "level": "mudah"
+  },
+  {
+    "id": 338,
+    "word": "RESOLVE",
+    "meaning": "menyelesaikan",
+    "hint": "Menemukan solusi untuk masalah.",
+    "level": "mudah"
+  },
+  {
+    "id": 339,
+    "word": "RESPECT",
+    "meaning": "hormat",
+    "hint": "Sikap menghargai orang lain.",
+    "level": "mudah"
+  },
+  {
+    "id": 340,
+    "word": "RESPOND",
+    "meaning": "merespons",
+    "hint": "Memberi jawaban atau reaksi.",
+    "level": "mudah"
+  },
+  {
+    "id": 341,
+    "word": "RESPONSIBLE",
+    "meaning": "bertanggung jawab",
+    "hint": "Memiliki kewajiban untuk melakukan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 342,
+    "word": "REST",
+    "meaning": "istirahat",
+    "hint": "Berhenti dari aktivitas untuk bersantai.",
+    "level": "mudah"
+  },
+  {
+    "id": 343,
+    "word": "RESULT",
+    "meaning": "hasil",
+    "hint": "Akhir atau konsekuensi dari suatu tindakan.",
+    "level": "mudah"
+  },
+  {
+    "id": 344,
+    "word": "REVEAL",
+    "meaning": "mengungkapkan",
+    "hint": "Menunjukkan sesuatu yang tersembunyi.",
+    "level": "mudah"
+  },
+  {
+    "id": 345,
+    "word": "REVIEW",
+    "meaning": "meninjau",
+    "hint": "Melihat kembali atau mengevaluasi.",
+    "level": "mudah"
+  },
+  {
+    "id": 346,
+    "word": "RISK",
+    "meaning": "risiko",
+    "hint": "Kemungkinan kerugian atau bahaya.",
+    "level": "mudah"
+  },
+  {
+    "id": 347,
+    "word": "ROUTINE",
+    "meaning": "rutinitas",
+    "hint": "Kebiasaan atau aktivitas yang dilakukan secara teratur.",
+    "level": "mudah"
+  },
+  {
+    "id": 348,
+    "word": "RULE",
+    "meaning": "aturan",
+    "hint": "Petunjuk tentang apa yang boleh atau tidak boleh dilakukan.",
+    "level": "mudah"
+  },
+  {
+    "id": 349,
+    "word": "SAFE",
+    "meaning": "aman",
+    "hint": "Bebas dari bahaya.",
+    "level": "mudah"
+  },
+  {
+    "id": 350,
+    "word": "SALE",
+    "meaning": "penjualan",
+    "hint": "Kegiatan menjual barang atau jasa.",
+    "level": "mudah"
+  },
+  {
+    "id": 351,
+    "word": "SATISFY",
+    "meaning": "memuaskan",
+    "hint": "Membuat seseorang merasa puas.",
+    "level": "mudah"
+  },
+  {
+    "id": 352,
+    "word": "SAVE",
+    "meaning": "menyimpan",
+    "hint": "Menjaga atau menghemat sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 353,
+    "word": "SCENE",
+    "meaning": "pemandangan",
+    "hint": "Lokasi atau pemandangan yang terlihat.",
+    "level": "mudah"
+  },
+  {
+    "id": 354,
+    "word": "SCHEDULE",
+    "meaning": "jadwal",
+    "hint": "Rencana waktu untuk kegiatan.",
+    "level": "mudah"
+  },
+  {
+    "id": 355,
+    "word": "SEARCH",
+    "meaning": "mencari",
+    "hint": "Berusaha menemukan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 356,
+    "word": "SECRET",
+    "meaning": "rahasia",
+    "hint": "Informasi yang tidak diketahui orang lain.",
+    "level": "mudah"
+  },
+  {
+    "id": 357,
+    "word": "SECURE",
+    "meaning": "aman",
+    "hint": "Terlindungi dari bahaya.",
+    "level": "mudah"
+  },
+  {
+    "id": 358,
+    "word": "SELECT",
+    "meaning": "memilih",
+    "hint": "Memilih satu dari beberapa pilihan.",
+    "level": "mudah"
+  },
+  {
+    "id": 359,
+    "word": "SENSE",
+    "meaning": "indra",
+    "hint": "Kemampuan untuk melihat, mendengar, dll.",
+    "level": "mudah"
+  },
+  {
+    "id": 360,
+    "word": "SERIOUS",
+    "meaning": "serius",
+    "hint": "Tidak main-main dan penting.",
+    "level": "mudah"
+  },
+  {
+    "id": 361,
+    "word": "SERVICE",
+    "meaning": "layanan",
+    "hint": "Pekerjaan yang dilakukan untuk membantu orang lain.",
+    "level": "mudah"
+  },
+  {
+    "id": 362,
+    "word": "SETTLE",
+    "meaning": "menetap",
+    "hint": "Mulai tinggal di suatu tempat secara permanen.",
+    "level": "mudah"
+  },
+  {
+    "id": 363,
+    "word": "SHARE",
+    "meaning": "berbagi",
+    "hint": "Menggunakan atau memiliki bersama-sama.",
+    "level": "mudah"
+  },
+  {
+    "id": 364,
+    "word": "SIGN",
+    "meaning": "tanda",
+    "hint": "Indikasi atau simbol.",
+    "level": "mudah"
+  },
+  {
+    "id": 365,
+    "word": "SIGNIFICANT",
+    "meaning": "signifikan",
+    "hint": "Penting atau berarti.",
+    "level": "mudah"
+  },
+  {
+    "id": 366,
+    "word": "SIMPLE",
+    "meaning": "sederhana",
+    "hint": "Mudah dipahami atau dilakukan.",
+    "level": "mudah"
+  },
+  {
+    "id": 367,
+    "word": "SITUATION",
+    "meaning": "situasi",
+    "hint": "Keadaan atau kondisi pada waktu tertentu.",
+    "level": "mudah"
+  },
+  {
+    "id": 368,
+    "word": "SKILL",
+    "meaning": "keterampilan",
+    "hint": "Kemampuan untuk melakukan sesuatu dengan baik.",
+    "level": "mudah"
+  },
+  {
+    "id": 369,
+    "word": "SLEEP",
+    "meaning": "tidur",
+    "hint": "Kondisi tidak sadar untuk memulihkan tubuh.",
+    "level": "mudah"
+  },
+  {
+    "id": 370,
+    "word": "SMALL",
+    "meaning": "kecil",
+    "hint": "Tidak besar dalam ukuran.",
+    "level": "mudah"
+  },
+  {
+    "id": 371,
+    "word": "SOCIAL",
+    "meaning": "sosial",
+    "hint": "Berkaitan dengan masyarakat atau interaksi.",
+    "level": "mudah"
+  },
+  {
+    "id": 372,
+    "word": "SOLUTION",
+    "meaning": "solusi",
+    "hint": "Jawaban atau cara mengatasi masalah.",
+    "level": "mudah"
+  },
+  {
+    "id": 373,
+    "word": "SORRY",
+    "meaning": "maaf",
+    "hint": "Ungkapan penyesalan.",
+    "level": "mudah"
+  },
+  {
+    "id": 374,
+    "word": "SPACE",
+    "meaning": "ruang",
+    "hint": "Area kosong atau wilayah.",
+    "level": "mudah"
+  },
+  {
+    "id": 375,
+    "word": "SPEAK",
+    "meaning": "berbicara",
+    "hint": "Mengeluarkan kata-kata.",
+    "level": "mudah"
+  },
+  {
+    "id": 376,
+    "word": "SPECIAL",
+    "meaning": "istimewa",
+    "hint": "Berbeda dari yang lain dalam hal baik.",
+    "level": "mudah"
+  },
+  {
+    "id": 377,
+    "word": "SPECIFIC",
+    "meaning": "spesifik",
+    "hint": "Jelas dan tepat.",
+    "level": "mudah"
+  },
+  {
+    "id": 378,
+    "word": "SPEND",
+    "meaning": "menghabiskan",
+    "hint": "Menggunakan uang atau waktu.",
+    "level": "mudah"
+  },
+  {
+    "id": 379,
+    "word": "STABLE",
+    "meaning": "stabil",
+    "hint": "Tidak mudah berubah.",
+    "level": "mudah"
+  },
+  {
+    "id": 380,
+    "word": "STAND",
+    "meaning": "berdiri",
+    "hint": "Berada dalam posisi tegak.",
+    "level": "mudah"
+  },
+  {
+    "id": 381,
+    "word": "STANDARD",
+    "meaning": "standar",
+    "hint": "Tingkat atau kualitas yang diharapkan.",
+    "level": "mudah"
+  },
+  {
+    "id": 382,
+    "word": "START",
+    "meaning": "mulai",
+    "hint": "Memulai sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 383,
+    "word": "STATE",
+    "meaning": "keadaan",
+    "hint": "Kondisi atau situasi.",
+    "level": "mudah"
+  },
+  {
+    "id": 384,
+    "word": "STAY",
+    "meaning": "tinggal",
+    "hint": "Berada di suatu tempat.",
+    "level": "mudah"
+  },
+  {
+    "id": 385,
+    "word": "STILL",
+    "meaning": "masih",
+    "hint": "Terus terjadi atau tidak bergerak.",
+    "level": "mudah"
+  },
+  {
+    "id": 386,
+    "word": "STORE",
+    "meaning": "toko",
+    "hint": "Tempat untuk membeli barang.",
+    "level": "mudah"
+  },
+  {
+    "id": 387,
+    "word": "STORY",
+    "meaning": "cerita",
+    "hint": "Narasi tentang peristiwa.",
+    "level": "mudah"
+  },
+  {
+    "id": 388,
+    "word": "STRAIGHT",
+    "meaning": "lurus",
+    "hint": "Tanpa belokan atau tikungan.",
+    "level": "mudah"
+  },
+  {
+    "id": 389,
+    "word": "STRANGE",
+    "meaning": "aneh",
+    "hint": "Tidak biasa atau tidak dikenal.",
+    "level": "mudah"
+  },
+  {
+    "id": 390,
+    "word": "STRATEGY",
+    "meaning": "strategi",
+    "hint": "Rencana untuk mencapai tujuan.",
+    "level": "mudah"
+  },
+  {
+    "id": 391,
+    "word": "STRENGTH",
+    "meaning": "kekuatan",
+    "hint": "Kemampuan fisik atau mental.",
+    "level": "mudah"
+  },
+  {
+    "id": 392,
+    "word": "STRESS",
+    "meaning": "stres",
+    "hint": "Tekanan mental atau fisik.",
+    "level": "mudah"
+  },
+  {
+    "id": 393,
+    "word": "STRONG",
+    "meaning": "kuat",
+    "hint": "Memiliki kekuatan fisik atau mental.",
+    "level": "mudah"
+  },
+  {
+    "id": 394,
+    "word": "STRUCTURE",
+    "meaning": "struktur",
+    "hint": "Cara sesuatu disusun.",
+    "level": "mudah"
+  },
+  {
+    "id": 395,
+    "word": "STUDY",
+    "meaning": "belajar",
+    "hint": "Menghabiskan waktu untuk belajar.",
+    "level": "mudah"
+  },
+  {
+    "id": 396,
+    "word": "SUBJECT",
+    "meaning": "mata pelajaran",
+    "hint": "Topik atau bidang studi.",
+    "level": "mudah"
+  },
+  {
+    "id": 397,
+    "word": "SUCCESS",
+    "meaning": "kesuksesan",
+    "hint": "Pencapaian tujuan.",
+    "level": "mudah"
+  },
+  {
+    "id": 398,
+    "word": "SUFFER",
+    "meaning": "menderita",
+    "hint": "Mengalami rasa sakit atau kesulitan.",
+    "level": "mudah"
+  },
+  {
+    "id": 399,
+    "word": "SUGGEST",
+    "meaning": "menyarankan",
+    "hint": "Mengusulkan ide atau gagasan.",
+    "level": "mudah"
+  },
+  {
+    "id": 400,
+    "word": "SUPPORT",
+    "meaning": "mendukung",
+    "hint": "Memberi bantuan atau persetujuan.",
+    "level": "mudah"
+  },
+  {
+    "id": 401,
+    "word": "SUPPOSE",
+    "meaning": "kira",
+    "hint": "Menganggap atau memperkirakan.",
+    "level": "mudah"
+  },
+  {
+    "id": 402,
+    "word": "SURE",
+    "meaning": "yakin",
+    "hint": "Pasti atau tidak ragu.",
+    "level": "mudah"
+  },
+  {
+    "id": 403,
+    "word": "SURPRISE",
+    "meaning": "kejutan",
+    "hint": "Sesuatu yang tidak terduga.",
+    "level": "mudah"
+  },
+  {
+    "id": 404,
+    "word": "SURROUND",
+    "meaning": "mengelilingi",
+    "hint": "Berada di semua sisi.",
+    "level": "mudah"
+  },
+  {
+    "id": 405,
+    "word": "SURVIVE",
+    "meaning": "bertahan hidup",
+    "hint": "Tetap hidup dalam situasi sulit.",
+    "level": "mudah"
+  },
+  {
+    "id": 406,
+    "word": "SYMPTOM",
+    "meaning": "gejala",
+    "hint": "Tanda dari suatu penyakit.",
+    "level": "mudah"
+  },
+  {
+    "id": 407,
+    "word": "SYSTEM",
+    "meaning": "sistem",
+    "hint": "Susunan yang teratur dari bagian-bagian.",
+    "level": "mudah"
+  },
+  {
+    "id": 408,
+    "word": "TALK",
+    "meaning": "berbicara",
+    "hint": "Mengeluarkan kata-kata.",
+    "level": "mudah"
+  },
+  {
+    "id": 409,
+    "word": "TASTE",
+    "meaning": "rasa",
+    "hint": "Sensasi di lidah saat makan.",
+    "level": "mudah"
+  },
+  {
+    "id": 410,
+    "word": "TEACH",
+    "meaning": "mengajar",
+    "hint": "Memberi pengetahuan kepada orang lain.",
+    "level": "mudah"
+  },
+  {
+    "id": 411,
+    "word": "TEAM",
+    "meaning": "tim",
+    "hint": "Kelompok yang bekerja bersama.",
+    "level": "mudah"
+  },
+  {
+    "id": 412,
+    "word": "TELL",
+    "meaning": "memberi tahu",
+    "hint": "Mengatakan sesuatu kepada seseorang.",
+    "level": "mudah"
+  },
+  {
+    "id": 413,
+    "word": "TEND",
+    "meaning": "cenderung",
+    "hint": "Mempunyai kecenderungan untuk melakukan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 414,
+    "word": "TERRIBLE",
+    "meaning": "mengerikan",
+    "hint": "Sangat buruk atau menakutkan.",
+    "level": "mudah"
+  },
+  {
+    "id": 415,
+    "word": "TEST",
+    "meaning": "tes",
+    "hint": "Kegiatan untuk mengukur kemampuan.",
+    "level": "mudah"
+  },
+  {
+    "id": 416,
+    "word": "THANK",
+    "meaning": "terima kasih",
+    "hint": "Mengucapkan terima kasih.",
+    "level": "mudah"
+  },
+  {
+    "id": 417,
+    "word": "THOUGHT",
+    "meaning": "pikiran",
+    "hint": "Ide atau pendapat di pikiran.",
+    "level": "mudah"
+  },
+  {
+    "id": 418,
+    "word": "THROUGH",
+    "meaning": "melalui",
+    "hint": "Masuk dari satu sisi ke sisi lain.",
+    "level": "mudah"
+  },
+  {
+    "id": 419,
+    "word": "THROW",
+    "meaning": "melempar",
+    "hint": "Mengirimkan sesuatu dengan tangan.",
+    "level": "mudah"
+  },
+  {
+    "id": 420,
+    "word": "TICKET",
+    "meaning": "tiket",
+    "hint": "Kertas atau kartu untuk masuk ke acara atau transportasi.",
+    "level": "mudah"
+  },
+  {
+    "id": 421,
+    "word": "TIGHT",
+    "meaning": "ketat",
+    "hint": "Erat dan tidak longgar.",
+    "level": "mudah"
+  },
+  {
+    "id": 422,
+    "word": "TIME",
+    "meaning": "waktu",
+    "hint": "Durasi atau saat tertentu.",
+    "level": "mudah"
+  },
+  {
+    "id": 423,
+    "word": "TIRED",
+    "meaning": "lelah",
+    "hint": "Membutuhkan istirahat.",
+    "level": "mudah"
+  },
+  {
+    "id": 424,
+    "word": "TODAY",
+    "meaning": "hari ini",
+    "hint": "Hari saat ini.",
+    "level": "mudah"
+  },
+  {
+    "id": 425,
+    "word": "TOGETHER",
+    "meaning": "bersama",
+    "hint": "Dengan satu sama lain.",
+    "level": "mudah"
+  },
+  {
+    "id": 426,
+    "word": "TOMORROW",
+    "meaning": "besok",
+    "hint": "Hari setelah hari ini.",
+    "level": "mudah"
+  },
+  {
+    "id": 427,
+    "word": "TOTAL",
+    "meaning": "total",
+    "hint": "Jumlah keseluruhan.",
+    "level": "mudah"
+  },
+  {
+    "id": 428,
+    "word": "TOUCH",
+    "meaning": "menyentuh",
+    "hint": "Merasakan dengan tangan.",
+    "level": "mudah"
+  },
+  {
+    "id": 429,
+    "word": "TOUGH",
+    "meaning": "sulit",
+    "hint": "Keras atau sulit dihadapi.",
+    "level": "mudah"
+  },
+  {
+    "id": 430,
+    "word": "TOUR",
+    "meaning": "wisata",
+    "hint": "Perjalanan untuk rekreasi.",
+    "level": "mudah"
+  },
+  {
+    "id": 431,
+    "word": "TOWARD",
+    "meaning": "menuju",
+    "hint": "Menunjukkan arah atau tujuan.",
+    "level": "mudah"
+  },
+  {
+    "id": 432,
+    "word": "TRAINING",
+    "meaning": "pelatihan",
+    "hint": "Proses belajar keterampilan.",
+    "level": "mudah"
+  },
+  {
+    "id": 433,
+    "word": "TRANSFER",
+    "meaning": "mentransfer",
+    "hint": "Memindahkan dari satu tempat ke tempat lain.",
+    "level": "mudah"
+  },
+  {
+    "id": 434,
+    "word": "TRAVEL",
+    "meaning": "bepergian",
+    "hint": "Pergi dari satu tempat ke tempat lain.",
+    "level": "mudah"
+  },
+  {
+    "id": 435,
+    "word": "TREAT",
+    "meaning": "memperlakukan",
+    "hint": "Bersikap atau memberikan perawatan.",
+    "level": "mudah"
+  },
+  {
+    "id": 436,
+    "word": "TRIP",
+    "meaning": "perjalanan",
+    "hint": "Bepergian ke suatu tempat.",
+    "level": "mudah"
+  },
+  {
+    "id": 437,
+    "word": "TROUBLE",
+    "meaning": "masalah",
+    "hint": "Situasi sulit atau kesulitan.",
+    "level": "mudah"
+  },
+  {
+    "id": 438,
+    "word": "TURN",
+    "meaning": "belok",
+    "hint": "Mengubah arah atau posisi.",
+    "level": "mudah"
+  },
+  {
+    "id": 439,
+    "word": "UNDERSTAND",
+    "meaning": "memahami",
+    "hint": "Mengetahui makna atau maksud.",
+    "level": "mudah"
+  },
+  {
+    "id": 440,
+    "word": "UNIQUE",
+    "meaning": "unik",
+    "hint": "Berbeda dan satu-satunya.",
+    "level": "mudah"
+  },
+  {
+    "id": 441,
+    "word": "UNITE",
+    "meaning": "bersatu",
+    "hint": "Bergabung menjadi satu.",
+    "level": "mudah"
+  },
+  {
+    "id": 442,
+    "word": "UNLESS",
+    "meaning": "kecuali",
+    "hint": "Jika tidak atau selain jika.",
+    "level": "mudah"
+  },
+  {
+    "id": 443,
+    "word": "UNUSUAL",
+    "meaning": "tidak biasa",
+    "hint": "Berbeda dari yang normal.",
+    "level": "mudah"
+  },
+  {
+    "id": 444,
+    "word": "UPDATE",
+    "meaning": "memperbarui",
+    "hint": "Membuat menjadi lebih baru.",
+    "level": "mudah"
+  },
+  {
+    "id": 445,
+    "word": "URGENT",
+    "meaning": "mendesak",
+    "hint": "Memerlukan perhatian segera.",
+    "level": "mudah"
+  },
+  {
+    "id": 446,
+    "word": "USE",
+    "meaning": "menggunakan",
+    "hint": "Memakai atau memanfaatkan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 447,
+    "word": "USUAL",
+    "meaning": "biasa",
+    "hint": "Terjadi secara normal atau sering.",
+    "level": "mudah"
+  },
+  {
+    "id": 448,
+    "word": "VALUE",
+    "meaning": "nilai",
+    "hint": "Harga atau pentingnya sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 449,
+    "word": "VARIETY",
+    "meaning": "variasi",
+    "hint": "Berbagai jenis atau macam.",
+    "level": "mudah"
+  },
+  {
+    "id": 450,
+    "word": "VARY",
+    "meaning": "bervariasi",
+    "hint": "Berbeda atau berubah-ubah.",
+    "level": "mudah"
+  },
+  {
+    "id": 451,
+    "word": "VIEW",
+    "meaning": "pandangan",
+    "hint": "Pendapat atau pemandangan.",
+    "level": "mudah"
+  },
+  {
+    "id": 452,
+    "word": "VISIT",
+    "meaning": "mengunjungi",
+    "hint": "Pergi ke suatu tempat untuk sementara.",
+    "level": "mudah"
+  },
+  {
+    "id": 453,
+    "word": "VOICE",
+    "meaning": "suara",
+    "hint": "Suara yang keluar dari mulut.",
+    "level": "mudah"
+  },
+  {
+    "id": 454,
+    "word": "VOTE",
+    "meaning": "memilih",
+    "hint": "Memberikan suara dalam pemilihan.",
+    "level": "mudah"
+  },
+  {
+    "id": 455,
+    "word": "WAIT",
+    "meaning": "menunggu",
+    "hint": "Tetap di tempat sampai sesuatu terjadi.",
+    "level": "mudah"
+  },
+  {
+    "id": 456,
+    "word": "WALK",
+    "meaning": "berjalan",
+    "hint": "Bergerak dengan kaki.",
+    "level": "mudah"
+  },
+  {
+    "id": 457,
+    "word": "WANT",
+    "meaning": "ingin",
+    "hint": "Memiliki keinginan untuk sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 458,
+    "word": "WARN",
+    "meaning": "memperingatkan",
+    "hint": "Memberi tahu tentang bahaya.",
+    "level": "mudah"
+  },
+  {
+    "id": 459,
+    "word": "WATCH",
+    "meaning": "menonton",
+    "hint": "Melihat dengan saksama.",
+    "level": "mudah"
+  },
+  {
+    "id": 460,
+    "word": "WEATHER",
+    "meaning": "cuaca",
+    "hint": "Kondisi udara di suatu tempat.",
+    "level": "mudah"
+  },
+  {
+    "id": 461,
+    "word": "WEEKEND",
+    "meaning": "akhir pekan",
+    "hint": "Hari Sabtu dan Minggu.",
+    "level": "mudah"
+  },
+  {
+    "id": 462,
+    "word": "WELCOME",
+    "meaning": "selamat datang",
+    "hint": "Sapaan untuk tamu.",
+    "level": "mudah"
+  },
+  {
+    "id": 463,
+    "word": "WELL",
+    "meaning": "baik",
+    "hint": "Dengan cara yang baik.",
+    "level": "mudah"
+  },
+  {
+    "id": 464,
+    "word": "WIDE",
+    "meaning": "lebar",
+    "hint": "Memiliki ukuran yang besar dari sisi ke sisi.",
+    "level": "mudah"
+  },
+  {
+    "id": 465,
+    "word": "WIFE",
+    "meaning": "istri",
+    "hint": "Pasangan wanita dari suami.",
+    "level": "mudah"
+  },
+  {
+    "id": 466,
+    "word": "WILLING",
+    "meaning": "bersedia",
+    "hint": "Ingin dan siap melakukan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 467,
+    "word": "WINDOW",
+    "meaning": "jendela",
+    "hint": "Bukaan di dinding untuk cahaya dan udara.",
+    "level": "mudah"
+  },
+  {
+    "id": 468,
+    "word": "WINTER",
+    "meaning": "musim dingin",
+    "hint": "Musim terdingin dalam setahun.",
+    "level": "mudah"
+  },
+  {
+    "id": 469,
+    "word": "WISH",
+    "meaning": "berharap",
+    "hint": "Menginginkan sesuatu terjadi.",
+    "level": "mudah"
+  },
+  {
+    "id": 470,
+    "word": "WITHOUT",
+    "meaning": "tanpa",
+    "hint": "Tidak memiliki atau bersama.",
+    "level": "mudah"
+  },
+  {
+    "id": 471,
+    "word": "WOMAN",
+    "meaning": "wanita",
+    "hint": "Orang dewasa berjenis kelamin perempuan.",
+    "level": "mudah"
+  },
+  {
+    "id": 472,
+    "word": "WONDER",
+    "meaning": "heran",
+    "hint": "Merasa ingin tahu atau terkejut.",
+    "level": "mudah"
+  },
+  {
+    "id": 473,
+    "word": "WOOD",
+    "meaning": "kayu",
+    "hint": "Bahan dari pohon.",
+    "level": "mudah"
+  },
+  {
+    "id": 474,
+    "word": "WORK",
+    "meaning": "bekerja",
+    "hint": "Melakukan aktivitas untuk menghasilkan sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 475,
+    "word": "WORLD",
+    "meaning": "dunia",
+    "hint": "Planet Bumi atau seluruh umat manusia.",
+    "level": "mudah"
+  },
+  {
+    "id": 476,
+    "word": "WORRY",
+    "meaning": "khawatir",
+    "hint": "Merasa cemas tentang sesuatu.",
+    "level": "mudah"
+  },
+  {
+    "id": 477,
+    "word": "WORSE",
+    "meaning": "lebih buruk",
+    "hint": "Tingkat yang lebih rendah dari sebelumnya.",
+    "level": "mudah"
+  },
+  {
+    "id": 478,
+    "word": "WORST",
+    "meaning": "terburuk",
+    "hint": "Tingkat paling rendah atau paling buruk.",
+    "level": "mudah"
+  },
+  {
+    "id": 479,
+    "word": "WORTH",
+    "meaning": "berharga",
+    "hint": "Memiliki nilai atau manfaat.",
+    "level": "mudah"
+  },
+  {
+    "id": 480,
+    "word": "WRITE",
+    "meaning": "menulis",
+    "hint": "Membuat huruf atau kata di atas permukaan.",
+    "level": "mudah"
+  },
+  {
+    "id": 481,
+    "word": "WRONG",
+    "meaning": "salah",
+    "hint": "Tidak benar atau tidak sesuai.",
+    "level": "mudah"
+  },
+  {
+    "id": 482,
+    "word": "YEAR",
+    "meaning": "tahun",
+    "hint": "Periode 365 hari atau 366 hari pada tahun kabisat.",
+    "level": "mudah"
+  },
+  {
+    "id": 483,
+    "word": "YESTERDAY",
+    "meaning": "kemarin",
+    "hint": "Hari sebelum hari ini.",
+    "level": "mudah"
+  },
+  {
+    "id": 484,
+    "word": "YOURSELF",
+    "meaning": "dirimu sendiri",
+    "hint": "Merujuk pada diri sendiri.",
+    "level": "mudah"
+  },
+  {
+    "id": 485,
+    "word": "ACTIVE",
+    "meaning": "aktif",
+    "hint": "Suka bergerak atau terlibat dalam kegiatan.",
+    "level": "mudah"
+  },
+  {
+    "id": 486,
+    "word": "CAREFUL",
+    "meaning": "hati-hati",
+    "hint": "Melakukan sesuatu dengan perhatian penuh.",
+    "level": "mudah"
+  },
+  {
+    "id": 487,
+    "word": "DANGEROUS",
+    "meaning": "berbahaya",
+    "hint": "Dapat menyebabkan cedera atau kerusakan.",
+    "level": "mudah"
+  },
+  {
+    "id": 488,
+    "word": "DIFFERENT",
+    "meaning": "berbeda",
+    "hint": "Tidak sama dengan yang lain.",
+    "level": "mudah"
+  },
+  {
+    "id": 489,
+    "word": "ENOUGH",
+    "meaning": "cukup",
+    "hint": "Sejumlah yang diperlukan.",
+    "level": "mudah"
+  },
+  {
+    "id": 490,
+    "word": "ESPECIALLY",
+    "meaning": "terutama",
+    "hint": "Lebih dari yang lain atau khususnya.",
+    "level": "mudah"
+  },
+  {
+    "id": 491,
+    "word": "FAMILIAR",
+    "meaning": "akrab",
+    "hint": "Sudah diketahui atau dikenal baik.",
+    "level": "mudah"
+  },
+  {
+    "id": 492,
+    "word": "FAMILY",
+    "meaning": "keluarga",
+    "hint": "Orang-orang yang memiliki hubungan darah atau perkawinan.",
+    "level": "mudah"
+  },
+  {
+    "id": 493,
+    "word": "FRIENDLY",
+    "meaning": "ramah",
+    "hint": "Bersikap baik dan menyenangkan kepada orang lain.",
+    "level": "mudah"
+  },
+  {
+    "id": 494,
+    "word": "GENEROUS",
+    "meaning": "murah hati",
+    "hint": "Suka memberi dan berbagi dengan orang lain.",
+    "level": "mudah"
+  },
+  {
+    "id": 495,
+    "word": "HEALTHY",
+    "meaning": "sehat",
+    "hint": "Tidak sakit dan dalam kondisi baik.",
+    "level": "mudah"
+  },
+  {
+    "id": 496,
+    "word": "HONEST",
+    "meaning": "jujur",
+    "hint": "Selalu mengatakan kebenaran dan tidak berbohong.",
+    "level": "mudah"
+  },
+  {
+    "id": 497,
+    "word": "IMPORTANT",
+    "meaning": "penting",
+    "hint": "Memiliki nilai atau pengaruh besar.",
+    "level": "mudah"
+  },
+  {
+    "id": 498,
+    "word": "INTERESTING",
+    "meaning": "menarik",
+    "hint": "Menarik perhatian dan membuat penasaran.",
+    "level": "mudah"
+  },
+  {
+    "id": 499,
+    "word": "POSSIBLE",
+    "meaning": "mungkin",
+    "hint": "Dapat terjadi atau dapat dilakukan.",
+    "level": "mudah"
+  },
+  {
+    "id": 500,
+    "word": "PRACTICAL",
+    "meaning": "praktis",
+    "hint": "Berguna dan dapat diterapkan dalam kehidupan sehari-hari.",
+    "level": "mudah"
+  }
+]

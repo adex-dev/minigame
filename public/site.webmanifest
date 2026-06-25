@@ -1,0 +1,38 @@
+{
+  "name": "Quiz Tebak Kata",
+  "description": "Game edukasi interaktif untuk belajar bahasa Inggris dan Indonesia melalui quiz tebak kata",
+  "applicationCategory": "EducationalApplication",
+  "operatingSystem": "All",
+  "browserRequirements": "Requires JavaScript",
+  "short_name": "QuizTebakKata",
+  "start_url": "/minigame/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "offers": [
+    {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "IDR"
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Belajar Bahasa Inggris"
+    }
+  ],
+  "audience": [
+    {
+      "@type": "Audience",
+      "audienceType": "Students, Language Learners"
+    }
+  ]
+}

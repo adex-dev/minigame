@@ -1,0 +1,55 @@
+@reference @"/src/index.css";
+@media (min-width: 321px) and (max-width: 480px) {
+  .main-game-setup {
+    @apply !p-1;
+  }
+  .box-main-err {
+    @apply w-full h-96 py-10;
+  }
+  .box-main-err > p {
+    @apply text-sm;
+  }
+  .box-main-err > p:nth-last-child(1) {
+    @apply text-xs;
+  }
+  .container-setup {
+    @apply p-3;
+  }
+  .container-setup-header > h1 {
+    @apply text-2xl;
+  }
+  .container-setup-header > p {
+    @apply mt-1 text-xs;
+  }
+  .container-level {
+    @apply grid-cols-1;
+  }
+  .container-level > div {
+    @apply gap-1;
+  }
+  .choose-level-label {
+    @apply text-xs;
+  }
+  .choose-level {
+    @apply grid-cols-2 gap-1;
+  }
+  .button-level {
+    @apply !p-1;
+  }
+  .button-header {
+    @apply text-xs;
+  }
+  .button-level > span:nth-last-child(1) {
+    @apply text-xs;
+  }
+
+  .box-question-count {
+    @apply grid grid-cols-1 gap-3;
+  }
+  .box-question-count > label {
+    @apply text-sm my-2;
+  }
+  .box-question-count > span {
+    @apply text-xs;
+  }
+}

@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "word": "ABERRATION",
+    "meaning": "penyimpangan",
+    "hint": "Penyimpangan dari norma atau standar yang biasa.",
+    "level": "sulit"
+  },
+  {
+    "id": 2,
+    "word": "ABHOR",
+    "meaning": "membenci",
+    "hint": "Merasa jijik atau benci yang mendalam terhadap sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 3,
+    "word": "ABROGATE",
+    "meaning": "membatalkan",
+    "hint": "Membatalkan atau mengakhiri secara resmi suatu perjanjian atau hukum.",
+    "level": "sulit"
+  },
+  {
+    "id": 4,
+    "word": "ABSTEMIOUS",
+    "meaning": "hemat",
+    "hint": "Menahan diri dari kesenangan berlebihan, terutama makanan dan minuman.",
+    "level": "sulit"
+  },
+  {
+    "id": 5,
+    "word": "ACCOLADE",
+    "meaning": "penghargaan",
+    "hint": "Pengakuan atau penghargaan atas pencapaian atau prestasi.",
+    "level": "sulit"
+  },
+  {
+    "id": 6,
+    "word": "ACRIMONIOUS",
+    "meaning": "sengit",
+    "hint": "Penuh dengan kepahitan atau permusuhan dalam perkataan atau debat.",
+    "level": "sulit"
+  },
+  {
+    "id": 7,
+    "word": "ACUMEN",
+    "meaning": "ketajaman",
+    "hint": "Kemampuan untuk memahami dan menilai situasi dengan cepat dan tepat.",
+    "level": "sulit"
+  },
+  {
+    "id": 8,
+    "word": "ADAMANT",
+    "meaning": "teguh",
+    "hint": "Sangat keras kepala dan tidak mau berubah pendirian.",
+    "level": "sulit"
+  },
+  {
+    "id": 9,
+    "word": "ADROIT",
+    "meaning": "cekatan",
+    "hint": "Terampil dan pintar dalam melakukan sesuatu, terutama dengan tangan.",
+    "level": "sulit"
+  },
+  {
+    "id": 10,
+    "word": "AESTHETIC",
+    "meaning": "estetika",
+    "hint": "Berkaitan dengan keindahan atau apresiasi terhadap seni dan keindahan.",
+    "level": "sulit"
+  },
+  {
+    "id": 11,
+    "word": "AFFLUENT",
+    "meaning": "makmur",
+    "hint": "Memiliki banyak kekayaan atau uang.",
+    "level": "sulit"
+  },
+  {
+    "id": 12,
+    "word": "ALACRITY",
+    "meaning": "kecepatan",
+    "hint": "Kegembiraan atau kesiapan yang cepat dalam merespons atau melakukan sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 13,
+    "word": "ALTRUISTIC",
+    "meaning": "altruistik",
+    "hint": "Peduli dan memperhatikan kesejahteraan orang lain tanpa pamrih.",
+    "level": "sulit"
+  },
+  {
+    "id": 14,
+    "word": "AMALGAMATE",
+    "meaning": "menggabungkan",
+    "hint": "Menggabungkan beberapa hal menjadi satu kesatuan.",
+    "level": "sulit"
+  },
+  {
+    "id": 15,
+    "word": "AMBIVALENT",
+    "meaning": "ambivalen",
+    "hint": "Memiliki perasaan atau pendapat yang bertentangan tentang sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 16,
+    "word": "AMELIORATE",
+    "meaning": "memperbaiki",
+    "hint": "Membuat sesuatu menjadi lebih baik, terutama yang bermasalah.",
+    "level": "sulit"
+  },
+  {
+    "id": 17,
+    "word": "ANACHRONISM",
+    "meaning": "kuno",
+    "hint": "Sesuatu yang tidak sesuai dengan zamannya atau terasa ketinggalan zaman.",
+    "level": "sulit"
+  },
+  {
+    "id": 18,
+    "word": "ANOMALY",
+    "meaning": "anomali",
+    "hint": "Sesuatu yang tidak normal atau menyimpang dari pola yang biasa.",
+    "level": "sulit"
+  },
+  {
+    "id": 19,
+    "word": "ANTAGONIZE",
+    "meaning": "memusuhi",
+    "hint": "Bertindak atau berbicara yang membuat orang lain marah atau bermusuhan.",
+    "level": "sulit"
+  },
+  {
+    "id": 20,
+    "word": "ANTIPATHY",
+    "meaning": "antipati",
+    "hint": "Perasaan tidak suka atau permusuhan yang kuat terhadap seseorang atau sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 21,
+    "word": "APATHY",
+    "meaning": "apatis",
+    "hint": "Kurangnya minat, semangat, atau kepedulian terhadap sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 22,
+    "word": "APOCRYPHAL",
+    "meaning": "diragukan",
+    "hint": "Cerita atau pernyataan yang diragukan kebenarannya, meskipun sering diceritakan.",
+    "level": "sulit"
+  },
+  {
+    "id": 23,
+    "word": "ARBITRATE",
+    "meaning": "menengahi",
+    "hint": "Menjadi pihak ketiga yang netral untuk menyelesaikan sengketa.",
+    "level": "sulit"
+  },
+  {
+    "id": 24,
+    "word": "ARDUOUS",
+    "meaning": "sulit",
+    "hint": "Membutuhkan banyak usaha dan tenaga, sangat berat.",
+    "level": "sulit"
+  },
+  {
+    "id": 25,
+    "word": "ARTICULATE",
+    "meaning": "fasih",
+    "hint": "Mampu mengekspresikan pikiran dan ide dengan jelas dan efektif.",
+    "level": "sulit"
+  },
+  {
+    "id": 26,
+    "word": "ASCERTAIN",
+    "meaning": "memastikan",
+    "hint": "Menemukan sesuatu dengan pasti melalui penyelidikan atau penelitian.",
+    "level": "sulit"
+  },
+  {
+    "id": 27,
+    "word": "ASPERSION",
+    "meaning": "fitnah",
+    "hint": "Pernyataan yang tidak adil atau merusak reputasi seseorang.",
+    "level": "sulit"
+  },
+  {
+    "id": 28,
+    "word": "ASSIDUOUS",
+    "meaning": "rajin",
+    "hint": "Bekerja dengan tekun, teliti, dan penuh perhatian.",
+    "level": "sulit"
+  },
+  {
+    "id": 29,
+    "word": "AUGMENT",
+    "meaning": "menambah",
+    "hint": "Membuat sesuatu menjadi lebih besar, lebih banyak, atau lebih baik dengan menambahkan.",
+    "level": "sulit"
+  },
+  {
+    "id": 30,
+    "word": "AUSTERE",
+    "meaning": "sederhana",
+    "hint": "Sangat sederhana, keras, atau tidak memiliki kemewahan.",
+    "level": "sulit"
+  },
+  {
+    "id": 31,
+    "word": "AUTHORITARIAN",
+    "meaning": "otoriter",
+    "hint": "Mengabaikan kebebasan individu dan menuntut kepatuhan total.",
+    "level": "sulit"
+  },
+  {
+    "id": 32,
+    "word": "AVARICE",
+    "meaning": "ketamakan",
+    "hint": "Keinginan besar akan kekayaan atau harta yang berlebihan.",
+    "level": "sulit"
+  },
+  {
+    "id": 33,
+    "word": "BANAL",
+    "meaning": "klise",
+    "hint": "Sangat biasa atau tidak menarik karena sering diulang-ulang.",
+    "level": "sulit"
+  },
+  {
+    "id": 34,
+    "word": "BELLIGERENT",
+    "meaning": "agresif",
+    "hint": "Suka berperang atau menunjukkan sikap bermusuhan.",
+    "level": "sulit"
+  },
+  {
+    "id": 35,
+    "word": "BENEVOLENT",
+    "meaning": "baik hati",
+    "hint": "Baik hati dan ingin membantu orang lain.",
+    "level": "sulit"
+  },
+  {
+    "id": 36,
+    "word": "BERATE",
+    "meaning": "memarahi",
+    "hint": "Mengomeli atau memarahi seseorang dengan keras.",
+    "level": "sulit"
+  },
+  {
+    "id": 37,
+    "word": "BOLSTER",
+    "meaning": "memperkuat",
+    "hint": "Memberi dukungan atau kekuatan tambahan terhadap sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 38,
+    "word": "BOMBASTIC",
+    "meaning": "berlebihan",
+    "hint": "Menggunakan kata-kata yang muluk-muluk namun tidak bermakna.",
+    "level": "sulit"
+  },
+  {
+    "id": 39,
+    "word": "BREVITY",
+    "meaning": "keringkasan",
+    "hint": "Kualitas yang singkat dan padat dalam penyampaian.",
+    "level": "sulit"
+  },
+  {
+    "id": 40,
+    "word": "BUREAUCRATIC",
+    "meaning": "birokratis",
+    "hint": "Berkaitan dengan prosedur administratif yang rumit dan lambat.",
+    "level": "sulit"
+  },
+  {
+    "id": 41,
+    "word": "CACOPHONY",
+    "meaning": "hiruk-pikuk",
+    "hint": "Campuran suara yang keras dan tidak enak didengar.",
+    "level": "sulit"
+  },
+  {
+    "id": 42,
+    "word": "CAPITULATE",
+    "meaning": "menyerah",
+    "hint": "Berhenti melawan dan menyerah pada tuntutan atau tekanan.",
+    "level": "sulit"
+  },
+  {
+    "id": 43,
+    "word": "CAPRICIOUS",
+    "meaning": "berubah-ubah",
+    "hint": "Perilaku atau keputusan yang tiba-tiba berubah tanpa alasan jelas.",
+    "level": "sulit"
+  },
+  {
+    "id": 44,
+    "word": "CASTIGATE",
+    "meaning": "mengritik",
+    "hint": "Mengritik atau menghukum seseorang dengan keras.",
+    "level": "sulit"
+  },
+  {
+    "id": 45,
+    "word": "CATALYST",
+    "meaning": "katalis",
+    "hint": "Sesuatu yang mempercepat perubahan atau tindakan tanpa ikut berubah.",
+    "level": "sulit"
+  },
+  {
+    "id": 46,
+    "word": "CAUSTIC",
+    "meaning": "pedas",
+    "hint": "Kata-kata yang tajam, sarkastik, dan bisa melukai perasaan.",
+    "level": "sulit"
+  },
+  {
+    "id": 47,
+    "word": "CENSURE",
+    "meaning": "kecaman",
+    "hint": "Kecaman atau kritik keras secara resmi terhadap seseorang.",
+    "level": "sulit"
+  },
+  {
+    "id": 48,
+    "word": "CHAOS",
+    "meaning": "kekacauan",
+    "hint": "Keadaan yang sangat kacau dan tidak teratur.",
+    "level": "sulit"
+  },
+  {
+    "id": 49,
+    "word": "CHASTISE",
+    "meaning": "menghukum",
+    "hint": "Menghukum atau mengkritik seseorang untuk memperbaikinya.",
+    "level": "sulit"
+  },
+  {
+    "id": 50,
+    "word": "CLANDESTINE",
+    "meaning": "rahasia",
+    "hint": "Dilakukan secara rahasia, seringkali untuk tujuan terlarang.",
+    "level": "sulit"
+  },
+  {
+    "id": 51,
+    "word": "COERCION",
+    "meaning": "paksaan",
+    "hint": "Tindakan memaksa seseorang melakukan sesuatu dengan ancaman atau kekuatan.",
+    "level": "sulit"
+  },
+  {
+    "id": 52,
+    "word": "COGENT",
+    "meaning": "meyakinkan",
+    "hint": "Argumen yang kuat, jelas, dan meyakinkan.",
+    "level": "sulit"
+  },
+  {
+    "id": 53,
+    "word": "COMMENSURATE",
+    "meaning": "sepadan",
+    "hint": "Sesuai atau proporsional dengan ukuran atau tingkat sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 54,
+    "word": "COMPLACENT",
+    "meaning": "puas diri",
+    "hint": "Merasa puas dengan diri sendiri sehingga tidak peduli pada perubahan.",
+    "level": "sulit"
+  },
+  {
+    "id": 55,
+    "word": "CONCILIATORY",
+    "meaning": "mendamaikan",
+    "hint": "Bertujuan untuk menenangkan atau menyelesaikan konflik.",
+    "level": "sulit"
+  },
+  {
+    "id": 56,
+    "word": "CONCUR",
+    "meaning": "setuju",
+    "hint": "Setuju dengan pendapat atau pernyataan orang lain.",
+    "level": "sulit"
+  },
+  {
+    "id": 57,
+    "word": "CONDESCEND",
+    "meaning": "merendahkan",
+    "hint": "Merasa lebih tinggi dan memperlakukan orang lain dengan rendah.",
+    "level": "sulit"
+  },
+  {
+    "id": 58,
+    "word": "CONFLAGRATION",
+    "meaning": "kebakaran besar",
+    "hint": "Kebakaran yang besar dan menghancurkan.",
+    "level": "sulit"
+  },
+  {
+    "id": 59,
+    "word": "CONFORMITY",
+    "meaning": "kepatuhan",
+    "hint": "Menyesuaikan diri dengan aturan, standar, atau kebiasaan.",
+    "level": "sulit"
+  },
+  {
+    "id": 60,
+    "word": "CONFOUND",
+    "meaning": "membingungkan",
+    "hint": "Membingungkan atau mengecoh seseorang sepenuhnya.",
+    "level": "sulit"
+  },
+  {
+    "id": 61,
+    "word": "CONNOISSEUR",
+    "meaning": "penikmat",
+    "hint": "Orang yang memiliki pengetahuan mendalam dan apresiasi tinggi di bidang tertentu.",
+    "level": "sulit"
+  },
+  {
+    "id": 62,
+    "word": "CONSENSUS",
+    "meaning": "konsensus",
+    "hint": "Kesepakatan umum yang dicapai oleh kelompok.",
+    "level": "sulit"
+  },
+  {
+    "id": 63,
+    "word": "CONSTRUE",
+    "meaning": "menafsirkan",
+    "hint": "Menafsirkan atau memahami makna dari sesuatu dengan cara tertentu.",
+    "level": "sulit"
+  },
+  {
+    "id": 64,
+    "word": "CONTEMPT",
+    "meaning": "penghinaan",
+    "hint": "Perasaan bahwa seseorang atau sesuatu tidak berharga dan patut dihina.",
+    "level": "sulit"
+  },
+  {
+    "id": 65,
+    "word": "CONTEND",
+    "meaning": "berpendapat",
+    "hint": "Berdebat atau menyatakan pendapat dengan kuat.",
+    "level": "sulit"
+  },
+  {
+    "id": 66,
+    "word": "CONTENTIOUS",
+    "meaning": "kontroversial",
+    "hint": "Menyebabkan perdebatan atau perselisihan.",
+    "level": "sulit"
+  },
+  {
+    "id": 67,
+    "word": "CONTRITE",
+    "meaning": "menyesal",
+    "hint": "Merasa sangat menyesal atas kesalahan yang telah dibuat.",
+    "level": "sulit"
+  },
+  {
+    "id": 68,
+    "word": "CONTROVERT",
+    "meaning": "membantah",
+    "hint": "Membantah atau menyangkal kebenaran dari sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 69,
+    "word": "CONUNDRUM",
+    "meaning": "teka-teki",
+    "hint": "Masalah yang membingungkan dan sulit dipecahkan.",
+    "level": "sulit"
+  },
+  {
+    "id": 70,
+    "word": "CONVERGE",
+    "meaning": "bertemu",
+    "hint": "Bergerak atau bertemu pada satu titik yang sama.",
+    "level": "sulit"
+  },
+  {
+    "id": 71,
+    "word": "COPIOUS",
+    "meaning": "melimpah",
+    "hint": "Jumlah yang sangat banyak atau berlimpah.",
+    "level": "sulit"
+  },
+  {
+    "id": 72,
+    "word": "CORROBORATE",
+    "meaning": "menguatkan",
+    "hint": "Memberikan bukti tambahan yang mendukung pernyataan.",
+    "level": "sulit"
+  },
+  {
+    "id": 73,
+    "word": "COSMOPOLITAN",
+    "meaning": "kosmopolitan",
+    "hint": "Berkaitan dengan seluruh dunia dan terbuka terhadap budaya lain.",
+    "level": "sulit"
+  },
+  {
+    "id": 74,
+    "word": "COUNTERACT",
+    "meaning": "menetralisir",
+    "hint": "Bertindak untuk melawan atau mengurangi efek dari sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 75,
+    "word": "CREDENCE",
+    "meaning": "kepercayaan",
+    "hint": "Kepercayaan atau penerimaan terhadap kebenaran sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 76,
+    "word": "CREDULOUS",
+    "meaning": "mudah percaya",
+    "hint": "Terlalu cepat percaya tanpa bukti yang cukup.",
+    "level": "sulit"
+  },
+  {
+    "id": 77,
+    "word": "CRYPTIC",
+    "meaning": "samar",
+    "hint": "Memiliki makna tersembunyi yang sulit dimengerti.",
+    "level": "sulit"
+  },
+  {
+    "id": 78,
+    "word": "CUMBERSOME",
+    "meaning": "merepotkan",
+    "hint": "Sulit diurus karena ukuran atau bentuknya yang besar.",
+    "level": "sulit"
+  },
+  {
+    "id": 79,
+    "word": "CURTAIL",
+    "meaning": "membatasi",
+    "hint": "Memotong atau mengurangi sesuatu secara tiba-tiba.",
+    "level": "sulit"
+  },
+  {
+    "id": 80,
+    "word": "CYNICAL",
+    "meaning": "sinis",
+    "hint": "Berpikir bahwa orang hanya bertindak untuk kepentingan diri sendiri.",
+    "level": "sulit"
+  },
+  {
+    "id": 81,
+    "word": "DAUNT",
+    "meaning": "menakutkan",
+    "hint": "Membuat seseorang merasa tidak berani atau takut.",
+    "level": "sulit"
+  },
+  {
+    "id": 82,
+    "word": "DEARTH",
+    "meaning": "kelangkaan",
+    "hint": "Kekurangan atau ketidakcukupan jumlah sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 83,
+    "word": "DEBACLE",
+    "meaning": "kegagalan",
+    "hint": "Kegagalan total atau bencana yang memalukan.",
+    "level": "sulit"
+  },
+  {
+    "id": 84,
+    "word": "DEBUNK",
+    "meaning": "membongkar",
+    "hint": "Menunjukkan bahwa suatu mitos atau kepercayaan itu salah.",
+    "level": "sulit"
+  },
+  {
+    "id": 85,
+    "word": "DECIPHER",
+    "meaning": "menguraikan",
+    "hint": "Menguraikan kode atau tulisan yang sulit dimengerti.",
+    "level": "sulit"
+  },
+  {
+    "id": 86,
+    "word": "DECORUM",
+    "meaning": "kesopanan",
+    "hint": "Perilaku yang sesuai dengan norma dan aturan sosial.",
+    "level": "sulit"
+  },
+  {
+    "id": 87,
+    "word": "DEFERENTIAL",
+    "meaning": "hormat",
+    "hint": "Menunjukkan rasa hormat kepada orang lain, terutama yang lebih tua.",
+    "level": "sulit"
+  },
+  {
+    "id": 88,
+    "word": "DELINEATE",
+    "meaning": "menggambarkan",
+    "hint": "Menggambarkan atau menjelaskan sesuatu secara detail dan jelas.",
+    "level": "sulit"
+  },
+  {
+    "id": 89,
+    "word": "DEMEANOR",
+    "meaning": "sikap",
+    "hint": "Cara seseorang berperilaku atau bersikap di depan orang lain.",
+    "level": "sulit"
+  },
+  {
+    "id": 90,
+    "word": "DENOUNCE",
+    "meaning": "mengutuk",
+    "hint": "Mengutuk atau menyatakan ketidaksetujuan secara terbuka.",
+    "level": "sulit"
+  },
+  {
+    "id": 91,
+    "word": "DEPLETE",
+    "meaning": "menghabiskan",
+    "hint": "Mengurangi jumlah atau persediaan sesuatu secara drastis.",
+    "level": "sulit"
+  },
+  {
+    "id": 92,
+    "word": "DEPRAVED",
+    "meaning": "rusak",
+    "hint": "Secara moral buruk, tidak bermoral, atau bejat.",
+    "level": "sulit"
+  },
+  {
+    "id": 93,
+    "word": "DEROGATORY",
+    "meaning": "menghina",
+    "hint": "Kata-kata yang menunjukkan ketidakhormatan atau merendahkan.",
+    "level": "sulit"
+  },
+  {
+    "id": 94,
+    "word": "DESECRATE",
+    "meaning": "menodai",
+    "hint": "Merusak atau memperlakukan sesuatu yang suci dengan tidak hormat.",
+    "level": "sulit"
+  },
+  {
+    "id": 95,
+    "word": "DESPONDENT",
+    "meaning": "putus asa",
+    "hint": "Kehilangan harapan dan merasa sangat sedih.",
+    "level": "sulit"
+  },
+  {
+    "id": 96,
+    "word": "DETRIMENTAL",
+    "meaning": "merugikan",
+    "hint": "Menyebabkan kerusakan, bahaya, atau efek negatif.",
+    "level": "sulit"
+  },
+  {
+    "id": 97,
+    "word": "DEVOID",
+    "meaning": "tidak memiliki",
+    "hint": "Sepenuhnya tanpa atau kekurangan sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 98,
+    "word": "DEVOUT",
+    "meaning": "taat",
+    "hint": "Sangat religius atau setia dalam keyakinan.",
+    "level": "sulit"
+  },
+  {
+    "id": 99,
+    "word": "DICHOTOMY",
+    "meaning": "dikotomi",
+    "hint": "Pembagian menjadi dua bagian yang saling bertentangan.",
+    "level": "sulit"
+  },
+  {
+    "id": 100,
+    "word": "DIDACTIC",
+    "meaning": "mendidik",
+    "hint": "Bermaksud untuk mengajar atau mendidik, seringkali terlalu menggurui.",
+    "level": "sulit"
+  },
+  {
+    "id": 101,
+    "word": "DIFFIDENT",
+    "meaning": "malu",
+    "hint": "Kurang percaya diri dan cenderung ragu-ragu.",
+    "level": "sulit"
+  },
+  {
+    "id": 102,
+    "word": "DIGRESS",
+    "meaning": "menyimpang",
+    "hint": "Menyimpang dari topik utama dalam percakapan atau tulisan.",
+    "level": "sulit"
+  },
+  {
+    "id": 103,
+    "word": "DILIGENT",
+    "meaning": "rajin",
+    "hint": "Bekerja dengan tekun dan teliti.",
+    "level": "sulit"
+  },
+  {
+    "id": 104,
+    "word": "DILUTE",
+    "meaning": "mengencerkan",
+    "hint": "Mengurangi kekuatan dengan menambahkan air atau zat lain.",
+    "level": "sulit"
+  },
+  {
+    "id": 105,
+    "word": "DIMINUTIVE",
+    "meaning": "kecil",
+    "hint": "Sangat kecil dalam ukuran.",
+    "level": "sulit"
+  },
+  {
+    "id": 106,
+    "word": "DIRE",
+    "meaning": "mengerikan",
+    "hint": "Sangat serius, mengerikan, atau berbahaya.",
+    "level": "sulit"
+  },
+  {
+    "id": 107,
+    "word": "DIRGE",
+    "meaning": "lagu duka",
+    "hint": "Lagu yang dinyanyikan pada upacara pemakaman.",
+    "level": "sulit"
+  },
+  {
+    "id": 108,
+    "word": "DISCERN",
+    "meaning": "membedakan",
+    "hint": "Mampu melihat atau memahami perbedaan dengan jelas.",
+    "level": "sulit"
+  },
+  {
+    "id": 109,
+    "word": "DISPARATE",
+    "meaning": "berbeda",
+    "hint": "Benar-benar berbeda dan tidak memiliki kesamaan.",
+    "level": "sulit"
+  },
+  {
+    "id": 110,
+    "word": "DISPASSIONATE",
+    "meaning": "objektif",
+    "hint": "Tidak terpengaruh oleh emosi, tenang dan adil.",
+    "level": "sulit"
+  },
+  {
+    "id": 111,
+    "word": "DISSEMINATE",
+    "meaning": "menyebarkan",
+    "hint": "Menyebarkan informasi atau ide kepada banyak orang.",
+    "level": "sulit"
+  },
+  {
+    "id": 112,
+    "word": "DISSENT",
+    "meaning": "perbedaan pendapat",
+    "hint": "Ketidaksetujuan dengan pendapat atau keputusan mayoritas.",
+    "level": "sulit"
+  },
+  {
+    "id": 113,
+    "word": "DISSIPATE",
+    "meaning": "menghilang",
+    "hint": "Menghilang atau menyebar perlahan-lahan.",
+    "level": "sulit"
+  },
+  {
+    "id": 114,
+    "word": "DISTAL",
+    "meaning": "jauh",
+    "hint": "Terletak jauh dari titik pusat atau tengah.",
+    "level": "sulit"
+  },
+  {
+    "id": 115,
+    "word": "DISTEND",
+    "meaning": "menggembung",
+    "hint": "Membesar atau menggembung karena tekanan dari dalam.",
+    "level": "sulit"
+  },
+  {
+    "id": 116,
+    "word": "DIVERGENT",
+    "meaning": "berbeda",
+    "hint": "Bergerak ke arah yang berbeda atau memiliki perbedaan.",
+    "level": "sulit"
+  },
+  {
+    "id": 117,
+    "word": "DOCILE",
+    "meaning": "penurut",
+    "hint": "Mudah diatur dan patuh tanpa perlawanan.",
+    "level": "sulit"
+  },
+  {
+    "id": 118,
+    "word": "DOLOROUS",
+    "meaning": "sedih",
+    "hint": "Penuh dengan kesedihan atau rasa sakit.",
+    "level": "sulit"
+  },
+  {
+    "id": 119,
+    "word": "DUBIOUS",
+    "meaning": "diragukan",
+    "hint": "Meragukan atau tidak pasti tentang sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 120,
+    "word": "DUPLICITOUS",
+    "meaning": "munafik",
+    "hint": "Berbohong atau menipu dengan sengaja, tidak jujur.",
+    "level": "sulit"
+  },
+  {
+    "id": 121,
+    "word": "DURESS",
+    "meaning": "paksaan",
+    "hint": "Ancaman atau tekanan yang memaksa seseorang bertindak.",
+    "level": "sulit"
+  },
+  {
+    "id": 122,
+    "word": "EBULLIENT",
+    "meaning": "bersemangat",
+    "hint": "Penuh semangat, antusias, dan energi tinggi.",
+    "level": "sulit"
+  },
+  {
+    "id": 123,
+    "word": "ECLECTIC",
+    "meaning": "eklektik",
+    "hint": "Mengambil dari berbagai sumber atau gaya yang berbeda.",
+    "level": "sulit"
+  },
+  {
+    "id": 124,
+    "word": "EFFICACIOUS",
+    "meaning": "efektif",
+    "hint": "Mampu menghasilkan hasil yang diinginkan.",
+    "level": "sulit"
+  },
+  {
+    "id": 125,
+    "word": "EGREGIOUS",
+    "meaning": "besar",
+    "hint": "Sangat besar, jelas, atau mencolok dalam hal negatif.",
+    "level": "sulit"
+  },
+  {
+    "id": 126,
+    "word": "ELEGIAC",
+    "meaning": "sedih",
+    "hint": "Bersifat sedih atau meratapi, seperti puisi duka.",
+    "level": "sulit"
+  },
+  {
+    "id": 127,
+    "word": "ELICIT",
+    "meaning": "menimbulkan",
+    "hint": "Menimbulkan atau mengeluarkan respons atau informasi.",
+    "level": "sulit"
+  },
+  {
+    "id": 128,
+    "word": "ELOQUENT",
+    "meaning": "fasih",
+    "hint": "Berkomunikasi dengan lancar, ekspresif, dan meyakinkan.",
+    "level": "sulit"
+  },
+  {
+    "id": 129,
+    "word": "EMACIATED",
+    "meaning": "kurus",
+    "hint": "Sangat kurus karena kelaparan atau penyakit.",
+    "level": "sulit"
+  },
+  {
+    "id": 130,
+    "word": "EMANCIPATE",
+    "meaning": "membebaskan",
+    "hint": "Membebaskan dari perbudakan atau penindasan.",
+    "level": "sulit"
+  },
+  {
+    "id": 131,
+    "word": "EMBELLISH",
+    "meaning": "memperindah",
+    "hint": "Menambahkan detail untuk membuat cerita atau benda lebih menarik.",
+    "level": "sulit"
+  },
+  {
+    "id": 132,
+    "word": "EMBODY",
+    "meaning": "mewujudkan",
+    "hint": "Merupakan atau mencerminkan ide atau kualitas tertentu.",
+    "level": "sulit"
+  },
+  {
+    "id": 133,
+    "word": "EMPATHY",
+    "meaning": "empati",
+    "hint": "Kemampuan untuk memahami dan merasakan perasaan orang lain.",
+    "level": "sulit"
+  },
+  {
+    "id": 134,
+    "word": "ENCOMPASS",
+    "meaning": "mencakup",
+    "hint": "Mencakup atau meliputi berbagai hal.",
+    "level": "sulit"
+  },
+  {
+    "id": 135,
+    "word": "ENDEAVOR",
+    "meaning": "berusaha",
+    "hint": "Usaha yang sungguh-sungguh untuk mencapai sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 136,
+    "word": "ENDEMIC",
+    "meaning": "endemik",
+    "hint": "Biasa terjadi pada suatu tempat atau kelompok tertentu.",
+    "level": "sulit"
+  },
+  {
+    "id": 137,
+    "word": "ENERVATE",
+    "meaning": "melemahkan",
+    "hint": "Mengurangi kekuatan atau energi.",
+    "level": "sulit"
+  },
+  {
+    "id": 138,
+    "word": "ENIGMA",
+    "meaning": "misteri",
+    "hint": "Orang atau hal yang sulit dipahami atau dijelaskan.",
+    "level": "sulit"
+  },
+  {
+    "id": 139,
+    "word": "ENMITY",
+    "meaning": "permusuhan",
+    "hint": "Perasaan bermusuhan atau kebencian yang mendalam.",
+    "level": "sulit"
+  },
+  {
+    "id": 140,
+    "word": "ENORMITY",
+    "meaning": "kebesaran",
+    "hint": "Ukuran atau skala yang sangat besar, seringkali mengerikan.",
+    "level": "sulit"
+  },
+  {
+    "id": 141,
+    "word": "EPHEMERAL",
+    "meaning": "sementara",
+    "hint": "Berlangsung untuk waktu yang sangat singkat.",
+    "level": "sulit"
+  },
+  {
+    "id": 142,
+    "word": "EQUIVOCAL",
+    "meaning": "ambigu",
+    "hint": "Makna yang tidak jelas dan bisa ditafsirkan berbeda.",
+    "level": "sulit"
+  },
+  {
+    "id": 143,
+    "word": "ERRONEOUS",
+    "meaning": "keliru",
+    "hint": "Mengandung kesalahan atau tidak benar.",
+    "level": "sulit"
+  },
+  {
+    "id": 144,
+    "word": "ESOTERIC",
+    "meaning": "esoterik",
+    "hint": "Dipahami oleh sedikit orang yang berpengetahuan khusus.",
+    "level": "sulit"
+  },
+  {
+    "id": 145,
+    "word": "EUPHEMISM",
+    "meaning": "eufemisme",
+    "hint": "Kata atau frasa yang lebih halus untuk menggantikan kata kasar.",
+    "level": "sulit"
+  },
+  {
+    "id": 146,
+    "word": "EXACERBATE",
+    "meaning": "memperburuk",
+    "hint": "Membuat masalah menjadi lebih parah.",
+    "level": "sulit"
+  },
+  {
+    "id": 147,
+    "word": "EXALT",
+    "meaning": "memuji",
+    "hint": "Memuji sangat tinggi atau mengagungkan.",
+    "level": "sulit"
+  },
+  {
+    "id": 148,
+    "word": "EXASPERATE",
+    "meaning": "menjengkelkan",
+    "hint": "Membuat seseorang sangat kesal atau marah.",
+    "level": "sulit"
+  },
+  {
+    "id": 149,
+    "word": "EXEMPLARY",
+    "meaning": "teladan",
+    "hint": "Menjadi contoh atau panutan yang sangat baik.",
+    "level": "sulit"
+  },
+  {
+    "id": 150,
+    "word": "EXHILARATE",
+    "meaning": "menggembirakan",
+    "hint": "Membuat seseorang merasa sangat senang dan bersemangat.",
+    "level": "sulit"
+  },
+  {
+    "id": 151,
+    "word": "EXONERATE",
+    "meaning": "membebaskan",
+    "hint": "Membebaskan seseorang dari tuduhan atau kesalahan.",
+    "level": "sulit"
+  },
+  {
+    "id": 152,
+    "word": "EXPEDITE",
+    "meaning": "mempercepat",
+    "hint": "Mempercepat proses agar selesai lebih cepat.",
+    "level": "sulit"
+  },
+  {
+    "id": 153,
+    "word": "EXPUNGE",
+    "meaning": "menghapus",
+    "hint": "Menghapus atau menghilangkan sepenuhnya.",
+    "level": "sulit"
+  },
+  {
+    "id": 154,
+    "word": "EXTEMPORANEOUS",
+    "meaning": "spontan",
+    "hint": "Dilakukan atau diucapkan tanpa persiapan.",
+    "level": "sulit"
+  },
+  {
+    "id": 155,
+    "word": "EXTENUATING",
+    "meaning": "meringankan",
+    "hint": "Membuat kesalahan tampak tidak begitu buruk.",
+    "level": "sulit"
+  },
+  {
+    "id": 156,
+    "word": "EXTRICATE",
+    "meaning": "membebaskan",
+    "hint": "Membebaskan dari situasi sulit atau kusut.",
+    "level": "sulit"
+  },
+  {
+    "id": 157,
+    "word": "FALLACIOUS",
+    "meaning": "sesat",
+    "hint": "Berdasarkan pada kesalahan logika atau pemikiran keliru.",
+    "level": "sulit"
+  },
+  {
+    "id": 158,
+    "word": "FANATICAL",
+    "meaning": "fanatik",
+    "hint": "Terlalu bersemangat dan tidak rasional dalam kepercayaan.",
+    "level": "sulit"
+  },
+  {
+    "id": 159,
+    "word": "FATUOUS",
+    "meaning": "bodoh",
+    "hint": "Sangat tidak bijaksana atau konyol.",
+    "level": "sulit"
+  },
+  {
+    "id": 160,
+    "word": "FECKLESS",
+    "meaning": "tidak berguna",
+    "hint": "Tidak bertanggung jawab dan tidak efektif.",
+    "level": "sulit"
+  },
+  {
+    "id": 161,
+    "word": "FELICITOUS",
+    "meaning": "tepat",
+    "hint": "Sangat tepat dan cocok, menghasilkan hasil yang baik.",
+    "level": "sulit"
+  },
+  {
+    "id": 162,
+    "word": "FERVENT",
+    "meaning": "bersemangat",
+    "hint": "Penuh semangat dan keyakinan yang kuat.",
+    "level": "sulit"
+  },
+  {
+    "id": 163,
+    "word": "FICKLE",
+    "meaning": "berubah-ubah",
+    "hint": "Cepat berubah pendirian atau kesetiaan.",
+    "level": "sulit"
+  },
+  {
+    "id": 164,
+    "word": "FLAGRANT",
+    "meaning": "mencolok",
+    "hint": "Sangat jelas dan mencolok dalam hal negatif.",
+    "level": "sulit"
+  },
+  {
+    "id": 165,
+    "word": "FLIPPANT",
+    "meaning": "tidak serius",
+    "hint": "Tidak menghormati hal serius dengan sikap ringan.",
+    "level": "sulit"
+  },
+  {
+    "id": 166,
+    "word": "FORTUITOUS",
+    "meaning": "beruntung",
+    "hint": "Terjadi secara kebetulan yang menguntungkan.",
+    "level": "sulit"
+  },
+  {
+    "id": 167,
+    "word": "FRACTIOUS",
+    "meaning": "berkelahi",
+    "hint": "Mudah marah dan sering bertengkar.",
+    "level": "sulit"
+  },
+  {
+    "id": 168,
+    "word": "FRENETIC",
+    "meaning": "hiruk-pikuk",
+    "hint": "Sangat sibuk, kacau, dan penuh aktivitas.",
+    "level": "sulit"
+  },
+  {
+    "id": 169,
+    "word": "FRUGAL",
+    "meaning": "hemat",
+    "hint": "Berhemat dalam penggunaan uang atau sumber daya.",
+    "level": "sulit"
+  },
+  {
+    "id": 170,
+    "word": "FURTIVE",
+    "meaning": "sembunyi",
+    "hint": "Dilakukan secara rahasia untuk menghindari perhatian.",
+    "level": "sulit"
+  },
+  {
+    "id": 171,
+    "word": "GARRULOUS",
+    "meaning": "banyak bicara",
+    "hint": "Terlalu banyak berbicara tentang hal-hal yang tidak penting.",
+    "level": "sulit"
+  },
+  {
+    "id": 172,
+    "word": "GAUCHE",
+    "meaning": "canggung",
+    "hint": "Kurang sopan atau canggung secara sosial.",
+    "level": "sulit"
+  },
+  {
+    "id": 173,
+    "word": "GERMANE",
+    "meaning": "relevan",
+    "hint": "Berhubungan atau relevan dengan topik yang sedang dibahas.",
+    "level": "sulit"
+  },
+  {
+    "id": 174,
+    "word": "GLUTTONOUS",
+    "meaning": "rakus",
+    "hint": "Makan dan minum terlalu banyak.",
+    "level": "sulit"
+  },
+  {
+    "id": 175,
+    "word": "GRANDILOQUENT",
+    "meaning": "berbunga-bunga",
+    "hint": "Menggunakan kata-kata muluk yang berlebihan.",
+    "level": "sulit"
+  },
+  {
+    "id": 176,
+    "word": "GREGARIOUS",
+    "meaning": "ramah",
+    "hint": "Suka bergaul dan menikmati kebersamaan dengan orang lain.",
+    "level": "sulit"
+  },
+  {
+    "id": 177,
+    "word": "GUILE",
+    "meaning": "tipu daya",
+    "hint": "Kecerdasan yang digunakan untuk menipu atau memanipulasi.",
+    "level": "sulit"
+  },
+  {
+    "id": 178,
+    "word": "HACKNEYED",
+    "meaning": "klise",
+    "hint": "Sudah terlalu sering digunakan sehingga kehilangan daya tarik.",
+    "level": "sulit"
+  },
+  {
+    "id": 179,
+    "word": "HAPHAZARD",
+    "meaning": "sembarangan",
+    "hint": "Tidak terencana dan dilakukan secara acak.",
+    "level": "sulit"
+  },
+  {
+    "id": 180,
+    "word": "HARBINGER",
+    "meaning": "pertanda",
+    "hint": "Sesuatu yang menandakan kedatangan sesuatu yang lain.",
+    "level": "sulit"
+  },
+  {
+    "id": 181,
+    "word": "HEDONISTIC",
+    "meaning": "hedonis",
+    "hint": "Mengejar kesenangan sebagai tujuan utama hidup.",
+    "level": "sulit"
+  },
+  {
+    "id": 182,
+    "word": "HETEROGENEOUS",
+    "meaning": "beragam",
+    "hint": "Terdiri dari berbagai jenis atau unsur yang berbeda.",
+    "level": "sulit"
+  },
+  {
+    "id": 183,
+    "word": "HISTRIONIC",
+    "meaning": "dramatis",
+    "hint": "Berperilaku sangat dramatis untuk menarik perhatian.",
+    "level": "sulit"
+  },
+  {
+    "id": 184,
+    "word": "HOMOGENEOUS",
+    "meaning": "seragam",
+    "hint": "Terdiri dari unsur yang sama atau sejenis.",
+    "level": "sulit"
+  },
+  {
+    "id": 185,
+    "word": "HUBRIS",
+    "meaning": "kesombongan",
+    "hint": "Kesombongan yang berlebihan yang sering berujung pada kehancuran.",
+    "level": "sulit"
+  },
+  {
+    "id": 186,
+    "word": "HYPERBOLE",
+    "meaning": "hiperbola",
+    "hint": "Pernyataan yang dilebih-lebihkan untuk efek dramatis.",
+    "level": "sulit"
+  },
+  {
+    "id": 187,
+    "word": "ICONOCLAST",
+    "meaning": "pembaharu",
+    "hint": "Orang yang menantang kepercayaan atau tradisi yang mapan.",
+    "level": "sulit"
+  },
+  {
+    "id": 188,
+    "word": "IDYLLIC",
+    "meaning": "indah",
+    "hint": "Sangat damai, indah, dan sempurna.",
+    "level": "sulit"
+  },
+  {
+    "id": 189,
+    "word": "IGNOBLE",
+    "meaning": "rendah",
+    "hint": "Tidak terhormat atau tidak mulia.",
+    "level": "sulit"
+  },
+  {
+    "id": 190,
+    "word": "IMMINENT",
+    "meaning": "akan segera terjadi",
+    "hint": "Akan terjadi dalam waktu dekat dan tidak dapat dihindari.",
+    "level": "sulit"
+  },
+  {
+    "id": 191,
+    "word": "IMMUTABLE",
+    "meaning": "tidak berubah",
+    "hint": "Tidak dapat diubah atau dimodifikasi.",
+    "level": "sulit"
+  },
+  {
+    "id": 192,
+    "word": "IMPARTIAL",
+    "meaning": "tidak memihak",
+    "hint": "Bersikap adil dan tidak memihak pada salah satu pihak.",
+    "level": "sulit"
+  },
+  {
+    "id": 193,
+    "word": "IMPASSIONED",
+    "meaning": "penuh semangat",
+    "hint": "Penuh dengan emosi dan semangat yang kuat.",
+    "level": "sulit"
+  },
+  {
+    "id": 194,
+    "word": "IMPERATIVE",
+    "meaning": "penting",
+    "hint": "Sangat penting dan mendesak untuk dilakukan.",
+    "level": "sulit"
+  },
+  {
+    "id": 195,
+    "word": "IMPERIOUS",
+    "meaning": "sombong",
+    "hint": "Bertingkah seperti penguasa dan mengharapkan kepatuhan.",
+    "level": "sulit"
+  },
+  {
+    "id": 196,
+    "word": "IMPLACABLE",
+    "meaning": "tidak bisa didamaikan",
+    "hint": "Tidak bisa ditenangkan atau diubah pendiriannya.",
+    "level": "sulit"
+  },
+  {
+    "id": 197,
+    "word": "IMPUGN",
+    "meaning": "mempertanyakan",
+    "hint": "Mempertanyakan atau meragukan integritas atau kebenaran.",
+    "level": "sulit"
+  },
+  {
+    "id": 198,
+    "word": "INADVERTENTLY",
+    "meaning": "tidak sengaja",
+    "hint": "Terjadi tanpa sengaja atau tanpa disadari.",
+    "level": "sulit"
+  },
+  {
+    "id": 199,
+    "word": "INARTICULATE",
+    "meaning": "tidak fasih",
+    "hint": "Sulit mengekspresikan pikiran dengan jelas.",
+    "level": "sulit"
+  },
+  {
+    "id": 200,
+    "word": "INCENDIARY",
+    "meaning": "menghasut",
+    "hint": "Bertujuan untuk membangkitkan kemarahan atau kekerasan.",
+    "level": "sulit"
+  },
+  {
+    "id": 201,
+    "word": "INCESSANT",
+    "meaning": "terus-menerus",
+    "hint": "Berlangsung tanpa henti dan terus menerus.",
+    "level": "sulit"
+  },
+  {
+    "id": 202,
+    "word": "INCHOATE",
+    "meaning": "belum sempurna",
+    "hint": "Baru mulai berkembang dan belum lengkap.",
+    "level": "sulit"
+  },
+  {
+    "id": 203,
+    "word": "INCOMMUNICADO",
+    "meaning": "terisolasi",
+    "hint": "Tidak dapat dihubungi atau berkomunikasi dengan orang lain.",
+    "level": "sulit"
+  },
+  {
+    "id": 204,
+    "word": "INCONGRUOUS",
+    "meaning": "tidak cocok",
+    "hint": "Tidak sesuai atau tidak selaras dengan lingkungannya.",
+    "level": "sulit"
+  },
+  {
+    "id": 205,
+    "word": "INCONTROVERTIBLE",
+    "meaning": "tak terbantahkan",
+    "hint": "Tidak dapat dibantah atau disangkal.",
+    "level": "sulit"
+  },
+  {
+    "id": 206,
+    "word": "INDEFATIGABLE",
+    "meaning": "tak kenal lelah",
+    "hint": "Tidak pernah lelah dan terus bekerja keras.",
+    "level": "sulit"
+  },
+  {
+    "id": 207,
+    "word": "INDIGENOUS",
+    "meaning": "asli",
+    "hint": "Berasal dari tempat tertentu secara alami.",
+    "level": "sulit"
+  },
+  {
+    "id": 208,
+    "word": "INELUCTABLE",
+    "meaning": "tak terhindarkan",
+    "hint": "Tidak dapat dihindari atau dicegah.",
+    "level": "sulit"
+  },
+  {
+    "id": 209,
+    "word": "INERT",
+    "meaning": "tidak aktif",
+    "hint": "Tidak bergerak atau bereaksi terhadap sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 210,
+    "word": "INEVITABLE",
+    "meaning": "tak terelakkan",
+    "hint": "Pasti terjadi dan tidak bisa dihindari.",
+    "level": "sulit"
+  },
+  {
+    "id": 211,
+    "word": "INGENIOUS",
+    "meaning": "kreatif",
+    "hint": "Sangat cerdas, kreatif, dan inventif.",
+    "level": "sulit"
+  },
+  {
+    "id": 212,
+    "word": "INGENUOUS",
+    "meaning": "polos",
+    "hint": "Jujur dan tidak bersembunyi, seringkali naif.",
+    "level": "sulit"
+  },
+  {
+    "id": 213,
+    "word": "INIMICAL",
+    "meaning": "bermusuhan",
+    "hint": "Merugikan atau menunjukkan permusuhan.",
+    "level": "sulit"
+  },
+  {
+    "id": 214,
+    "word": "INNOCUOUS",
+    "meaning": "tidak berbahaya",
+    "hint": "Tidak berbahaya atau tidak menimbulkan efek buruk.",
+    "level": "sulit"
+  },
+  {
+    "id": 215,
+    "word": "INSCRUTABLE",
+    "meaning": "misterius",
+    "hint": "Sulit dipahami atau dibaca.",
+    "level": "sulit"
+  },
+  {
+    "id": 216,
+    "word": "INSIDIOUS",
+    "meaning": "berbahaya",
+    "hint": "Perlahan dan diam-diam membahayakan.",
+    "level": "sulit"
+  },
+  {
+    "id": 217,
+    "word": "INSIPID",
+    "meaning": "hambar",
+    "hint": "Kurang rasa atau karakter, membosankan.",
+    "level": "sulit"
+  },
+  {
+    "id": 218,
+    "word": "INSOLENT",
+    "meaning": "kurang ajar",
+    "hint": "Tidak sopan dan tidak menghormati.",
+    "level": "sulit"
+  },
+  {
+    "id": 219,
+    "word": "INTEGRAL",
+    "meaning": "penting",
+    "hint": "Bagian penting yang tidak bisa dipisahkan.",
+    "level": "sulit"
+  },
+  {
+    "id": 220,
+    "word": "INTERMITTENT",
+    "meaning": "terputus-putus",
+    "hint": "Terjadi dengan jeda di antara waktu-waktu tertentu.",
+    "level": "sulit"
+  },
+  {
+    "id": 221,
+    "word": "INTREPID",
+    "meaning": "berani",
+    "hint": "Sangat berani dan tidak kenal takut.",
+    "level": "sulit"
+  },
+  {
+    "id": 222,
+    "word": "INTRICATE",
+    "meaning": "rumit",
+    "hint": "Sangat detail dan rumit.",
+    "level": "sulit"
+  },
+  {
+    "id": 223,
+    "word": "INTRINSIC",
+    "meaning": "melekat",
+    "hint": "Bagian penting dan tidak terpisahkan dari sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 224,
+    "word": "INUNDATE",
+    "meaning": "membanjiri",
+    "hint": "Mengaliri atau membanjiri dengan jumlah besar.",
+    "level": "sulit"
+  },
+  {
+    "id": 225,
+    "word": "INVETERATE",
+    "meaning": "mengakar",
+    "hint": "Sudah menjadi kebiasaan dan sulit diubah.",
+    "level": "sulit"
+  },
+  {
+    "id": 226,
+    "word": "IRASCIBLE",
+    "meaning": "mudah marah",
+    "hint": "Mudah tersulut kemarahan.",
+    "level": "sulit"
+  },
+  {
+    "id": 227,
+    "word": "IRREVERENT",
+    "meaning": "tidak hormat",
+    "hint": "Kurang menghormati hal yang dianggap suci.",
+    "level": "sulit"
+  },
+  {
+    "id": 228,
+    "word": "JUXTAPOSE",
+    "meaning": "berdampingan",
+    "hint": "Menempatkan dua hal bersebelahan untuk dibandingkan.",
+    "level": "sulit"
+  },
+  {
+    "id": 229,
+    "word": "LACONIC",
+    "meaning": "singkat",
+    "hint": "Menggunakan sedikit kata dalam berbicara.",
+    "level": "sulit"
+  },
+  {
+    "id": 230,
+    "word": "LASSITUDE",
+    "meaning": "kelelahan",
+    "hint": "Perasaan lelah dan tidak bersemangat.",
+    "level": "sulit"
+  },
+  {
+    "id": 231,
+    "word": "LAUDABLE",
+    "meaning": "terpuji",
+    "hint": "Patut dipuji atau dihargai.",
+    "level": "sulit"
+  },
+  {
+    "id": 232,
+    "word": "LETHARGIC",
+    "meaning": "lesu",
+    "hint": "Kurang energi dan tidak bergairah.",
+    "level": "sulit"
+  },
+  {
+    "id": 233,
+    "word": "LUGUBRIOUS",
+    "meaning": "sedih",
+    "hint": "Menunjukkan kesedihan yang mendalam dan suram.",
+    "level": "sulit"
+  },
+  {
+    "id": 234,
+    "word": "LUMINARY",
+    "meaning": "tokoh",
+    "hint": "Orang terkenal yang berprestasi di bidangnya.",
+    "level": "sulit"
+  },
+  {
+    "id": 235,
+    "word": "MAGNANIMOUS",
+    "meaning": "murah hati",
+    "hint": "Sangat pemurah dan pemaaf.",
+    "level": "sulit"
+  },
+  {
+    "id": 236,
+    "word": "MALADROIT",
+    "meaning": "canggung",
+    "hint": "Kurang terampil dan sering melakukan kesalahan.",
+    "level": "sulit"
+  },
+  {
+    "id": 237,
+    "word": "MALIGN",
+    "meaning": "jahat",
+    "hint": "Berniat jahat atau merugikan.",
+    "level": "sulit"
+  },
+  {
+    "id": 238,
+    "word": "MALLEABLE",
+    "meaning": "mudah dibentuk",
+    "hint": "Mudah dibentuk, dipengaruhi, atau diubah.",
+    "level": "sulit"
+  },
+  {
+    "id": 239,
+    "word": "MARTIAL",
+    "meaning": "militer",
+    "hint": "Berkaitan dengan perang atau militer.",
+    "level": "sulit"
+  },
+  {
+    "id": 240,
+    "word": "MARTYRDOM",
+    "meaning": "kemartiran",
+    "hint": "Penderitaan atau kematian karena mempertahankan keyakinan.",
+    "level": "sulit"
+  },
+  {
+    "id": 241,
+    "word": "MERCURIAL",
+    "meaning": "berubah-ubah",
+    "hint": "Cepat berubah suasana hati atau pendirian.",
+    "level": "sulit"
+  },
+  {
+    "id": 242,
+    "word": "MESMERIZE",
+    "meaning": "memukau",
+    "hint": "Memikat perhatian sepenuhnya sehingga terhipnotis.",
+    "level": "sulit"
+  },
+  {
+    "id": 243,
+    "word": "METICULOUS",
+    "meaning": "teliti",
+    "hint": "Sangat cermat dan memperhatikan detail kecil.",
+    "level": "sulit"
+  },
+  {
+    "id": 244,
+    "word": "MISANTHROPE",
+    "meaning": "pembenci manusia",
+    "hint": "Orang yang membenci dan menghindari sesama manusia.",
+    "level": "sulit"
+  },
+  {
+    "id": 245,
+    "word": "MISERLY",
+    "meaning": "pelit",
+    "hint": "Sangat pelit dan tidak suka mengeluarkan uang.",
+    "level": "sulit"
+  },
+  {
+    "id": 246,
+    "word": "MONOTONOUS",
+    "meaning": "monoton",
+    "hint": "Membosankan karena tidak ada variasi.",
+    "level": "sulit"
+  },
+  {
+    "id": 247,
+    "word": "MOROSE",
+    "meaning": "murung",
+    "hint": "Sering dalam keadaan murung dan tidak ramah.",
+    "level": "sulit"
+  },
+  {
+    "id": 248,
+    "word": "MUNDANE",
+    "meaning": "biasa",
+    "hint": "Sangat biasa dan tidak menarik.",
+    "level": "sulit"
+  },
+  {
+    "id": 249,
+    "word": "NARCISSISTIC",
+    "meaning": "narsis",
+    "hint": "Terlalu mencintai diri sendiri dan merasa superior.",
+    "level": "sulit"
+  },
+  {
+    "id": 250,
+    "word": "NEBULOUS",
+    "meaning": "kabur",
+    "hint": "Tidak jelas, samar, dan sulit dipahami.",
+    "level": "sulit"
+  },
+  {
+    "id": 251,
+    "word": "NEGLIGENT",
+    "meaning": "lalai",
+    "hint": "Gagal memberikan perhatian yang cukup.",
+    "level": "sulit"
+  },
+  {
+    "id": 252,
+    "word": "NEMESIS",
+    "meaning": "musuh",
+    "hint": "Musuh bebuyutan atau hukuman yang setimpal.",
+    "level": "sulit"
+  },
+  {
+    "id": 253,
+    "word": "NEPOTISM",
+    "meaning": "nepotisme",
+    "hint": "Memberi keistimewaan kepada kerabat dalam pekerjaan.",
+    "level": "sulit"
+  },
+  {
+    "id": 254,
+    "word": "NONCHALANT",
+    "meaning": "cuek",
+    "hint": "Bersikap tenang dan tidak peduli.",
+    "level": "sulit"
+  },
+  {
+    "id": 255,
+    "word": "NOSTALGIA",
+    "meaning": "nostalgia",
+    "hint": "Perasaan rindu akan masa lalu.",
+    "level": "sulit"
+  },
+  {
+    "id": 256,
+    "word": "NOTORIOUS",
+    "meaning": "terkenal buruk",
+    "hint": "Dikenal luas karena hal negatif.",
+    "level": "sulit"
+  },
+  {
+    "id": 257,
+    "word": "NOVEL",
+    "meaning": "baru",
+    "hint": "Baru, unik, dan tidak biasa.",
+    "level": "sulit"
+  },
+  {
+    "id": 258,
+    "word": "NUANCE",
+    "meaning": "nuansa",
+    "hint": "Perbedaan halus yang memberikan makna tambahan.",
+    "level": "sulit"
+  },
+  {
+    "id": 259,
+    "word": "OBFUSCATE",
+    "meaning": "mengaburkan",
+    "hint": "Membuat sesuatu menjadi tidak jelas dan sulit dimengerti.",
+    "level": "sulit"
+  },
+  {
+    "id": 260,
+    "word": "OBLIVIOUS",
+    "meaning": "tidak sadar",
+    "hint": "Tidak menyadari atau tidak memperhatikan.",
+    "level": "sulit"
+  },
+  {
+    "id": 261,
+    "word": "OBNOXIOUS",
+    "meaning": "menjengkelkan",
+    "hint": "Sangat tidak menyenangkan dan mengganggu.",
+    "level": "sulit"
+  },
+  {
+    "id": 262,
+    "word": "OBSOLETE",
+    "meaning": "usang",
+    "hint": "Tidak lagi digunakan atau ketinggalan zaman.",
+    "level": "sulit"
+  },
+  {
+    "id": 263,
+    "word": "OCCULT",
+    "meaning": "gaib",
+    "hint": "Berkaitan dengan hal gaib atau mistis.",
+    "level": "sulit"
+  },
+  {
+    "id": 264,
+    "word": "ODIOUS",
+    "meaning": "menjijikkan",
+    "hint": "Sangat menjijikkan dan menyebabkan kebencian.",
+    "level": "sulit"
+  },
+  {
+    "id": 265,
+    "word": "OFFHAND",
+    "meaning": "spontan",
+    "hint": "Dilakukan tanpa persiapan atau tanpa dipikirkan.",
+    "level": "sulit"
+  },
+  {
+    "id": 266,
+    "word": "OMINOUS",
+    "meaning": "menakutkan",
+    "hint": "Memberi pertanda buruk atau mengancam.",
+    "level": "sulit"
+  },
+  {
+    "id": 267,
+    "word": "ONEROUS",
+    "meaning": "berat",
+    "hint": "Membebani dan sulit ditanggung.",
+    "level": "sulit"
+  },
+  {
+    "id": 268,
+    "word": "OPULENT",
+    "meaning": "mewah",
+    "hint": "Sangat kaya dan mewah.",
+    "level": "sulit"
+  },
+  {
+    "id": 269,
+    "word": "OSTENTATIOUS",
+    "meaning": "mencolok",
+    "hint": "Menunjukkan kekayaan secara berlebihan untuk menarik perhatian.",
+    "level": "sulit"
+  },
+  {
+    "id": 270,
+    "word": "PANDEMIC",
+    "meaning": "pandemi",
+    "hint": "Wabah penyakit yang menyebar luas ke banyak negara.",
+    "level": "sulit"
+  },
+  {
+    "id": 271,
+    "word": "PARADIGM",
+    "meaning": "paradigma",
+    "hint": "Model atau pola yang menjadi contoh.",
+    "level": "sulit"
+  },
+  {
+    "id": 272,
+    "word": "PARADOX",
+    "meaning": "paradoks",
+    "hint": "Pernyataan yang tampaknya bertentangan namun mengandung kebenaran.",
+    "level": "sulit"
+  },
+  {
+    "id": 273,
+    "word": "PARSIMONIOUS",
+    "meaning": "pelit",
+    "hint": "Sangat hemat hingga berlebihan.",
+    "level": "sulit"
+  },
+  {
+    "id": 274,
+    "word": "PARTISAN",
+    "meaning": "berpihak",
+    "hint": "Mendukung satu pihak secara membabi buta.",
+    "level": "sulit"
+  },
+  {
+    "id": 275,
+    "word": "PATHETIC",
+    "meaning": "menyedihkan",
+    "hint": "Sangat menyedihkan atau memalukan.",
+    "level": "sulit"
+  },
+  {
+    "id": 276,
+    "word": "PATRONIZING",
+    "meaning": "merendahkan",
+    "hint": "Bersikap merasa lebih baik dan merendahkan orang lain.",
+    "level": "sulit"
+  },
+  {
+    "id": 277,
+    "word": "PENCHANT",
+    "meaning": "kecenderungan",
+    "hint": "Kecenderungan atau kesukaan yang kuat terhadap sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 278,
+    "word": "PERFUNCTORY",
+    "meaning": "asal-asalan",
+    "hint": "Dilakukan dengan cara asal-asalan tanpa perhatian.",
+    "level": "sulit"
+  },
+  {
+    "id": 279,
+    "word": "PERIPHERAL",
+    "meaning": "pinggiran",
+    "hint": "Berada di tepi atau tidak terlalu penting.",
+    "level": "sulit"
+  },
+  {
+    "id": 280,
+    "word": "PERMEATE",
+    "meaning": "meresap",
+    "hint": "Meresap ke seluruh bagian.",
+    "level": "sulit"
+  },
+  {
+    "id": 281,
+    "word": "PERNICIOUS",
+    "meaning": "berbahaya",
+    "hint": "Sangat merugikan dan berbahaya.",
+    "level": "sulit"
+  },
+  {
+    "id": 282,
+    "word": "PERPETUATE",
+    "meaning": "melanggengkan",
+    "hint": "Membuat sesuatu bertahan terus-menerus.",
+    "level": "sulit"
+  },
+  {
+    "id": 283,
+    "word": "PERSEVERANCE",
+    "meaning": "ketekunan",
+    "hint": "Usaha terus-menerus untuk mencapai tujuan.",
+    "level": "sulit"
+  },
+  {
+    "id": 284,
+    "word": "PERTINENT",
+    "meaning": "relevan",
+    "hint": "Berhubungan langsung dengan topik yang dibahas.",
+    "level": "sulit"
+  },
+  {
+    "id": 285,
+    "word": "PETRIFY",
+    "meaning": "membatu",
+    "hint": "Membuat seseorang sangat ketakutan sehingga tidak bisa bergerak.",
+    "level": "sulit"
+  },
+  {
+    "id": 286,
+    "word": "PHILANTHROPY",
+    "meaning": "filantropi",
+    "hint": "Usaha untuk meningkatkan kesejahteraan orang lain melalui donasi.",
+    "level": "sulit"
+  },
+  {
+    "id": 287,
+    "word": "PIVOTAL",
+    "meaning": "penting",
+    "hint": "Sangat penting dan menentukan.",
+    "level": "sulit"
+  },
+  {
+    "id": 288,
+    "word": "PLACATE",
+    "meaning": "menenangkan",
+    "hint": "Menenangkan orang yang marah atau kesal.",
+    "level": "sulit"
+  },
+  {
+    "id": 289,
+    "word": "PLAUSIBLE",
+    "meaning": "masuk akal",
+    "hint": "Tampaknya benar atau masuk akal meskipun mungkin tidak.",
+    "level": "sulit"
+  },
+  {
+    "id": 290,
+    "word": "PLETHORA",
+    "meaning": "kelimpahan",
+    "hint": "Jumlah yang sangat banyak dan berlebihan.",
+    "level": "sulit"
+  },
+  {
+    "id": 291,
+    "word": "POIGNANT",
+    "meaning": "mengharukan",
+    "hint": "Menyentuh perasaan dan menyebabkan kesedihan.",
+    "level": "sulit"
+  },
+  {
+    "id": 292,
+    "word": "POLEMICAL",
+    "meaning": "kontroversial",
+    "hint": "Berkaitan dengan perdebatan dan argumen kontroversial.",
+    "level": "sulit"
+  },
+  {
+    "id": 293,
+    "word": "PRAGMATIC",
+    "meaning": "praktis",
+    "hint": "Berfokus pada hasil praktis daripada teori.",
+    "level": "sulit"
+  },
+  {
+    "id": 294,
+    "word": "PRECARIOUS",
+    "meaning": "berbahaya",
+    "hint": "Tidak stabil dan berisiko tinggi.",
+    "level": "sulit"
+  },
+  {
+    "id": 295,
+    "word": "PRECIPITATE",
+    "meaning": "terburu-buru",
+    "hint": "Terjadi terlalu cepat tanpa perencanaan.",
+    "level": "sulit"
+  },
+  {
+    "id": 296,
+    "word": "PREDILECTION",
+    "meaning": "kesukaan",
+    "hint": "Kesukaan atau pilihan yang kuat.",
+    "level": "sulit"
+  },
+  {
+    "id": 297,
+    "word": "PREEMINENT",
+    "meaning": "terkemuka",
+    "hint": "Lebih unggul dan diakui sebagai yang terbaik.",
+    "level": "sulit"
+  },
+  {
+    "id": 298,
+    "word": "PREPONDERANCE",
+    "meaning": "dominasi",
+    "hint": "Jumlah atau kekuatan yang lebih besar.",
+    "level": "sulit"
+  },
+  {
+    "id": 299,
+    "word": "PRETENTIOUS",
+    "meaning": "sok",
+    "hint": "Berusaha terlihat lebih penting dari yang sebenarnya.",
+    "level": "sulit"
+  },
+  {
+    "id": 300,
+    "word": "PROCLIVITY",
+    "meaning": "kecenderungan",
+    "hint": "Kecenderungan alami terhadap sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 301,
+    "word": "PRODIGIOUS",
+    "meaning": "luar biasa",
+    "hint": "Sangat besar atau mengesankan.",
+    "level": "sulit"
+  },
+  {
+    "id": 302,
+    "word": "PROFOUND",
+    "meaning": "mendalam",
+    "hint": "Sangat dalam, penting, atau serius.",
+    "level": "sulit"
+  },
+  {
+    "id": 303,
+    "word": "PROLETARIAT",
+    "meaning": "proletariat",
+    "hint": "Kelas pekerja dalam masyarakat.",
+    "level": "sulit"
+  },
+  {
+    "id": 304,
+    "word": "PROLIFERATE",
+    "meaning": "berkembang",
+    "hint": "Berkembang biak atau menyebar dengan cepat.",
+    "level": "sulit"
+  },
+  {
+    "id": 305,
+    "word": "PROPENSITY",
+    "meaning": "kecenderungan",
+    "hint": "Kecenderungan atau kebiasaan alami.",
+    "level": "sulit"
+  },
+  {
+    "id": 306,
+    "word": "PROPRIETY",
+    "meaning": "kesopanan",
+    "hint": "Perilaku yang benar dan sesuai dengan norma.",
+    "level": "sulit"
+  },
+  {
+    "id": 307,
+    "word": "PROSCRIBE",
+    "meaning": "melarang",
+    "hint": "Melarang atau mengutuk sesuatu secara resmi.",
+    "level": "sulit"
+  },
+  {
+    "id": 308,
+    "word": "PROTEAN",
+    "meaning": "berubah-ubah",
+    "hint": "Mudah berubah dan serbaguna.",
+    "level": "sulit"
+  },
+  {
+    "id": 309,
+    "word": "PROVINCIAL",
+    "meaning": "provinsial",
+    "hint": "Berpikiran sempit dan kurang pengalaman internasional.",
+    "level": "sulit"
+  },
+  {
+    "id": 310,
+    "word": "PRUDENT",
+    "meaning": "bijaksana",
+    "hint": "Menunjukkan kebijaksanaan dan perencanaan yang matang.",
+    "level": "sulit"
+  },
+  {
+    "id": 311,
+    "word": "PUGNACIOUS",
+    "meaning": "suka berkelahi",
+    "hint": "Suka berkelahi dan agresif.",
+    "level": "sulit"
+  },
+  {
+    "id": 312,
+    "word": "PUNCTILIOUS",
+    "meaning": "teliti",
+    "hint": "Sangat memperhatikan detail dan aturan kecil.",
+    "level": "sulit"
+  },
+  {
+    "id": 313,
+    "word": "QUANDARY",
+    "meaning": "kebingungan",
+    "hint": "Keadaan bingung dan tidak tahu harus berbuat apa.",
+    "level": "sulit"
+  },
+  {
+    "id": 314,
+    "word": "QUIXOTIC",
+    "meaning": "idealis",
+    "hint": "Bertindak dengan cara yang tidak praktis dan sangat idealis.",
+    "level": "sulit"
+  },
+  {
+    "id": 315,
+    "word": "RANCOROUS",
+    "meaning": "dendam",
+    "hint": "Penuh dengan kebencian dan rasa dendam.",
+    "level": "sulit"
+  },
+  {
+    "id": 316,
+    "word": "RAPACIOUS",
+    "meaning": "rakus",
+    "hint": "Serakah dan selalu ingin mendapatkan lebih banyak.",
+    "level": "sulit"
+  },
+  {
+    "id": 317,
+    "word": "REBUFF",
+    "meaning": "menolak",
+    "hint": "Menolak atau mengabaikan tawaran dengan kasar.",
+    "level": "sulit"
+  },
+  {
+    "id": 318,
+    "word": "RECALCITRANT",
+    "meaning": "keras kepala",
+    "hint": "Menolak untuk patuh atau bekerja sama.",
+    "level": "sulit"
+  },
+  {
+    "id": 319,
+    "word": "RECLUSIVE",
+    "meaning": "menyendiri",
+    "hint": "Menghindari orang lain dan hidup terisolasi.",
+    "level": "sulit"
+  },
+  {
+    "id": 320,
+    "word": "REDUNDANT",
+    "meaning": "berlebihan",
+    "hint": "Tidak lagi diperlukan atau berlebihan.",
+    "level": "sulit"
+  },
+  {
+    "id": 321,
+    "word": "REFUTE",
+    "meaning": "membantah",
+    "hint": "Membuktikan bahwa sesuatu itu salah.",
+    "level": "sulit"
+  },
+  {
+    "id": 322,
+    "word": "RELEGATE",
+    "meaning": "menurunkan",
+    "hint": "Menempatkan ke posisi yang lebih rendah atau kurang penting.",
+    "level": "sulit"
+  },
+  {
+    "id": 323,
+    "word": "RELENTLESS",
+    "meaning": "tak kenal lelah",
+    "hint": "Terus-menerus dan tidak pernah berhenti.",
+    "level": "sulit"
+  },
+  {
+    "id": 324,
+    "word": "REMEDIAL",
+    "meaning": "perbaikan",
+    "hint": "Bertujuan untuk memperbaiki sesuatu yang kurang.",
+    "level": "sulit"
+  },
+  {
+    "id": 325,
+    "word": "RENEGADE",
+    "meaning": "pembelot",
+    "hint": "Orang yang mengkhianati kelompoknya.",
+    "level": "sulit"
+  },
+  {
+    "id": 326,
+    "word": "REPUDIATE",
+    "meaning": "menolak",
+    "hint": "Menolak hubungan atau tanggung jawab.",
+    "level": "sulit"
+  },
+  {
+    "id": 327,
+    "word": "RESCIND",
+    "meaning": "membatalkan",
+    "hint": "Mencabut kembali perjanjian atau keputusan.",
+    "level": "sulit"
+  },
+  {
+    "id": 328,
+    "word": "RESILIENT",
+    "meaning": "tangguh",
+    "hint": "Mampu pulih dengan cepat dari kesulitan.",
+    "level": "sulit"
+  },
+  {
+    "id": 329,
+    "word": "RESTITUTION",
+    "meaning": "ganti rugi",
+    "hint": "Pengembalian atau pembayaran atas kerugian.",
+    "level": "sulit"
+  },
+  {
+    "id": 330,
+    "word": "RETRIBUTION",
+    "meaning": "pembalasan",
+    "hint": "Hukuman yang setimpal untuk kesalahan.",
+    "level": "sulit"
+  },
+  {
+    "id": 331,
+    "word": "REVERENT",
+    "meaning": "hormat",
+    "hint": "Menunjukkan rasa hormat yang dalam.",
+    "level": "sulit"
+  },
+  {
+    "id": 332,
+    "word": "RIGOROUS",
+    "meaning": "ketat",
+    "hint": "Sangat teliti dan memenuhi standar tinggi.",
+    "level": "sulit"
+  },
+  {
+    "id": 333,
+    "word": "SACRILEGIOUS",
+    "meaning": "penodaan",
+    "hint": "Melanggar hal-hal yang dianggap suci.",
+    "level": "sulit"
+  },
+  {
+    "id": 334,
+    "word": "SAGACIOUS",
+    "meaning": "bijaksana",
+    "hint": "Memiliki penilaian yang tajam dan bijaksana.",
+    "level": "sulit"
+  },
+  {
+    "id": 335,
+    "word": "SALUTARY",
+    "meaning": "bermanfaat",
+    "hint": "Memberikan efek yang baik dan menyembuhkan.",
+    "level": "sulit"
+  },
+  {
+    "id": 336,
+    "word": "SANCTION",
+    "meaning": "sanksi",
+    "hint": "Persetujuan resmi atau hukuman.",
+    "level": "sulit"
+  },
+  {
+    "id": 337,
+    "word": "SATURNINE",
+    "meaning": "murung",
+    "hint": "Murung dan serius dalam sikapnya.",
+    "level": "sulit"
+  },
+  {
+    "id": 338,
+    "word": "SAVANT",
+    "meaning": "jenius",
+    "hint": "Orang dengan pengetahuan luar biasa di bidang tertentu.",
+    "level": "sulit"
+  },
+  {
+    "id": 339,
+    "word": "SCINTILLATING",
+    "meaning": "berkilau",
+    "hint": "Sangat cemerlang dan menarik.",
+    "level": "sulit"
+  },
+  {
+    "id": 340,
+    "word": "SEDITIOUS",
+    "meaning": "menghasut",
+    "hint": "Mendorong pemberontakan melawan pemerintah.",
+    "level": "sulit"
+  },
+  {
+    "id": 341,
+    "word": "SENTENTIOUS",
+    "meaning": "berkhotbah",
+    "hint": "Memberi nasihat moral yang berlebihan.",
+    "level": "sulit"
+  },
+  {
+    "id": 342,
+    "word": "SERENDIPITY",
+    "meaning": "keberuntungan",
+    "hint": "Menemukan sesuatu yang baik secara tidak sengaja.",
+    "level": "sulit"
+  },
+  {
+    "id": 343,
+    "word": "SERVITUDE",
+    "meaning": "perbudakan",
+    "hint": "Keadaan menjadi budak atau tidak bebas.",
+    "level": "sulit"
+  },
+  {
+    "id": 344,
+    "word": "SIMPATIC",
+    "meaning": "ramah",
+    "hint": "Menyenangkan dan mudah bergaul.",
+    "level": "sulit"
+  },
+  {
+    "id": 345,
+    "word": "SINISTER",
+    "meaning": "jahat",
+    "hint": "Mengancam dan menunjukkan kejahatan.",
+    "level": "sulit"
+  },
+  {
+    "id": 346,
+    "word": "SLEAZY",
+    "meaning": "jorok",
+    "hint": "Kotor, tidak bermoral, atau tidak jujur.",
+    "level": "sulit"
+  },
+  {
+    "id": 347,
+    "word": "SOLICITOUS",
+    "meaning": "perhatian",
+    "hint": "Sangat peduli dan memperhatikan orang lain.",
+    "level": "sulit"
+  },
+  {
+    "id": 348,
+    "word": "SOPHISTICATED",
+    "meaning": "canggih",
+    "hint": "Berpengalaman, canggih, dan modern.",
+    "level": "sulit"
+  },
+  {
+    "id": 349,
+    "word": "SOPORIFIC",
+    "meaning": "mengantuk",
+    "hint": "Menimbulkan rasa kantuk atau mengantukkan.",
+    "level": "sulit"
+  },
+  {
+    "id": 350,
+    "word": "SPECIOUS",
+    "meaning": "keliru",
+    "hint": "Tampaknya benar tetapi sebenarnya salah.",
+    "level": "sulit"
+  },
+  {
+    "id": 351,
+    "word": "SPORADIC",
+    "meaning": "jarang",
+    "hint": "Terjadi kadang-kadang dan tidak teratur.",
+    "level": "sulit"
+  },
+  {
+    "id": 352,
+    "word": "SQUALID",
+    "meaning": "kotor",
+    "hint": "Sangat kotor dan tidak sehat.",
+    "level": "sulit"
+  },
+  {
+    "id": 353,
+    "word": "STAGNANT",
+    "meaning": "tergenang",
+    "hint": "Tidak bergerak atau berkembang.",
+    "level": "sulit"
+  },
+  {
+    "id": 354,
+    "word": "STOLID",
+    "meaning": "kaku",
+    "hint": "Tidak menunjukkan emosi atau antusiasme.",
+    "level": "sulit"
+  },
+  {
+    "id": 355,
+    "word": "STRIDENT",
+    "meaning": "nyaring",
+    "hint": "Suara keras dan tidak menyenangkan.",
+    "level": "sulit"
+  },
+  {
+    "id": 356,
+    "word": "STUPENDOUS",
+    "meaning": "luar biasa",
+    "hint": "Sangat mengesankan dan besar.",
+    "level": "sulit"
+  },
+  {
+    "id": 357,
+    "word": "STYMIE",
+    "meaning": "menghambat",
+    "hint": "Menghalangi atau mencegah kemajuan.",
+    "level": "sulit"
+  },
+  {
+    "id": 358,
+    "word": "SUBSIDIZE",
+    "meaning": "mensubsidi",
+    "hint": "Memberi bantuan keuangan untuk mendukung.",
+    "level": "sulit"
+  },
+  {
+    "id": 359,
+    "word": "SUBSERVIENT",
+    "meaning": "penurut",
+    "hint": "Terlalu patuh dan siap melayani orang lain.",
+    "level": "sulit"
+  },
+  {
+    "id": 360,
+    "word": "SUBTLE",
+    "meaning": "halus",
+    "hint": "Sangat halus dan tidak langsung.",
+    "level": "sulit"
+  },
+  {
+    "id": 361,
+    "word": "SUCCINCT",
+    "meaning": "ringkas",
+    "hint": "Disampaikan dengan singkat dan jelas.",
+    "level": "sulit"
+  },
+  {
+    "id": 362,
+    "word": "SUPERFLUOUS",
+    "meaning": "berlebihan",
+    "hint": "Lebih dari yang dibutuhkan, tidak perlu.",
+    "level": "sulit"
+  },
+  {
+    "id": 363,
+    "word": "SUPPLANT",
+    "meaning": "menggantikan",
+    "hint": "Menggantikan posisi orang lain.",
+    "level": "sulit"
+  },
+  {
+    "id": 364,
+    "word": "SURREPTITIOUS",
+    "meaning": "rahasia",
+    "hint": "Dilakukan secara rahasia dan diam-diam.",
+    "level": "sulit"
+  },
+  {
+    "id": 365,
+    "word": "SUSCEPTIBLE",
+    "meaning": "rentan",
+    "hint": "Mudah terpengaruh atau terserang oleh sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 366,
+    "word": "SYCOPHANT",
+    "meaning": "penjilat",
+    "hint": "Orang yang menjilat untuk mendapatkan keuntungan.",
+    "level": "sulit"
+  },
+  {
+    "id": 367,
+    "word": "TACITURN",
+    "meaning": "pendiam",
+    "hint": "Jarang bicara dan cenderung diam.",
+    "level": "sulit"
+  },
+  {
+    "id": 368,
+    "word": "TANGENTIAL",
+    "meaning": "tak penting",
+    "hint": "Tidak langsung dan kurang berhubungan dengan topik.",
+    "level": "sulit"
+  },
+  {
+    "id": 369,
+    "word": "TANTAMOUNT",
+    "meaning": "setara",
+    "hint": "Sama dengan atau setara dengan sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 370,
+    "word": "TAWDRY",
+    "meaning": "murahan",
+    "hint": "Terlihat menarik dari luar tetapi tidak berkualitas.",
+    "level": "sulit"
+  },
+  {
+    "id": 371,
+    "word": "TEDIOUS",
+    "meaning": "membosankan",
+    "hint": "Sangat panjang, lambat, dan membosankan.",
+    "level": "sulit"
+  },
+  {
+    "id": 372,
+    "word": "TEMERITY",
+    "meaning": "keberanian",
+    "hint": "Keberanian atau kurang ajar yang berlebihan.",
+    "level": "sulit"
+  },
+  {
+    "id": 373,
+    "word": "TENACIOUS",
+    "meaning": "ulet",
+    "hint": "Tidak mudah menyerah dan tetap bertahan.",
+    "level": "sulit"
+  },
+  {
+    "id": 374,
+    "word": "TENUOUS",
+    "meaning": "lemah",
+    "hint": "Sangat tipis atau lemah.",
+    "level": "sulit"
+  },
+  {
+    "id": 375,
+    "word": "TIRADE",
+    "meaning": "celaan",
+    "hint": "Kata-kata marah yang panjang dan penuh kritik.",
+    "level": "sulit"
+  },
+  {
+    "id": 376,
+    "word": "TORPID",
+    "meaning": "lesu",
+    "hint": "Tidak bergerak dan kurang energik.",
+    "level": "sulit"
+  },
+  {
+    "id": 377,
+    "word": "TORTUOUS",
+    "meaning": "berliku",
+    "hint": "Berbelit-belit dan tidak lurus.",
+    "level": "sulit"
+  },
+  {
+    "id": 378,
+    "word": "TRACTABLE",
+    "meaning": "mudah diatur",
+    "hint": "Mudah dikendalikan dan dipengaruhi.",
+    "level": "sulit"
+  },
+  {
+    "id": 379,
+    "word": "TRANSIENT",
+    "meaning": "sementara",
+    "hint": "Berlangsung hanya untuk waktu singkat.",
+    "level": "sulit"
+  },
+  {
+    "id": 380,
+    "word": "TREPIDATION",
+    "meaning": "ketakutan",
+    "hint": "Perasaan takut atau cemas akan sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 381,
+    "word": "TRUCULENT",
+    "meaning": "garang",
+    "hint": "Agresif dan suka berkonfrontasi.",
+    "level": "sulit"
+  },
+  {
+    "id": 382,
+    "word": "TUMULTUOUS",
+    "meaning": "kacau",
+    "hint": "Sangat kacau dan penuh kekacauan.",
+    "level": "sulit"
+  },
+  {
+    "id": 383,
+    "word": "TURPITUDE",
+    "meaning": "kebejatan",
+    "hint": "Sangat jahat dan tidak bermoral.",
+    "level": "sulit"
+  },
+  {
+    "id": 384,
+    "word": "UBIQUITOUS",
+    "meaning": "ada di mana-mana",
+    "hint": "Terlihat atau ditemukan di mana-mana.",
+    "level": "sulit"
+  },
+  {
+    "id": 385,
+    "word": "UMBRAGE",
+    "meaning": "ketersinggungan",
+    "hint": "Rasa tersinggung atau marah karena penghinaan.",
+    "level": "sulit"
+  },
+  {
+    "id": 386,
+    "word": "UNASSAILABLE",
+    "meaning": "tak terbantahkan",
+    "hint": "Tidak bisa diserang atau dibantah.",
+    "level": "sulit"
+  },
+  {
+    "id": 387,
+    "word": "UNCANNY",
+    "meaning": "aneh",
+    "hint": "Sangat aneh dan sulit dijelaskan.",
+    "level": "sulit"
+  },
+  {
+    "id": 388,
+    "word": "UNCONSCIONABLE",
+    "meaning": "tak berperikemanusiaan",
+    "hint": "Sangat tidak adil dan tidak moral.",
+    "level": "sulit"
+  },
+  {
+    "id": 389,
+    "word": "UNDERMINE",
+    "meaning": "merusak",
+    "hint": "Melemahkan atau merusak secara bertahap.",
+    "level": "sulit"
+  },
+  {
+    "id": 390,
+    "word": "UNEQUIVOCAL",
+    "meaning": "jelas",
+    "hint": "Sangat jelas dan tidak ada keraguan.",
+    "level": "sulit"
+  },
+  {
+    "id": 391,
+    "word": "UNFETTERED",
+    "meaning": "bebas",
+    "hint": "Tidak terikat atau dibatasi.",
+    "level": "sulit"
+  },
+  {
+    "id": 392,
+    "word": "UNPRECEDENTED",
+    "meaning": "belum pernah terjadi",
+    "hint": "Belum pernah terjadi sebelumnya.",
+    "level": "sulit"
+  },
+  {
+    "id": 393,
+    "word": "UNSCRUPULOUS",
+    "meaning": "tak bermoral",
+    "hint": "Tidak memiliki prinsip moral.",
+    "level": "sulit"
+  },
+  {
+    "id": 394,
+    "word": "UNTENABLE",
+    "meaning": "tak bertahan",
+    "hint": "Tidak bisa dipertahankan atau dipertahankan.",
+    "level": "sulit"
+  },
+  {
+    "id": 395,
+    "word": "URBANE",
+    "meaning": "beradab",
+    "hint": "Sopan, halus, dan berbudaya.",
+    "level": "sulit"
+  },
+  {
+    "id": 396,
+    "word": "USURP",
+    "meaning": "merebut",
+    "hint": "Merebut kekuasaan atau posisi secara paksa.",
+    "level": "sulit"
+  },
+  {
+    "id": 397,
+    "word": "VACILLATE",
+    "meaning": "ragu-ragu",
+    "hint": "Berganti-ganti pendirian dan tidak tegas.",
+    "level": "sulit"
+  },
+  {
+    "id": 398,
+    "word": "VENERATE",
+    "meaning": "memuja",
+    "hint": "Menghormati dan mengagumi sangat dalam.",
+    "level": "sulit"
+  },
+  {
+    "id": 399,
+    "word": "VERACITY",
+    "meaning": "kebenaran",
+    "hint": "Kualitas yang jujur dan benar.",
+    "level": "sulit"
+  },
+  {
+    "id": 400,
+    "word": "VERBOSE",
+    "meaning": "bertele-tele",
+    "hint": "Menggunakan terlalu banyak kata.",
+    "level": "sulit"
+  },
+  {
+    "id": 401,
+    "word": "VESTIGIAL",
+    "meaning": "sisa",
+    "hint": "Sisa atau bekas dari sesuatu yang dulu ada.",
+    "level": "sulit"
+  },
+  {
+    "id": 402,
+    "word": "VEXATIOUS",
+    "meaning": "menjengkelkan",
+    "hint": "Menyebabkan kejengkelan dan kekesalan.",
+    "level": "sulit"
+  },
+  {
+    "id": 403,
+    "word": "VICARIOUS",
+    "meaning": "tidak langsung",
+    "hint": "Mengalami sesuatu melalui orang lain.",
+    "level": "sulit"
+  },
+  {
+    "id": 404,
+    "word": "VILIFY",
+    "meaning": "memfitnah",
+    "hint": "Mengatakan hal buruk tentang seseorang untuk merusak reputasi.",
+    "level": "sulit"
+  },
+  {
+    "id": 405,
+    "word": "VINDICATE",
+    "meaning": "membuktikan",
+    "hint": "Membuktikan bahwa seseorang benar atau tidak bersalah.",
+    "level": "sulit"
+  },
+  {
+    "id": 406,
+    "word": "VINDICTIVE",
+    "meaning": "pendendam",
+    "hint": "Ingin membalas dendam.",
+    "level": "sulit"
+  },
+  {
+    "id": 407,
+    "word": "VIRULENT",
+    "meaning": "berbahaya",
+    "hint": "Sangat beracun, kuat, atau berbahaya.",
+    "level": "sulit"
+  },
+  {
+    "id": 408,
+    "word": "VITRIOLIC",
+    "meaning": "kasar",
+    "hint": "Kata-kata yang sangat tajam dan penuh kebencian.",
+    "level": "sulit"
+  },
+  {
+    "id": 409,
+    "word": "VOCIFEROUS",
+    "meaning": "berisik",
+    "hint": "Bersuara keras dan menuntut perhatian.",
+    "level": "sulit"
+  },
+  {
+    "id": 410,
+    "word": "VOLATILE",
+    "meaning": "mudah meledak",
+    "hint": "Cepat berubah dan tidak stabil.",
+    "level": "sulit"
+  },
+  {
+    "id": 411,
+    "word": "VORACIOUS",
+    "meaning": "rakus",
+    "hint": "Memiliki nafsu makan atau keinginan yang sangat besar.",
+    "level": "sulit"
+  },
+  {
+    "id": 412,
+    "word": "WANTON",
+    "meaning": "sembrono",
+    "hint": "Tidak bertanggung jawab dan tidak bermoral.",
+    "level": "sulit"
+  },
+  {
+    "id": 413,
+    "word": "WARY",
+    "meaning": "waspada",
+    "hint": "Berhati-hati dan waspada terhadap bahaya.",
+    "level": "sulit"
+  },
+  {
+    "id": 414,
+    "word": "WHIMSICAL",
+    "meaning": "aneh",
+    "hint": "Tingkah yang aneh, menyenangkan, atau tidak terduga.",
+    "level": "sulit"
+  },
+  {
+    "id": 415,
+    "word": "WILY",
+    "meaning": "licik",
+    "hint": "Pintar dalam menipu dan menyusun strategi.",
+    "level": "sulit"
+  },
+  {
+    "id": 416,
+    "word": "WINSOME",
+    "meaning": "menarik",
+    "hint": "Menarik dan menyenangkan karena sikap yang ramah.",
+    "level": "sulit"
+  },
+  {
+    "id": 417,
+    "word": "WITHER",
+    "meaning": "layu",
+    "hint": "Menjadi kering, layu, atau kehilangan kekuatan.",
+    "level": "sulit"
+  },
+  {
+    "id": 418,
+    "word": "ZEALOT",
+    "meaning": "fanatik",
+    "hint": "Orang yang sangat bersemangat dan fanatik terhadap suatu tujuan.",
+    "level": "sulit"
+  },
+  {
+    "id": 419,
+    "word": "ABSCOND",
+    "meaning": "kabur",
+    "hint": "Pergi secara diam-diam dan sembunyi-sembunyi untuk menghindari hukum.",
+    "level": "sulit"
+  },
+  {
+    "id": 420,
+    "word": "ACCRUE",
+    "meaning": "bertambah",
+    "hint": "Bertambah atau terkumpul secara bertahap.",
+    "level": "sulit"
+  },
+  {
+    "id": 421,
+    "word": "ADULATION",
+    "meaning": "pujian",
+    "hint": "Pujian dan kekaguman yang berlebihan.",
+    "level": "sulit"
+  },
+  {
+    "id": 422,
+    "word": "AFFINITY",
+    "meaning": "ketertarikan",
+    "hint": "Ketertarikan atau kecocokan alami terhadap seseorang atau sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 423,
+    "word": "AMBIGUOUS",
+    "meaning": "ambigu",
+    "hint": "Dapat ditafsirkan dengan lebih dari satu cara.",
+    "level": "sulit"
+  },
+  {
+    "id": 424,
+    "word": "ANATHEMA",
+    "meaning": "kutukan",
+    "hint": "Sesuatu yang sangat dibenci dan dikutuk.",
+    "level": "sulit"
+  },
+  {
+    "id": 425,
+    "word": "ANTEDILUVIAN",
+    "meaning": "kuno",
+    "hint": "Sangat kuno atau ketinggalan zaman.",
+    "level": "sulit"
+  },
+  {
+    "id": 426,
+    "word": "APOTHEOSIS",
+    "meaning": "puncak",
+    "hint": "Puncak atau bentuk tertinggi dari sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 427,
+    "word": "ARROGATE",
+    "meaning": "merebut",
+    "hint": "Mengambil atau mengklaim tanpa hak.",
+    "level": "sulit"
+  },
+  {
+    "id": 428,
+    "word": "ASSIMILATE",
+    "meaning": "menyerap",
+    "hint": "Menyerap dan menggabungkan ke dalam kelompok atau budaya.",
+    "level": "sulit"
+  },
+  {
+    "id": 429,
+    "word": "AUGURY",
+    "meaning": "ramalan",
+    "hint": "Tanda atau ramalan tentang masa depan.",
+    "level": "sulit"
+  },
+  {
+    "id": 430,
+    "word": "BANTER",
+    "meaning": "gurauan",
+    "hint": "Percakapan ringan dan penuh candaan.",
+    "level": "sulit"
+  },
+  {
+    "id": 431,
+    "word": "BESTIAL",
+    "meaning": "binatang",
+    "hint": "Sangat kejam atau brutal, seperti binatang.",
+    "level": "sulit"
+  },
+  {
+    "id": 432,
+    "word": "BILIOUS",
+    "meaning": "pemarah",
+    "hint": "Mudah marah dan kesal.",
+    "level": "sulit"
+  },
+  {
+    "id": 433,
+    "word": "BLASPHEMY",
+    "meaning": "penistaan",
+    "hint": "Tindakan atau ucapan yang menghina sesuatu yang suci.",
+    "level": "sulit"
+  },
+  {
+    "id": 434,
+    "word": "BOORISH",
+    "meaning": "kasar",
+    "hint": "Kasar dan tidak sopan dalam perilaku.",
+    "level": "sulit"
+  },
+  {
+    "id": 435,
+    "word": "BURGEON",
+    "meaning": "berkembang",
+    "hint": "Tumbuh atau berkembang dengan cepat.",
+    "level": "sulit"
+  },
+  {
+    "id": 436,
+    "word": "CANTANKEROUS",
+    "meaning": "suka bertengkar",
+    "hint": "Mudah marah dan suka bertengkar.",
+    "level": "sulit"
+  },
+  {
+    "id": 437,
+    "word": "CHICANERY",
+    "meaning": "tipuan",
+    "hint": "Tipu muslihat atau praktik yang tidak jujur.",
+    "level": "sulit"
+  },
+  {
+    "id": 438,
+    "word": "COGITATION",
+    "meaning": "pemikiran",
+    "hint": "Proses berpikir secara mendalam.",
+    "level": "sulit"
+  },
+  {
+    "id": 439,
+    "word": "CONFLATE",
+    "meaning": "menggabungkan",
+    "hint": "Menggabungkan dua hal menjadi satu.",
+    "level": "sulit"
+  },
+  {
+    "id": 440,
+    "word": "CONJECTURE",
+    "meaning": "dugaan",
+    "hint": "Teori atau pendapat yang didasarkan pada dugaan.",
+    "level": "sulit"
+  },
+  {
+    "id": 441,
+    "word": "CONSUMMATE",
+    "meaning": "sempurna",
+    "hint": "Sangat terampil dan sempurna.",
+    "level": "sulit"
+  },
+  {
+    "id": 442,
+    "word": "CONTUMACIOUS",
+    "meaning": "keras kepala",
+    "hint": "Menolak untuk mematuhi otoritas.",
+    "level": "sulit"
+  },
+  {
+    "id": 443,
+    "word": "CORNUCOPIA",
+    "meaning": "kelimpahan",
+    "hint": "Sumber atau persediaan yang melimpah.",
+    "level": "sulit"
+  },
+  {
+    "id": 444,
+    "word": "CRAVEN",
+    "meaning": "penakut",
+    "hint": "Sangat penakut dan tidak berani.",
+    "level": "sulit"
+  },
+  {
+    "id": 445,
+    "word": "CULPABLE",
+    "meaning": "bersalah",
+    "hint": "Patut disalahkan atau bertanggung jawab atas kesalahan.",
+    "level": "sulit"
+  },
+  {
+    "id": 446,
+    "word": "DALLIANCE",
+    "meaning": "bersenda gurau",
+    "hint": "Bermain-main atau bercanda tanpa tujuan serius.",
+    "level": "sulit"
+  },
+  {
+    "id": 447,
+    "word": "DEFAMATION",
+    "meaning": "pencemaran nama baik",
+    "hint": "Tindakan merusak reputasi seseorang dengan pernyataan palsu.",
+    "level": "sulit"
+  },
+  {
+    "id": 448,
+    "word": "DEMAGOGUE",
+    "meaning": "penghasut",
+    "hint": "Pemimpin yang menggunakan emosi untuk memperoleh dukungan.",
+    "level": "sulit"
+  },
+  {
+    "id": 449,
+    "word": "DEPRECATE",
+    "meaning": "meremehkan",
+    "hint": "Menyatakan ketidaksetujuan atau meremehkan nilai sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 450,
+    "word": "DERELICT",
+    "meaning": "terlantar",
+    "hint": "Ditinggalkan dan dalam kondisi rusak.",
+    "level": "sulit"
+  },
+  {
+    "id": 451,
+    "word": "DESULTORY",
+    "meaning": "tidak teratur",
+    "hint": "Tidak terencana dan terkesan dilakukan secara asal-asalan.",
+    "level": "sulit"
+  },
+  {
+    "id": 452,
+    "word": "DIATRIBE",
+    "meaning": "celaan",
+    "hint": "Ucapan atau tulisan yang menyerang secara keras.",
+    "level": "sulit"
+  },
+  {
+    "id": 453,
+    "word": "DILETTANTE",
+    "meaning": "amatir",
+    "hint": "Orang yang menekuni bidang tertentu tanpa pengetahuan mendalam.",
+    "level": "sulit"
+  },
+  {
+    "id": 454,
+    "word": "DISINGENUOUS",
+    "meaning": "tidak tulus",
+    "hint": "Tidak jujur atau tidak tulus dalam ucapan.",
+    "level": "sulit"
+  },
+  {
+    "id": 455,
+    "word": "DISSIMULATE",
+    "meaning": "menyembunyikan",
+    "hint": "Menyembunyikan perasaan atau niat sebenarnya.",
+    "level": "sulit"
+  },
+  {
+    "id": 456,
+    "word": "DOGMATIC",
+    "meaning": "dogmatis",
+    "hint": "Meyakini sesuatu dengan pasti tanpa mau menerima pendapat lain.",
+    "level": "sulit"
+  },
+  {
+    "id": 457,
+    "word": "EBULLIENCE",
+    "meaning": "kegembiraan",
+    "hint": "Energi dan antusiasme yang meluap-luap.",
+    "level": "sulit"
+  },
+  {
+    "id": 458,
+    "word": "EGOISM",
+    "meaning": "egois",
+    "hint": "Sikap mementingkan diri sendiri secara berlebihan.",
+    "level": "sulit"
+  },
+  {
+    "id": 459,
+    "word": "ELEGY",
+    "meaning": "puisi duka",
+    "hint": "Puisi yang sedih, biasanya untuk mengenang seseorang.",
+    "level": "sulit"
+  },
+  {
+    "id": 460,
+    "word": "EMOLUMENT",
+    "meaning": "gaji",
+    "hint": "Pembayaran atau gaji untuk pekerjaan yang dilakukan.",
+    "level": "sulit"
+  },
+  {
+    "id": 461,
+    "word": "ENCLAVE",
+    "meaning": "enklave",
+    "hint": "Wilayah kecil yang dikelilingi oleh wilayah lain yang berbeda.",
+    "level": "sulit"
+  },
+  {
+    "id": 462,
+    "word": "ENCOMIASTIC",
+    "meaning": "memuji",
+    "hint": "Bersifat memuji secara berlebihan.",
+    "level": "sulit"
+  },
+  {
+    "id": 463,
+    "word": "EPIGRAM",
+    "meaning": "peribahasa",
+    "hint": "Pernyataan pendek dan cerdas yang menyimpulkan ide.",
+    "level": "sulit"
+  },
+  {
+    "id": 464,
+    "word": "EQUANIMITY",
+    "meaning": "ketenangan",
+    "hint": "Ketenangan dan ketenangan pikiran dalam situasi sulit.",
+    "level": "sulit"
+  },
+  {
+    "id": 465,
+    "word": "ESCHEW",
+    "meaning": "menghindari",
+    "hint": "Sengaja menghindari atau menjauhi sesuatu.",
+    "level": "sulit"
+  },
+  {
+    "id": 466,
+    "word": "EXCORIATE",
+    "meaning": "mengkritik",
+    "hint": "Mengkritik atau mengecam dengan sangat keras.",
+    "level": "sulit"
+  },
+  {
+    "id": 467,
+    "word": "EXIGENT",
+    "meaning": "mendesak",
+    "hint": "Membutuhkan tindakan segera, mendesak.",
+    "level": "sulit"
+  },
+  {
+    "id": 468,
+    "word": "FACETIOUS",
+    "meaning": "bergurau",
+    "hint": "Bercanda pada waktu yang tidak tepat atau tidak serius.",
+    "level": "sulit"
+  },
+  {
+    "id": 469,
+    "word": "FALLOW",
+    "meaning": "bera",
+    "hint": "Lahan yang tidak ditanami untuk sementara waktu.",
+    "level": "sulit"
+  },
+  {
+    "id": 470,
+    "word": "FATALISM",
+    "meaning": "fatalisme",
+    "hint": "Keyakinan bahwa segala sesuatu sudah ditakdirkan.",
+    "level": "sulit"
+  },
+  {
+    "id": 471,
+    "word": "FELONIOUS",
+    "meaning": "kriminal",
+    "hint": "Berkaitan dengan kejahatan berat.",
+    "level": "sulit"
+  },
+  {
+    "id": 472,
+    "word": "FERVOR",
+    "meaning": "semangat",
+    "hint": "Semangat dan antusiasme yang kuat.",
+    "level": "sulit"
+  },
+  {
+    "id": 473,
+    "word": "FOPPISH",
+    "meaning": "bergaya",
+    "hint": "Terlalu memperhatikan penampilan dan mode.",
+    "level": "sulit"
+  },
+  {
+    "id": 474,
+    "word": "FORBEARANCE",
+    "meaning": "kesabaran",
+    "hint": "Kesabaran dan pengendalian diri dalam situasi sulit.",
+    "level": "sulit"
+  },
+  {
+    "id": 475,
+    "word": "FULMINATE",
+    "meaning": "meledak",
+    "hint": "Mengeluarkan kritik atau protes dengan keras.",
+    "level": "sulit"
+  },
+  {
+    "id": 476,
+    "word": "FURIBUND",
+    "meaning": "marah",
+    "hint": "Sangat marah dan penuh amarah.",
+    "level": "sulit"
+  },
+  {
+    "id": 477,
+    "word": "GALL",
+    "meaning": "keberanian",
+    "hint": "Keberanian untuk melakukan hal yang tidak pantas.",
+    "level": "sulit"
+  },
+  {
+    "id": 478,
+    "word": "GAMBOL",
+    "meaning": "bermain",
+    "hint": "Melompat-lompat dan bermain dengan riang.",
+    "level": "sulit"
+  },
+  {
+    "id": 479,
+    "word": "GERIATRIC",
+    "meaning": "lanjut usia",
+    "hint": "Berkaitan dengan orang lanjut usia.",
+    "level": "sulit"
+  },
+  {
+    "id": 480,
+    "word": "GOSSAMER",
+    "meaning": "tipis",
+    "hint": "Sangat tipis, ringan, dan halus.",
+    "level": "sulit"
+  },
+  {
+    "id": 481,
+    "word": "GULLIBLE",
+    "meaning": "mudah ditipu",
+    "hint": "Terlalu mudah percaya dan sering ditipu.",
+    "level": "sulit"
+  },
+  {
+    "id": 482,
+    "word": "HARANGUE",
+    "meaning": "pidato",
+    "hint": "Pidato yang panjang dan marah.",
+    "level": "sulit"
+  },
+  {
+    "id": 483,
+    "word": "HERMETIC",
+    "meaning": "tertutup",
+    "hint": "Tertutup rapat dan tidak dapat dimasuki.",
+    "level": "sulit"
+  },
+  {
+    "id": 484,
+    "word": "HETERODOX",
+    "meaning": "tidak konvensional",
+    "hint": "Berbeda dari kepercayaan atau pendapat yang umum.",
+    "level": "sulit"
+  },
+  {
+    "id": 485,
+    "word": "HOLISTIC",
+    "meaning": "holistik",
+    "hint": "Memandang segala sesuatu sebagai satu kesatuan yang utuh.",
+    "level": "sulit"
+  },
+  {
+    "id": 486,
+    "word": "HOMILY",
+    "meaning": "khotbah",
+    "hint": "Khotbah atau nasihat moral yang membosankan.",
+    "level": "sulit"
+  },
+  {
+    "id": 487,
+    "word": "IMBROGLIO",
+    "meaning": "kekacauan",
+    "hint": "Situasi yang rumit dan membingungkan.",
+    "level": "sulit"
+  },
+  {
+    "id": 488,
+    "word": "IMPECCABLE",
+    "meaning": "sempurna",
+    "hint": "Tanpa kesalahan atau cacat.",
+    "level": "sulit"
+  },
+  {
+    "id": 489,
+    "word": "IMPERVIOUS",
+    "meaning": "kedap",
+    "hint": "Tidak bisa ditembus atau dipengaruhi.",
+    "level": "sulit"
+  },
+  {
+    "id": 490,
+    "word": "IMPETUOUS",
+    "meaning": "terburu-buru",
+    "hint": "Bertindak tanpa pikir panjang dan tergesa-gesa.",
+    "level": "sulit"
+  },
+  {
+    "id": 491,
+    "word": "IMPORTUNE",
+    "meaning": "memohon",
+    "hint": "Memohon dengan sangat mendesak dan terus-menerus.",
+    "level": "sulit"
+  },
+  {
+    "id": 492,
+    "word": "INADVERTENT",
+    "meaning": "tidak sengaja",
+    "hint": "Terjadi secara tidak sengaja atau tanpa disadari.",
+    "level": "sulit"
+  },
+  {
+    "id": 493,
+    "word": "INANE",
+    "meaning": "bodoh",
+    "hint": "Tidak memiliki makna atau kecerdasan.",
+    "level": "sulit"
+  },
+  {
+    "id": 494,
+    "word": "INCORRIGIBLE",
+    "meaning": "tak bisa diperbaiki",
+    "hint": "Tidak bisa diubah atau diperbaiki.",
+    "level": "sulit"
+  },
+  {
+    "id": 495,
+    "word": "INDEFATIGABLE",
+    "meaning": "tak kenal lelah",
+    "hint": "Tidak pernah lelah dan terus bekerja keras.",
+    "level": "sulit"
+  },
+  {
+    "id": 496,
+    "word": "INDOLENT",
+    "meaning": "malas",
+    "hint": "Malas dan menghindari pekerjaan.",
+    "level": "sulit"
+  },
+  {
+    "id": 497,
+    "word": "INEFFABLE",
+    "meaning": "tak terkatakan",
+    "hint": "Terlalu luar biasa untuk diungkapkan dengan kata-kata.",
+    "level": "sulit"
+  },
+  {
+    "id": 498,
+    "word": "INEFFICACIOUS",
+    "meaning": "tidak efektif",
+    "hint": "Tidak mampu menghasilkan hasil yang diinginkan.",
+    "level": "sulit"
+  },
+  {
+    "id": 499,
+    "word": "INNATE",
+    "meaning": "bawaan",
+    "hint": "Sudah ada sejak lahir, alami.",
+    "level": "sulit"
+  },
+  {
+    "id": 500,
+    "word": "INSURMOUNTABLE",
+    "meaning": "tak teratasi",
+    "hint": "Terlalu besar atau sulit untuk diatasi.",
+    "level": "sulit"
+  }
+]

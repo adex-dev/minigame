@@ -2,7 +2,9 @@ import React, { useState, useEffect, useRef } from "react";
 import Swal from "sweetalert2";
 import "sweetalert2/dist/sweetalert2.css";
 import ScoreBoard from "./ScoreBoard";
-import wordsData from "../data/words.json";
+import wordsDataB1 from "../data/words_b1.json";
+import wordsDataB2 from "../data/words_b2.json";
+import wordsDataC1 from "../data/words_c1.json";
 
 interface Word {
   id: number;
@@ -73,6 +75,21 @@ const GameBoard: React.FC<GameBoardProps> = ({
   const initializeGame = async () => {
     setIsLoading(true);
     try {
+      let wordsData = [...wordsDataB1, ...wordsDataB2, ...wordsDataC1].map(
+        (item, index) => ({
+          ...item,
+          id: index + 1,
+        }),
+      );
+      if (selectedLevel === "mudah") {
+        wordsData = [...wordsDataB1];
+      }
+      if (selectedLevel === "sedang") {
+        wordsData = [...wordsDataB2];
+      }
+      if (selectedLevel === "sulit") {
+        wordsData = [...wordsDataC1];
+      }
       if (!wordsData || !Array.isArray(wordsData) || wordsData.length === 0) {
         await pesan("Data kata tidak tersedia!", "informasi", "info");
         onBackToSetup();
@@ -301,7 +318,10 @@ const GameBoard: React.FC<GameBoardProps> = ({
             className="px-4 py-2 bg-gray-200 hover:bg-gray-300 text-gray-700 rounded-lg font-medium transition-colors">
             ← Kembali
           </button>
-          <p>Benar! <span className="font-bold text-blue-600">+10 Poin</span> & salah! <span className="font-bold text-red-600">-3 Poin</span></p>
+          <p>
+            Benar! <span className="font-bold text-blue-600">+10 Poin</span> &
+            salah! <span className="font-bold text-red-600">-3 Poin</span>
+          </p>
           <div className="text-sm text-gray-600">
             Level:{" "}
             <span className="font-semibold capitalize">{selectedLevel}</span>
@@ -346,15 +366,14 @@ const GameBoard: React.FC<GameBoardProps> = ({
 
           {/* Question Display */}
           <div className="text-center p-6 bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl border-2 border-blue-200">
-            <div className="flex items-center justify-center gap-2 mb-4">
+            <div className="flex items-center justify-center gap-2 mb-1">
               <span className="text-2xl">
-                {currentQuestion?.type === "english-to-indo" ? "🇮🇩" : "🇬🇧"}
+                {currentQuestion?.type === "english-to-indo" ? "🇮🇩" : "en"}
               </span>
               <p className="text-xl font-semibold text-gray-800">
                 {currentQuestion?.question}
               </p>
             </div>
-
             {/* Answer Input */}
             <div className="mt-4">
               <div className="flex flex-col items-center gap-3">
@@ -387,9 +406,37 @@ const GameBoard: React.FC<GameBoardProps> = ({
                     ⏭️ Lewati
                   </button>
                 </div>
-                <div className="text-sm text-gray-500">
-                  Tekan Enter atau klik tombol Check Answer
-                </div>
+              </div>
+              {/* Control Buttons */}
+              <div className="flex justify-center gap-4 mt-2">
+                <button
+                  onClick={() => {
+                    setUserAnswer("");
+                    if (inputRef.current) {
+                      inputRef.current.focus();
+                    }
+                  }}
+                  disabled={
+                    isWin ||
+                    isGameOver ||
+                    isQuestionAnswered ||
+                    userAnswer.length === 0
+                  }
+                  className="px-4 py-2 bg-red-400 hover:bg-red-500 text-white rounded-lg font-medium transition-colors disabled:opacity-50 disabled:cursor-not-allowed">
+                  ✖ Clear
+                </button>
+                <button
+                  onClick={handleCheckAnswer}
+                  disabled={
+                    isWin ||
+                    isGameOver ||
+                    isQuestionAnswered ||
+                    isAnswered ||
+                    userAnswer.trim().length === 0
+                  }
+                  className="px-6 py-2 bg-green-500 hover:bg-green-600 text-white rounded-lg font-medium transition-colors disabled:opacity-50 disabled:cursor-not-allowed">
+                  ✅ Check Answer
+                </button>
               </div>
             </div>
 
@@ -425,38 +472,6 @@ const GameBoard: React.FC<GameBoardProps> = ({
             </div>
           )}
 
-          {/* Control Buttons */}
-          <div className="flex justify-center gap-4">
-            <button
-              onClick={() => {
-                setUserAnswer("");
-                if (inputRef.current) {
-                  inputRef.current.focus();
-                }
-              }}
-              disabled={
-                isWin ||
-                isGameOver ||
-                isQuestionAnswered ||
-                userAnswer.length === 0
-              }
-              className="px-4 py-2 bg-red-400 hover:bg-red-500 text-white rounded-lg font-medium transition-colors disabled:opacity-50 disabled:cursor-not-allowed">
-              ✖ Clear
-            </button>
-            <button
-              onClick={handleCheckAnswer}
-              disabled={
-                isWin ||
-                isGameOver ||
-                isQuestionAnswered ||
-                isAnswered ||
-                userAnswer.trim().length === 0
-              }
-              className="px-6 py-2 bg-green-500 hover:bg-green-600 text-white rounded-lg font-medium transition-colors disabled:opacity-50 disabled:cursor-not-allowed">
-              ✅ Check Answer
-            </button>
-          </div>
-
           {/* Game Over */}
           {isGameOver && (
             <div className="text-center p-6 bg-gradient-to-r from-purple-100 to-blue-100 rounded-xl absolute top-0 sm:w-full sm:left-0 right-0 lg:right-56">
@@ -471,8 +486,8 @@ const GameBoard: React.FC<GameBoardProps> = ({
                 Total Percobaan: {attempts}
               </p>
               <p className="text-sm text-gray-600">
-                Jawaban Benar: {score ==0 ? 0 : answeredQuestions.size} dari {questions.length}{" "}
-                pertanyaan
+                Jawaban Benar: {score == 0 ? 0 : answeredQuestions.size} dari{" "}
+                {questions.length} pertanyaan
               </p>
               <p className="text-sm text-gray-600">
                 Jawaban Salah: {wrongAttempts}
