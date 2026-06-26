@@ -1,6 +1,27 @@
 @reference "../../index.css";
+body{
+  @apply h-screen h-dvh overflow-hidden
+}
 .main-game-setup {
-  @apply bg-gradient-to-br from-blue-50 to-purple-50 p-4 min-h-screen flex items-center justify-center;
+  @apply bg-gradient-to-br from-blue-50 to-purple-50 p-4 h-screen overflow-hidden flex items-center justify-center;
+}
+.main-game {
+  @apply bg-gradient-to-br from-blue-50 to-purple-50 p-4 h-screen overflow-hidden flex justify-center;
+}
+.card-info{
+  @apply bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl p-4 border border-blue-200;
+}
+.card-info > div{
+  @apply flex items-center gap-3;
+}
+.card-info-subheader{
+  @apply text-sm text-gray-700
+}
+.card-info-subheader > p:nth-child(1){
+  @apply !text-lg !uppercase !font-semibold
+}
+.card-info-subheader > p{
+  @apply text-xs capitalize font-mono leading-relaxed
 }
 .box-main-err {
   @apply bg-white/90 backdrop-blur-sm rounded-3xl shadow-2xl p-8 text-center w-1/2 h-1/2;
@@ -45,7 +66,7 @@
     @apply grid grid-cols-4 gap-3
   }
   .button-level{
-    @apply justify-center flex flex-col p-4 rounded-xl font-medium transition-all duration-300 transform hover:scale-105;
+    @apply font-mono leading-relaxed justify-center flex flex-col p-4 rounded-xl font-medium transition-all duration-300 transform hover:scale-105;
   }
   .button-level-active{
     @apply text-white shadow-lg ring-2 ring-white ring-offset-2
@@ -68,4 +89,86 @@
   }
   .box-question-count > span {
     @apply text-xs text-gray-500;
+  }
+
+  .container{
+    @apply w-full my-4 relative z-10 mx-auto
+  }
+  .header-game{
+    @apply text-center
+  }
+  .header-game>span{
+    @apply text-lg
+  }
+  .header-game>h1{
+    @apply text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600;
+  }
+  .header-game>p{
+    @apply text-gray-600 mt-2 font-mono;
+  }
+  .card{
+    @apply bg-white/80 backdrop-blur-sm rounded-lg shadow-xl p-2 space-y-2 mb-2;
+  }
+  .card-back{
+    @apply flex justify-between items-center;
+  }
+  .card-back>button{
+    @apply px-4 py-2 bg-gray-200 hover:bg-gray-300 text-gray-700 rounded-lg font-medium transition-colors;
+  }
+  .card-back>div{
+    @apply flex flex-row space-x-3
+  }
+  .card-area{
+    @apply flex justify-between items-center;
+  }
+ .box-area{
+    @apply flex items-center gap-4;
+  }
+  .card-game-over{
+    @apply text-center p-6 bg-gradient-to-r from-purple-100 to-blue-100 rounded-xl absolute top-0 sm:w-full sm:left-0 right-0 lg:right-56;
+  }
+  .card-game-over>h2{
+    @apply text-2xl font-bold text-purple-800;
+  }
+  .card-game-over>p:nth-child(1){
+    @apply text-lg mt-2;
+  }
+  .card-game-over>p:nth-child(2){
+    @apply text-sm text-gray-600 mt-1;
+  }
+  .card-game-over>p:nth-child(3){
+    @apply text-sm text-gray-600;
+  }
+  .card-game-over>p:nth-child(4){
+    @apply text-sm text-gray-600;
+  }
+  .container-question{
+    @apply text-center p-6 bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl border-2 border-blue-200;
+  }
+  .question-header{
+    @apply flex items-center justify-center gap-2 mb-1;
+  }
+  .question-header > span{
+    @apply font-mono text-2xl px-3 py-1.5 capitalize rounded-full bg-purple-600 text-white/80;
+  }
+  .question-header > p{
+    @apply font-mono text-xl font-semibold text-gray-800;
+  }
+  .container-answer{
+    @apply mt-4
+  }
+  .box-answer{
+    @apply flex flex-col items-center gap-3;
+  }
+  .box-answer-sub{
+    @apply flex flex-row w-full gap-3;
+  }
+  .button-info{
+    @apply flex flex-col justify-center  text-sm text-wrap px-4 p-1 bg-yellow-400 hover:bg-yellow-500 text-gray-800 rounded-lg font-medium transition-colors;
+  }
+  .button-control{
+    @apply flex justify-center gap-4 mt-2;
+  }
+  footer{
+    @apply text-center text-sm text-gray-500 py-0
   }

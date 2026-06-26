@@ -255,11 +255,11 @@ const GameBoard: React.FC<GameBoardProps> = ({
   };
 
   const getDifficulty = () => {
-    if (!currentAnswer) return "Mudah";
-    const wordLength = currentAnswer.length;
-    if (wordLength <= 4) return "Mudah";
-    if (wordLength <= 7) return "Sedang";
-    return "Sulit";
+    // if (!currentAnswer) return "mudah";
+    // const wordLength = currentAnswer.length;
+    // if (wordLength <= 4) return "mudah";
+    // if (wordLength <= 7) return "sedang";
+    return currentQuestion?.level;
   };
 
   if (isLoading) {
@@ -299,29 +299,28 @@ const GameBoard: React.FC<GameBoardProps> = ({
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-purple-50 flex items-center justify-center p-4">
-      <div className="max-w-4xl w-full space-y-6 relative z-10">
+    <div className="main-game">
+      <div className="container">
         {/* Header */}
-        <div className="text-center">
-          <h1 className="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600">
-            🎯 Quiz Tebak Kata
-          </h1>
-          <p className="text-gray-600 mt-2">
+        <div className="header-game">
+          <span>🎯</span>
+          <h1>Quiz Tebak Kata</h1>
+          <p>
             Tebak kata berdasarkan pertanyaan dalam Bahasa Inggris atau
             Indonesia! <br />
             saya membuat game ini untuk menghafal vocabulary
           </p>
         </div>
-        <div className="flex justify-between items-center">
-          <button
-            onClick={onBackToSetup}
-            className="px-4 py-2 bg-gray-200 hover:bg-gray-300 text-gray-700 rounded-lg font-medium transition-colors">
-            ← Kembali
-          </button>
-          <p>
-            Benar! <span className="font-bold text-blue-600">+10 Poin</span> &
-            salah! <span className="font-bold text-red-600">-3 Poin</span>
-          </p>
+        <div className="card-back card">
+          <button onClick={onBackToSetup}>← Kembali</button>
+          <div>
+            <p>
+              Benar! <span className="font-bold text-blue-600">+10 Poin</span>
+            </p>
+            <p>
+              & salah! <span className="font-bold text-red-600">-3 Poin</span>
+            </p>
+          </div>
           <div className="text-sm text-gray-600">
             Level:{" "}
             <span className="font-semibold capitalize">{selectedLevel}</span>
@@ -338,67 +337,84 @@ const GameBoard: React.FC<GameBoardProps> = ({
         />
 
         {/* Game Area */}
-        <div className="bg-white/80 backdrop-blur-sm rounded-2xl shadow-xl p-6 space-y-6">
+        <div className="card">
           {/* Progress */}
-          <div className="flex justify-between items-center">
-            <div className="flex items-center gap-4">
+          <div className="card-area">
+            <div className="box-area">
               <span className="text-sm text-gray-600">
                 Pertanyaan {currentQuestionIndex + 1} dari {questions.length}
               </span>
               <span
-                className={`px-3 py-1 rounded-full text-xs font-medium ${
-                  getDifficulty() === "Mudah"
+                className={`px-3 py-1 capitalize rounded-full text-xs font-medium ${
+                  getDifficulty() === "mudah"
                     ? "bg-green-100 text-green-700"
-                    : getDifficulty() === "Sedang"
+                    : getDifficulty() === "sedang"
                       ? "bg-yellow-100 text-yellow-700"
                       : "bg-red-100 text-red-700"
                 }`}>
                 {getDifficulty()}
               </span>
-              <span className="px-3 py-1 rounded-full text-xs font-medium bg-purple-100 text-purple-700 capitalize">
+              {/* <span className="px-3 py-1 rounded-full text-xs font-medium bg-purple-100 text-purple-700 capitalize">
                 {currentQuestion?.level}
-              </span>
+              </span> */}
             </div>
             <span className="text-sm text-gray-600">
-              ✅ {answeredQuestions.size} terjawab
+              ✅ {questions.length - answeredQuestions.size} terjawab
             </span>
           </div>
 
           {/* Question Display */}
-          <div className="text-center p-6 bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl border-2 border-blue-200">
-            <div className="flex items-center justify-center gap-2 mb-1">
-              <span className="text-2xl">
+          <div className="container-question">
+            <div className="question-header">
+              <span>
                 {currentQuestion?.type === "english-to-indo" ? "🇮🇩" : "en"}
               </span>
-              <p className="text-xl font-semibold text-gray-800">
+              <p>
                 {currentQuestion?.question}
               </p>
             </div>
             {/* Answer Input */}
-            <div className="mt-4">
-              <div className="flex flex-col items-center gap-3">
-                <div className="flex flex-row w-full gap-3">
+            <div className="container-answer">
+              <div className="box-answer">
+                <div className="box-answer-sub">
                   <button
                     onClick={() => setShowHint(!showHint)}
-                    className="flex flex-col text-sm text-wrap px-4 p-1 bg-yellow-400 hover:bg-yellow-500 text-gray-800 rounded-lg font-medium transition-colors">
-                    <span>{showHint ? "" : "💡"}</span>
-                    <span>
-                      {showHint ? "Sembunyikan Petunjuk" : "Tampilkan Petunjuk"}
-                    </span>
+                    className="button-info">
+                    <span className="text-lg">{showHint ? "" : "💡"}</span>
+                    <span>{showHint ? "Sembunyikan" : "Petunjuk"}</span>
                   </button>
-                  <input
-                    ref={inputRef}
-                    type="text"
-                    value={userAnswer}
-                    onChange={(e) => setUserAnswer(e.target.value)}
-                    onKeyPress={handleKeyPress}
-                    disabled={
-                      isGameOver || isQuestionAnswered || isWin || isAnswered
-                    }
-                    placeholder="Ketik jawaban Anda di sini..."
-                    className=" w-full  px-4 py-3 text-lg border-2 border-gray-300 rounded-lg focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-200 transition-colors disabled:bg-gray-100 disabled:cursor-not-allowed"
-                    autoFocus
-                  />
+                  <div className="relative w-full">
+                    <input
+                      ref={inputRef}
+                      type="text"
+                      value={userAnswer}
+                      onChange={(e) => setUserAnswer(e.target.value)}
+                      onKeyPress={handleKeyPress}
+                      disabled={
+                        isGameOver || isQuestionAnswered || isWin || isAnswered
+                      }
+                      placeholder="Ketik jawaban Anda di sini..."
+                      className=" w-full  px-4 py-3 text-lg border-2 border-gray-300 rounded-lg focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-200 transition-colors disabled:bg-gray-100 disabled:cursor-not-allowed"
+                      autoFocus
+                    />
+                    <div className="absolute w-full top-0">
+                      {isCorrect === true && (
+                        <div className=" p-3 bg-green-100 border border-green-300 rounded-lg animate-bounce">
+                          <span className="text-green-700 font-bold text-lg">
+                            🎉 Benar! +10 Poin
+                          </span>
+                        </div>
+                      )}
+                      {isCorrect === false && (
+                        <div className=" p-3 bg-red-100 border border-red-300 rounded-lg animate-shake">
+                          <span className="text-red-700 font-bold text-lg">
+                            ❌ Salah! Coba lagi
+                          </span>
+                        </div>
+                      )}
+                    </div>
+                  </div>
+
                   <button
                     onClick={skipQuestion}
                     disabled={isWin || isGameOver || isQuestionAnswered}
@@ -408,7 +424,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
                 </div>
               </div>
               {/* Control Buttons */}
-              <div className="flex justify-center gap-4 mt-2">
+              <div className="button-control">
                 <button
                   onClick={() => {
                     setUserAnswer("");
@@ -441,20 +457,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
             </div>
 
             {/* Feedback */}
-            {isCorrect === true && (
-              <div className="mt-3 p-3 bg-green-100 border border-green-300 rounded-lg animate-bounce">
-                <span className="text-green-700 font-bold text-lg">
-                  🎉 Benar! +10 Poin
-                </span>
-              </div>
-            )}
-            {isCorrect === false && (
-              <div className="mt-3 p-3 bg-red-100 border border-red-300 rounded-lg animate-shake">
-                <span className="text-red-700 font-bold text-lg">
-                  ❌ Salah! Coba lagi
-                </span>
-              </div>
-            )}
+
             {showAnswer && (
               <div className="mt-3 p-3 bg-blue-100 border border-blue-300 rounded-lg">
                 <span className="text-blue-700 font-bold text-lg">
@@ -474,24 +477,19 @@ const GameBoard: React.FC<GameBoardProps> = ({
 
           {/* Game Over */}
           {isGameOver && (
-            <div className="text-center p-6 bg-gradient-to-r from-purple-100 to-blue-100 rounded-xl absolute top-0 sm:w-full sm:left-0 right-0 lg:right-56">
-              <h2 className="text-2xl font-bold text-purple-800">
-                🎮 Quiz Selesai!
-              </h2>
-              <p className="text-lg mt-2">
+            <div className="card-game-over">
+              <h2>🎮 Quiz Selesai!</h2>
+              <p>
                 Skor Akhir:{" "}
                 <span className="font-bold text-blue-600">{score}</span>
               </p>
-              <p className="text-sm text-gray-600 mt-1">
-                Total Percobaan: {attempts}
+              <p>Total Percobaan: {attempts}</p>
+              <p>
+                Jawaban Benar:{" "}
+                {score == 0 ? 0 : questions.length - answeredQuestions.size}{" "}
+                dari {questions.length} pertanyaan
               </p>
-              <p className="text-sm text-gray-600">
-                Jawaban Benar: {score == 0 ? 0 : answeredQuestions.size} dari{" "}
-                {questions.length} pertanyaan
-              </p>
-              <p className="text-sm text-gray-600">
-                Jawaban Salah: {wrongAttempts}
-              </p>
+              <p>Jawaban Salah: {wrongAttempts}</p>
               <div className="flex gap-4 justify-center mt-4">
                 <button
                   onClick={initializeGame}
@@ -509,12 +507,12 @@ const GameBoard: React.FC<GameBoardProps> = ({
         </div>
 
         {/* Footer Info */}
-        <div className="text-center text-sm text-gray-500">
+        <footer>
           <p>
             Ketik jawaban lengkap • Tekan Enter untuk check • Gunakan spasi
             untuk jawaban dengan spasi
           </p>
-        </div>
+        </footer>
       </div>
     </div>
   );

@@ -1,5 +1,15 @@
 @reference @"/src/index.css";
-@layer components {
-  @media (min-width: 1024px) and (max-width: 1439px) {
+@media (min-width: 1024px) and (max-width: 1439px) {
+  .header-game > span {
+    @apply text-xl;
+  }
+  .header-game > h1 {
+    @apply text-xl;
+  }
+  .header-game > p {
+    @apply mt-2 text-sm;
+  }
+  .main-game{
+    @apply items-center mt-1
   }
 }

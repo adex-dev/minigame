@@ -19,33 +19,37 @@ const ScoreBoard: React.FC<ScoreBoardProps> = ({
   const accuracy = attempts > 0 ? Math.round((correctAttempts / attempts) * 100) : 0;
 
   return (
-    <div className="grid grid-cols-2 md:grid-cols-6 gap-3 p-4 bg-white rounded-xl shadow-lg">
-      <div className="text-center p-2 bg-blue-50 rounded-lg">
-        <div className="text-xs text-gray-500">⭐ Skor</div>
-        <div className="text-xl font-bold text-blue-600">{score}</div>
-      </div>
-      <div className="text-center p-2 bg-green-50 rounded-lg">
-        <div className="text-xs text-gray-500">📝 Total</div>
-        <div className="text-xl font-bold text-green-600">{totalWords}</div>
-      </div>
-      <div className="text-center p-2 bg-orange-50 rounded-lg">
-        <div className="text-xs text-gray-500">🔄 Coba</div>
-        <div className="text-xl font-bold text-orange-600">{attempts}</div>
-      </div>
-      <div className="text-center p-2 bg-red-50 rounded-lg">
-        <div className="text-xs text-gray-500">❌ Salah</div>
-        <div className="text-xl font-bold text-red-600">{wrongAttempts}</div>
-      </div>
-      <div className="text-center p-2 bg-purple-50 rounded-lg">
-        <div className="text-xs text-gray-500">📌 Sisa</div>
-        <div className="text-xl font-bold text-purple-600">{remainingWords}</div>
-      </div>
-      <div className="text-center p-2 bg-indigo-50 rounded-lg">
-        <div className="text-xs text-gray-500">🎯 Akurasi</div>
-        <div className="text-xl font-bold text-indigo-600">{accuracy}%</div>
-      </div>
+    <div className="my-2 grid grid-cols-2 md:grid-cols-7 gap-3 p-4 bg-white rounded-xl shadow-lg">
+      <Card containerClass="bg-blue-50" title="⭐ Skor" valueClass="text-blue-600" amount={score} />
+      <Card containerClass="bg-green-50" title="📝 Total" valueClass="text-green-600" amount={totalWords} />
+      <Card containerClass="bg-orange-50" title="🔄 Coba" valueClass="text-orange-600" amount={attempts} />
+      <Card containerClass="bg-green-50" title="✅ Benar" valueClass="text-green-600" amount={correctAttempts} />
+      <Card containerClass="bg-red-50" title="❌ Salah" valueClass="text-red-600" amount={wrongAttempts} />
+      <Card containerClass="bg-purple-50" title="📌 Sisa" valueClass="text-purple-600" amount={remainingWords} />
+      <Card containerClass="bg-indigo-50" title="🎯 Akurasi" valueClass="text-indigo-600" amount={accuracy} />
     </div>
   );
 };
 
 export default ScoreBoard;
+
+
+interface CardProps {
+  containerClass: string;
+  valueClass: string;
+  title: string;
+  amount: number;
+}
+const Card: React.FC<CardProps> = ({
+  containerClass,
+  title,
+  valueClass,
+  amount,
+}) => {
+  return(
+    <div className={`text-center p-2 rounded-lg ${containerClass}`}>
+        <div className="text-base font-mono text-gray-500">{title}</div>
+        <div className={`text-xl font-bold ${valueClass}`}>{amount} {valueClass ==='text-indigo-600'?' %':''}</div>
+      </div>
+  )
+}

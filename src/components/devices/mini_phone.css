@@ -3,6 +3,16 @@
   .main-game-setup {
     @apply !p-1;
   }
+  .main-game-setup,
+  .main-game {
+    @apply !overflow-auto;
+  }
+  .main-game {
+    @apply align-baseline;
+  }
+  .container {
+    @apply my-0;
+  }
   .box-main-err {
     @apply w-full h-96 py-10;
   }
@@ -51,5 +61,45 @@
   }
   .box-question-count > span {
     @apply text-xs;
+  }
+  .header-game > span {
+    @apply text-lg;
+  }
+  .header-game > h1 {
+    @apply text-lg;
+  }
+  .header-game > p {
+    @apply mt-1 text-xs;
+  }
+  .card-back {
+    @apply flex-col;
+  }
+  .card-area {
+    @apply flex-col items-start;
+  }
+  .container-question{
+    @apply p-1
+  }
+  .question-header{
+    @apply flex-col
+  }
+  .question-header > span{
+    @apply text-lg;
+  }
+  .question-header > p{
+    @apply text-sm;
+  }
+  .box-answer-sub{
+    @apply grid grid-cols-1 gap-3
+  }
+
+  .button-info{
+    @apply flex-row items-center
+  }
+   .button-control{
+    @apply grid grid-cols-1 gap-4;
+  }
+  footer{
+    @apply text-xs py-2
   }
 }

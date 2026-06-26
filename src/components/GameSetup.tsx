@@ -239,11 +239,11 @@ const GameSetup: React.FC<GameSetupProps> = ({
             </div>
 
             {/* Info Card */}
-            <div className="bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl p-4 border border-blue-200">
-              <div className="flex items-center gap-3">
+            <div className="card-info">
+              <div>
                 <span className="text-2xl">ℹ️</span>
-                <div className="text-sm text-gray-700">
-                  <p className="font-semibold">Info Game:</p>
+                <div className="card-info-subheader">
+                  <p>Info Game:</p>
                   <p>
                     • Setiap kata memiliki 2 pertanyaan (Inggris → Indonesia &
                     Indonesia → Inggris)
