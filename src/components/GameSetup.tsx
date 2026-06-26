@@ -249,6 +249,7 @@ const GameSetup: React.FC<GameSetupProps> = ({
                     Indonesia → Inggris)
                   </p>
                   <p>• Jawaban benar = +10 poin</p>
+                  <p>• Jawaban salah = -3 poin</p>
                   <p>
                     • Level{" "}
                     {selectedLevel === "semua"
