@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "word": "HOW ARE YOU?",
+    "meaning": "Apa kabar",
+    "hint": "Ungkapan sapaan untuk menanyakan keadaan seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 2,
+    "word": "I'M FINE, THANKS",
+    "meaning": "Saya baik-baik saja, terima kasih",
+    "hint": "Jawaban standar ketika ditanya kabar.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 3,
+    "word": "WHERE ARE YOU GOING?",
+    "meaning": "Kamu mau ke mana",
+    "hint": "Pertanyaan untuk menanyakan tujuan seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 4,
+    "word": "WHAT'S YOUR NAME?",
+    "meaning": "Siapa nama kamu",
+    "hint": "Pertanyaan untuk menanyakan nama seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 5,
+    "word": "NICE TO MEET YOU",
+    "meaning": "Senang bertemu denganmu",
+    "hint": "Ungkapan saat bertemu seseorang untuk pertama kalinya.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 6,
+    "word": "WHERE DO YOU LIVE?",
+    "meaning": "Di mana kamu tinggal",
+    "hint": "Pertanyaan untuk menanyakan alamat tempat tinggal.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 7,
+    "word": "WHAT DO YOU DO?",
+    "meaning": "Apa pekerjaan kamu",
+    "hint": "Pertanyaan untuk menanyakan profesi seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 8,
+    "word": "HOW OLD ARE YOU?",
+    "meaning": "Berapa umur kamu",
+    "hint": "Pertanyaan untuk menanyakan usia seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 9,
+    "word": "WHERE ARE YOU FROM?",
+    "meaning": "Kamu berasal dari mana",
+    "hint": "Pertanyaan untuk menanyakan asal daerah atau negara.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 10,
+    "word": "WHAT TIME IS IT?",
+    "meaning": "Jam berapa sekarang",
+    "hint": "Pertanyaan untuk menanyakan waktu saat ini.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 11,
+    "word": "WHAT'S THE WEATHER LIKE?",
+    "meaning": "Bagaimana cuacanya",
+    "hint": "Pertanyaan untuk menanyakan kondisi cuaca.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 12,
+    "word": "IT'S SUNNY TODAY",
+    "meaning": "Hari ini cerah",
+    "hint": "Ungkapan untuk mendeskripsikan cuaca yang cerah.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 13,
+    "word": "IT'S RAINING",
+    "meaning": "Sedang hujan",
+    "hint": "Ungkapan saat cuaca sedang hujan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 14,
+    "word": "WHAT WOULD YOU LIKE?",
+    "meaning": "Apa yang kamu mau",
+    "hint": "Pertanyaan untuk menanyakan keinginan seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 15,
+    "word": "CAN I HELP YOU?",
+    "meaning": "Bolehkah saya membantu",
+    "hint": "Tawaran bantuan kepada seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 16,
+    "word": "THANK YOU",
+    "meaning": "Terima kasih",
+    "hint": "Ungkapan untuk mengucapkan terima kasih.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 17,
+    "word": "YOU'RE WELCOME",
+    "meaning": "Sama-sama",
+    "hint": "Jawaban ketika seseorang mengucapkan terima kasih.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 18,
+    "word": "I'M SORRY",
+    "meaning": "Maaf",
+    "hint": "Ungkapan permintaan maaf.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 19,
+    "word": "EXCUSE ME",
+    "meaning": "Permisi",
+    "hint": "Ungkapan saat ingin meminta perhatian atau lewat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 20,
+    "word": "PLEASE",
+    "meaning": "Tolong",
+    "hint": "Kata untuk meminta sesuatu dengan sopan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 21,
+    "word": "HOW MUCH IS THIS?",
+    "meaning": "Berapa harga ini",
+    "hint": "Pertanyaan untuk menanyakan harga barang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 22,
+    "word": "I'LL TAKE IT",
+    "meaning": "Saya akan ambil ini",
+    "hint": "Ungkapan saat memutuskan membeli sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 23,
+    "word": "DO YOU HAVE A SIZE LARGER?",
+    "meaning": "Apakah ada ukuran yang lebih besar",
+    "hint": "Pertanyaan di toko untuk menanyakan ukuran.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 24,
+    "word": "CAN I TRY THIS ON?",
+    "meaning": "Bolehkah saya mencoba ini",
+    "hint": "Pertanyaan untuk mencoba pakaian di toko.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 25,
+    "word": "WHERE IS THE BATHROOM?",
+    "meaning": "Di mana kamar kecil",
+    "hint": "Pertanyaan untuk menanyakan lokasi toilet.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 26,
+    "word": "HOW DO I GET THERE?",
+    "meaning": "Bagaimana saya ke sana",
+    "hint": "Pertanyaan untuk menanyakan arah ke suatu tempat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 27,
+    "word": "TURN LEFT",
+    "meaning": "Belok kiri",
+    "hint": "Petunjuk arah untuk berbelok ke kiri.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 28,
+    "word": "TURN RIGHT",
+    "meaning": "Belok kanan",
+    "hint": "Petunjuk arah untuk berbelok ke kanan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 29,
+    "word": "GO STRAIGHT",
+    "meaning": "Jalan lurus",
+    "hint": "Petunjuk arah untuk terus berjalan lurus.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 30,
+    "word": "IT'S NEAR HERE",
+    "meaning": "Di sini dekat",
+    "hint": "Ungkapan bahwa tempat yang dimaksud tidak jauh.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 31,
+    "word": "I'M HUNGRY",
+    "meaning": "Saya lapar",
+    "hint": "Ungkapan saat merasa ingin makan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 32,
+    "word": "I'M THIRSTY",
+    "meaning": "Saya haus",
+    "hint": "Ungkapan saat ingin minum.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 33,
+    "word": "I WOULD LIKE TO EAT",
+    "meaning": "Saya ingin makan",
+    "hint": "Ungkapan untuk mengungkapkan keinginan makan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 34,
+    "word": "WHAT'S ON THE MENU?",
+    "meaning": "Apa yang ada di menu",
+    "hint": "Pertanyaan di restoran untuk melihat daftar makanan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 35,
+    "word": "I'LL HAVE THE CHICKEN",
+    "meaning": "Saya pesan ayam",
+    "hint": "Pesan makanan di restoran.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 36,
+    "word": "CAN I HAVE THE BILL?",
+    "meaning": "Boleh saya minta tagihan",
+    "hint": "Pertanyaan untuk meminta tagihan di restoran.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 37,
+    "word": "HOW ARE YOU DOING?",
+    "meaning": "Apa kabar",
+    "hint": "Sapaan alternatif untuk menanyakan keadaan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 38,
+    "word": "I'M GOOD",
+    "meaning": "Saya baik",
+    "hint": "Jawaban singkat ketika ditanya kabar.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 39,
+    "word": "AND YOU?",
+    "meaning": "Dan kamu",
+    "hint": "Pertanyaan balik setelah ditanya kabar.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 40,
+    "word": "SAME AS USUAL",
+    "meaning": "Sama seperti biasa",
+    "hint": "Ungkapan bahwa keadaan masih seperti biasanya.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 41,
+    "word": "NOT BAD",
+    "meaning": "Lumayan",
+    "hint": "Jawaban bahwa keadaan cukup baik.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 42,
+    "word": "COULD BE BETTER",
+    "meaning": "Bisa lebih baik",
+    "hint": "Ungkapan bahwa keadaan tidak terlalu baik.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 43,
+    "word": "WHAT'S UP?",
+    "meaning": "Ada apa",
+    "hint": "Sapaan informal untuk menanyakan kabar.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 44,
+    "word": "NOT MUCH",
+    "meaning": "Tidak banyak",
+    "hint": "Jawaban dari 'what's up' yang berarti tidak ada yang spesial.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 45,
+    "word": "TAKE CARE",
+    "meaning": "Jaga diri",
+    "hint": "Ungkapan perpisahan untuk menjaga diri.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 46,
+    "word": "SEE YOU LATER",
+    "meaning": "Sampai jumpa nanti",
+    "hint": "Ungkapan perpisahan yang umum.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 47,
+    "word": "GOOD MORNING",
+    "meaning": "Selamat pagi",
+    "hint": "Sapaan di waktu pagi hari.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 48,
+    "word": "GOOD AFTERNOON",
+    "meaning": "Selamat siang",
+    "hint": "Sapaan di waktu siang hari.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 49,
+    "word": "GOOD EVENING",
+    "meaning": "Selamat sore",
+    "hint": "Sapaan di waktu sore hari.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 50,
+    "word": "GOOD NIGHT",
+    "meaning": "Selamat malam",
+    "hint": "Sapaan atau perpisahan di malam hari.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 51,
+    "word": "HAVE A NICE DAY",
+    "meaning": "Semoga harimu menyenangkan",
+    "hint": "Ungkapan untuk mendoakan seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 52,
+    "word": "THANK YOU VERY MUCH",
+    "meaning": "Terima kasih banyak",
+    "hint": "Ucapan terima kasih yang lebih kuat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 53,
+    "word": "I APPRECIATE IT",
+    "meaning": "Saya menghargainya",
+    "hint": "Ungkapan bahwa kita menghargai bantuan seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 54,
+    "word": "NO PROBLEM",
+    "meaning": "Tidak masalah",
+    "hint": "Jawaban yang menunjukkan tidak ada kesulitan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 55,
+    "word": "MY PLEASURE",
+    "meaning": "Dengan senang hati",
+    "hint": "Jawaban yang menunjukkan kesenangan membantu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 56,
+    "word": "ANOTHER ONE, PLEASE",
+    "meaning": "Satu lagi, tolong",
+    "hint": "Permintaan untuk mendapatkan satu lagi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 57,
+    "word": "I'M NOT SURE",
+    "meaning": "Saya tidak yakin",
+    "hint": "Ungkapan saat ragu tentang sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 58,
+    "word": "I DON'T KNOW",
+    "meaning": "Saya tidak tahu",
+    "hint": "Ungkapan saat tidak memiliki informasi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 59,
+    "word": "I UNDERSTAND",
+    "meaning": "Saya mengerti",
+    "hint": "Ungkapan bahwa kita memahami sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 60,
+    "word": "I DON'T UNDERSTAND",
+    "meaning": "Saya tidak mengerti",
+    "hint": "Ungkapan saat tidak memahami sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 61,
+    "word": "WHAT DO YOU MEAN?",
+    "meaning": "Apa maksudmu",
+    "hint": "Pertanyaan untuk meminta penjelasan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 62,
+    "word": "COULD YOU REPEAT THAT?",
+    "meaning": "Bisa ulangi itu",
+    "hint": "Permintaan untuk mengulangi ucapan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 63,
+    "word": "COULD YOU SPEAK SLOWER?",
+    "meaning": "Bisa bicara lebih pelan",
+    "hint": "Permintaan untuk berbicara lebih lambat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 64,
+    "word": "I'M IN A HURRY",
+    "meaning": "Saya terburu-buru",
+    "hint": "Ungkapan saat tidak punya banyak waktu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 65,
+    "word": "NO WORRIES",
+    "meaning": "Jangan khawatir",
+    "hint": "Ungkapan untuk menenangkan seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 66,
+    "word": "TAKE YOUR TIME",
+    "meaning": "Santai saja",
+    "hint": "Ungkapan agar seseorang tidak terburu-buru.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 67,
+    "word": "I'LL BE THERE IN A MINUTE",
+    "meaning": "Saya akan ke sana sebentar lagi",
+    "hint": "Ungkapan bahwa kita akan segera tiba.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 68,
+    "word": "I'M ON MY WAY",
+    "meaning": "Saya sedang di jalan",
+    "hint": "Ungkapan bahwa kita sedang menuju ke suatu tempat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 69,
+    "word": "CAN YOU WAIT FOR ME?",
+    "meaning": "Bisa tunggu saya",
+    "hint": "Pertanyaan untuk meminta seseorang menunggu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 70,
+    "word": "I'M SORRY, I'M LATE",
+    "meaning": "Maaf, saya terlambat",
+    "hint": "Permintaan maaf karena datang terlambat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 71,
+    "word": "WHAT ARE YOU DOING?",
+    "meaning": "Kamu sedang apa",
+    "hint": "Pertanyaan untuk menanyakan aktivitas saat ini.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 72,
+    "word": "I'M WORKING",
+    "meaning": "Saya sedang bekerja",
+    "hint": "Jawaban tentang aktivitas bekerja.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 73,
+    "word": "I'M STUDYING",
+    "meaning": "Saya sedang belajar",
+    "hint": "Jawaban tentang aktivitas belajar.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 74,
+    "word": "I'M COOKING",
+    "meaning": "Saya sedang memasak",
+    "hint": "Jawaban tentang aktivitas memasak.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 75,
+    "word": "I'M WATCHING TV",
+    "meaning": "Saya sedang menonton TV",
+    "hint": "Jawaban tentang aktivitas menonton televisi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 76,
+    "word": "WHAT DID YOU DO YESTERDAY?",
+    "meaning": "Apa yang kamu lakukan kemarin",
+    "hint": "Pertanyaan tentang aktivitas hari sebelumnya.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 77,
+    "word": "I VISITED MY PARENTS",
+    "meaning": "Saya mengunjungi orang tua saya",
+    "hint": "Jawaban tentang mengunjungi orang tua.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 78,
+    "word": "I WENT SHOPPING",
+    "meaning": "Saya pergi belanja",
+    "hint": "Jawaban tentang aktivitas berbelanja.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 79,
+    "word": "I STAYED AT HOME",
+    "meaning": "Saya tinggal di rumah",
+    "hint": "Jawaban tentang tetap di rumah.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 80,
+    "word": "I MET MY FRIENDS",
+    "meaning": "Saya bertemu teman-teman saya",
+    "hint": "Jawaban tentang bertemu teman.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 81,
+    "word": "WHAT ARE YOUR PLANS?",
+    "meaning": "Apa rencana kamu",
+    "hint": "Pertanyaan tentang rencana seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 82,
+    "word": "I'M GOING TO THE MALL",
+    "meaning": "Saya akan pergi ke mal",
+    "hint": "Ungkapan tentang rencana ke mal.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 83,
+    "word": "I'M GOING TO THE BEACH",
+    "meaning": "Saya akan pergi ke pantai",
+    "hint": "Ungkapan tentang rencana ke pantai.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 84,
+    "word": "I'M GOING TO THE CINEMA",
+    "meaning": "Saya akan pergi ke bioskop",
+    "hint": "Ungkapan tentang rencana menonton film.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 85,
+    "word": "I'M GOING TO THE GYM",
+    "meaning": "Saya akan pergi ke gym",
+    "hint": "Ungkapan tentang rencana olahraga.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 86,
+    "word": "DO YOU WANT TO JOIN?",
+    "meaning": "Apakah kamu mau bergabung",
+    "hint": "Pertanyaan untuk mengajak seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 87,
+    "word": "I'D LOVE TO",
+    "meaning": "Saya mau sekali",
+    "hint": "Jawaban antusias untuk menerima ajakan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 88,
+    "word": "I'M BUSY TODAY",
+    "meaning": "Saya sibuk hari ini",
+    "hint": "Ungkapan bahwa kita tidak memiliki waktu luang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 89,
+    "word": "MAYBE NEXT TIME",
+    "meaning": "Mungkin lain kali",
+    "hint": "Jawaban yang tidak menolak langsung tetapi menunda.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 90,
+    "word": "THAT SOUNDS GOOD",
+    "meaning": "Kedengarannya bagus",
+    "hint": "Ungkapan setuju terhadap suatu ide.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 91,
+    "word": "I DON'T THINK SO",
+    "meaning": "Saya rasa tidak",
+    "hint": "Ungkapan ketidaksetujuan yang sopan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 92,
+    "word": "I AGREE WITH YOU",
+    "meaning": "Saya setuju dengan kamu",
+    "hint": "Ungkapan persetujuan terhadap pendapat orang lain.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 93,
+    "word": "I DISAGREE",
+    "meaning": "Saya tidak setuju",
+    "hint": "Ungkapan ketidaksetujuan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 94,
+    "word": "IN MY OPINION",
+    "meaning": "Menurut pendapat saya",
+    "hint": "Cara memulai mengungkapkan pendapat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 95,
+    "word": "TO BE HONEST",
+    "meaning": "Sejujurnya",
+    "hint": "Cara memulai pernyataan yang jujur.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 96,
+    "word": "ACTUALLY",
+    "meaning": "Sebenarnya",
+    "hint": "Kata untuk mengungkapkan fakta atau koreksi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 97,
+    "word": "WHAT DO YOU THINK?",
+    "meaning": "Apa pendapatmu",
+    "hint": "Pertanyaan untuk meminta pendapat seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 98,
+    "word": "LET ME THINK",
+    "meaning": "Biarkan saya pikir dulu",
+    "hint": "Ungkapan ketika perlu waktu untuk berpikir.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 99,
+    "word": "GIVE ME A MINUTE",
+    "meaning": "Berikan saya semenit",
+    "hint": "Permintaan untuk diberi waktu sebentar.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 100,
+    "word": "JUST A MOMENT",
+    "meaning": "Sebentar",
+    "hint": "Permintaan untuk menunggu sebentar.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 101,
+    "word": "ARE YOU OKAY?",
+    "meaning": "Apakah kamu baik-baik saja",
+    "hint": "Pertanyaan untuk menanyakan kondisi seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 102,
+    "word": "I'M FINE",
+    "meaning": "Saya baik-baik saja",
+    "hint": "Jawaban bahwa kita dalam keadaan baik.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 103,
+    "word": "I NEED HELP",
+    "meaning": "Saya butuh bantuan",
+    "hint": "Ungkapan saat memerlukan pertolongan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 104,
+    "word": "CAN YOU HELP ME?",
+    "meaning": "Bisakah kamu membantu saya",
+    "hint": "Pertanyaan untuk meminta bantuan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 105,
+    "word": "OF COURSE",
+    "meaning": "Tentu saja",
+    "hint": "Jawaban yang menunjukkan kesediaan atau kepastian.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 106,
+    "word": "CERTAINLY",
+    "meaning": "Tentu",
+    "hint": "Jawaban positif yang sopan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 107,
+    "word": "MAYBE",
+    "meaning": "Mungkin",
+    "hint": "Jawaban yang tidak pasti.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 108,
+    "word": "PROBABLY",
+    "meaning": "Kemungkinan besar",
+    "hint": "Jawaban yang menunjukkan kemungkinan tinggi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 109,
+    "word": "DEFINITELY",
+    "meaning": "Pasti",
+    "hint": "Jawaban yang menunjukkan kepastian.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 110,
+    "word": "ABSOLUTELY",
+    "meaning": "Sangat setuju",
+    "hint": "Ungkapan persetujuan yang sangat kuat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 111,
+    "word": "WHAT'S YOUR PHONE NUMBER?",
+    "meaning": "Berapa nomor teleponmu",
+    "hint": "Pertanyaan untuk meminta nomor telepon.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 112,
+    "word": "WHAT'S YOUR EMAIL?",
+    "meaning": "Apa alamat emailmu",
+    "hint": "Pertanyaan untuk meminta alamat email.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 113,
+    "word": "I'LL CALL YOU LATER",
+    "meaning": "Saya akan meneleponmu nanti",
+    "hint": "Janji untuk menghubungi seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 114,
+    "word": "I'LL SEND YOU A MESSAGE",
+    "meaning": "Saya akan mengirimimu pesan",
+    "hint": "Janji untuk mengirim pesan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 115,
+    "word": "KEEP IN TOUCH",
+    "meaning": "Tetap berhubungan",
+    "hint": "Ungkapan untuk tetap menjaga komunikasi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 116,
+    "word": "I'LL MISS YOU",
+    "meaning": "Saya akan merindukanmu",
+    "hint": "Ungkapan saat akan berpisah dengan seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 117,
+    "word": "I'M REALLY HAPPY",
+    "meaning": "Saya sangat bahagia",
+    "hint": "Ungkapan kebahagiaan yang kuat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 118,
+    "word": "I'M SO EXCITED",
+    "meaning": "Saya sangat bersemangat",
+    "hint": "Ungkapan antusiasme yang kuat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 119,
+    "word": "I'M WORRIED",
+    "meaning": "Saya khawatir",
+    "hint": "Ungkapan perasaan cemas.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 120,
+    "word": "I'M TIRED",
+    "meaning": "Saya lelah",
+    "hint": "Ungkapan kelelahan fisik.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 121,
+    "word": "I'M BORED",
+    "meaning": "Saya bosan",
+    "hint": "Ungkapan rasa bosan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 122,
+    "word": "I'M ANGRY",
+    "meaning": "Saya marah",
+    "hint": "Ungkapan kemarahan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 123,
+    "word": "I'M SAD",
+    "meaning": "Saya sedih",
+    "hint": "Ungkapan kesedihan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 124,
+    "word": "DON'T WORRY",
+    "meaning": "Jangan khawatir",
+    "hint": "Ungkapan untuk menenangkan seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 125,
+    "word": "EVERYTHING WILL BE OKAY",
+    "meaning": "Semuanya akan baik-baik saja",
+    "hint": "Ungkapan penghiburan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 126,
+    "word": "CHEER UP",
+    "meaning": "Semangat",
+    "hint": "Ungkapan untuk menghibur seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 127,
+    "word": "CONGRATULATIONS",
+    "meaning": "Selamat",
+    "hint": "Ucapan selamat atas pencapaian seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 128,
+    "word": "GOOD LUCK",
+    "meaning": "Semoga beruntung",
+    "hint": "Ucapan untuk mendoakan keberuntungan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 129,
+    "word": "WELL DONE",
+    "meaning": "Bagus sekali",
+    "hint": "Ucapan pujian atas hasil yang baik.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 130,
+    "word": "KEEP UP THE GOOD WORK",
+    "meaning": "Pertahankan kerja bagusmu",
+    "hint": "Ucapan dorongan untuk terus berprestasi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 131,
+    "word": "I'M SO PROUD OF YOU",
+    "meaning": "Saya sangat bangga padamu",
+    "hint": "Ungkapan kebanggaan terhadap seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 132,
+    "word": "YOU DID GREAT",
+    "meaning": "Kamu melakukannya dengan bagus",
+    "hint": "Pujian atas usaha yang dilakukan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 133,
+    "word": "WHAT A BEAUTIFUL DAY",
+    "meaning": "Hari yang indah",
+    "hint": "Ungkapan tentang cuaca atau suasana yang bagus.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 134,
+    "word": "WHAT A PITY",
+    "meaning": "Sayang sekali",
+    "hint": "Ungkapan penyesalan atas suatu kejadian.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 135,
+    "word": "THAT'S TOO BAD",
+    "meaning": "Itu buruk sekali",
+    "hint": "Ungkapan simpati terhadap kabar buruk.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 136,
+    "word": "NEVER MIND",
+    "meaning": "Lupakan",
+    "hint": "Ungkapan bahwa sesuatu tidak penting.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 137,
+    "word": "IT DOESN'T MATTER",
+    "meaning": "Tidak masalah",
+    "hint": "Ungkapan bahwa hal tersebut tidak penting.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 138,
+    "word": "FORGET IT",
+    "meaning": "Lupakan saja",
+    "hint": "Ungkapan untuk mengabaikan sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 139,
+    "word": "BY THE WAY",
+    "meaning": "Omong-omong",
+    "hint": "Ungkapan untuk mengubah topik pembicaraan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 140,
+    "word": "BY THE END",
+    "meaning": "Pada akhirnya",
+    "hint": "Ungkapan waktu di akhir sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 141,
+    "word": "AS SOON AS POSSIBLE",
+    "meaning": "Sesegera mungkin",
+    "hint": "Ungkapan untuk menunjukkan urgensi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 142,
+    "word": "SOONER OR LATER",
+    "meaning": "Cepat atau lambat",
+    "hint": "Ungkapan tentang sesuatu yang pasti terjadi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 143,
+    "word": "AT THE MOMENT",
+    "meaning": "Saat ini",
+    "hint": "Ungkapan waktu yang menunjukkan sekarang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 144,
+    "word": "RIGHT AWAY",
+    "meaning": "Sekarang juga",
+    "hint": "Ungkapan untuk segera melakukan sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 145,
+    "word": "A LITTLE BIT",
+    "meaning": "Sedikit",
+    "hint": "Ungkapan jumlah yang kecil.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 146,
+    "word": "A LOT OF",
+    "meaning": "Banyak",
+    "hint": "Ungkapan jumlah yang besar.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 147,
+    "word": "PLENTY OF",
+    "meaning": "Banyak sekali",
+    "hint": "Ungkapan jumlah yang sangat banyak.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 148,
+    "word": "TOO MUCH",
+    "meaning": "Terlalu banyak",
+    "hint": "Ungkapan bahwa jumlahnya berlebihan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 149,
+    "word": "TOO MANY",
+    "meaning": "Terlalu banyak (untuk dihitung)",
+    "hint": "Ungkapan bahwa jumlahnya terlalu banyak.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 150,
+    "word": "NOT ENOUGH",
+    "meaning": "Tidak cukup",
+    "hint": "Ungkapan kekurangan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 151,
+    "word": "IS IT OKAY IF...",
+    "meaning": "Apakah boleh jika...",
+    "hint": "Pertanyaan untuk meminta izin.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 152,
+    "word": "WOULD YOU MIND...",
+    "meaning": "Apakah kamu keberatan...",
+    "hint": "Pertanyaan sopan untuk meminta izin.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 153,
+    "word": "IS IT ALRIGHT?",
+    "meaning": "Apakah ini baik-baik saja",
+    "hint": "Pertanyaan untuk memastikan sesuatu boleh.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 154,
+    "word": "DO YOU MIND IF...",
+    "meaning": "Apakah kamu keberatan jika...",
+    "hint": "Cara sopan untuk meminta izin.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 155,
+    "word": "LET'S GO",
+    "meaning": "Ayo pergi",
+    "hint": "Ajakan untuk berangkat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 156,
+    "word": "LET'S EAT",
+    "meaning": "Ayo makan",
+    "hint": "Ajakan untuk makan bersama.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 157,
+    "word": "LET'S WATCH A MOVIE",
+    "meaning": "Ayo menonton film",
+    "hint": "Ajakan untuk menonton film bersama.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 158,
+    "word": "LET'S TAKE A BREAK",
+    "meaning": "Ayo istirahat",
+    "hint": "Ajakan untuk beristirahat dari aktivitas.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 159,
+    "word": "LET'S GO SHOPPING",
+    "meaning": "Ayo berbelanja",
+    "hint": "Ajakan untuk berbelanja bersama.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 160,
+    "word": "I'M COMING",
+    "meaning": "Saya datang",
+    "hint": "Jawaban bahwa kita akan segera menyusul.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 161,
+    "word": "I'M LEAVING",
+    "meaning": "Saya pergi",
+    "hint": "Ungkapan bahwa kita akan pergi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 162,
+    "word": "I'M BACK",
+    "meaning": "Saya kembali",
+    "hint": "Ungkapan bahwa kita telah kembali.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 163,
+    "word": "I'M HOME",
+    "meaning": "Saya di rumah",
+    "hint": "Ungkapan bahwa kita sudah tiba di rumah.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 164,
+    "word": "I'M ON MY WAY HOME",
+    "meaning": "Saya sedang dalam perjalanan pulang",
+    "hint": "Ungkapan bahwa kita sedang pulang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 165,
+    "word": "I'LL BE RIGHT BACK",
+    "meaning": "Saya akan segera kembali",
+    "hint": "Ungkapan bahwa kita akan kembali sebentar lagi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 166,
+    "word": "I'LL BE WAITING",
+    "meaning": "Saya akan menunggu",
+    "hint": "Ungkapan bahwa kita akan menunggu seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 167,
+    "word": "DON'T BE LATE",
+    "meaning": "Jangan terlambat",
+    "hint": "Pengingat untuk tepat waktu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 168,
+    "word": "HURRY UP",
+    "meaning": "Cepat",
+    "hint": "Ungkapan untuk meminta seseorang lebih cepat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 169,
+    "word": "SLOW DOWN",
+    "meaning": "Pelan-pelan",
+    "hint": "Ungkapan untuk meminta seseorang lebih lambat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 170,
+    "word": "CALM DOWN",
+    "meaning": "Tenang",
+    "hint": "Ungkapan untuk menenangkan seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 171,
+    "word": "RELAX",
+    "meaning": "Santai",
+    "hint": "Ungkapan untuk menyuruh seseorang rileks.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 172,
+    "word": "KEEP CALM",
+    "meaning": "Tetap tenang",
+    "hint": "Ungkapan untuk tetap tenang dalam situasi sulit.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 173,
+    "word": "WHAT A RELIEF",
+    "meaning": "Sungguh lega",
+    "hint": "Ungkapan saat terbebas dari kekhawatiran.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 174,
+    "word": "THANK GOODNESS",
+    "meaning": "Syukur",
+    "hint": "Ungkapan rasa syukur atas kejadian baik.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 175,
+    "word": "THANK HEAVENS",
+    "meaning": "Untunglah",
+    "hint": "Ungkapan rasa lega yang kuat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 176,
+    "word": "WHAT A SURPRISE",
+    "meaning": "Sungguh mengejutkan",
+    "hint": "Ungkapan saat terkejut oleh sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 177,
+    "word": "I CAN'T BELIEVE IT",
+    "meaning": "Saya tidak percaya",
+    "hint": "Ungkapan ketidakpercayaan terhadap sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 178,
+    "word": "ARE YOU SERIOUS?",
+    "meaning": "Apakah kamu serius",
+    "hint": "Pertanyaan untuk memastikan keseriusan seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 179,
+    "word": "YOU'RE KIDDING",
+    "meaning": "Kamu bercanda",
+    "hint": "Ungkapan bahwa kita menganggap sesuatu lelucon.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 180,
+    "word": "NO WAY",
+    "meaning": "Tidak mungkin",
+    "hint": "Ungkapan ketidakpercayaan yang kuat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 181,
+    "word": "REALLY?",
+    "meaning": "Benarkah",
+    "hint": "Pertanyaan untuk memastikan kejujuran atau kebenaran.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 182,
+    "word": "ARE YOU SURE?",
+    "meaning": "Apakah kamu yakin",
+    "hint": "Pertanyaan untuk memastikan keyakinan seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 183,
+    "word": "I'M SURE",
+    "meaning": "Saya yakin",
+    "hint": "Ungkapan keyakinan yang kuat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 184,
+    "word": "I HOPE SO",
+    "meaning": "Saya harap begitu",
+    "hint": "Ungkapan harapan terhadap sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 185,
+    "word": "I HOPE NOT",
+    "meaning": "Saya harap tidak",
+    "hint": "Ungkapan harapan agar sesuatu tidak terjadi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 186,
+    "word": "I WISH I COULD",
+    "meaning": "Saya berharap bisa",
+    "hint": "Ungkapan keinginan yang sulit terwujud.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 187,
+    "word": "IF ONLY",
+    "meaning": "Andai saja",
+    "hint": "Ungkapan penyesalan tentang masa lalu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 188,
+    "word": "WHAT IF...",
+    "meaning": "Bagaimana jika...",
+    "hint": "Pertanyaan untuk membayangkan skenario.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 189,
+    "word": "AS LONG AS",
+    "meaning": "Selama",
+    "hint": "Kondisi bahwa sesuatu bisa terjadi jika syarat terpenuhi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 190,
+    "word": "PROVIDED THAT",
+    "meaning": "Dengan syarat",
+    "hint": "Kondisi bahwa sesuatu bisa terjadi jika syarat terpenuhi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 191,
+    "word": "EVEN THOUGH",
+    "meaning": "Meskipun",
+    "hint": "Menghubungkan dua kalimat yang bertentangan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 192,
+    "word": "EVEN IF",
+    "meaning": "Bahkan jika",
+    "hint": "Menunjukkan bahwa sesuatu tetap terjadi tanpa peduli kondisi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 193,
+    "word": "EITHER...OR...",
+    "meaning": "Baik...atau...",
+    "hint": "Menunjukkan pilihan antara dua hal.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 194,
+    "word": "NEITHER...NOR...",
+    "meaning": "Bukan...maupun...",
+    "hint": "Menunjukkan bahwa tidak ada dari dua pilihan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 195,
+    "word": "SO THAT",
+    "meaning": "Sehingga",
+    "hint": "Menunjukkan tujuan dari suatu tindakan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 196,
+    "word": "SUCH AS",
+    "meaning": "Seperti",
+    "hint": "Memberikan contoh dari sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 197,
+    "word": "FOR INSTANCE",
+    "meaning": "Misalnya",
+    "hint": "Memberikan contoh dari sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 198,
+    "word": "FOR EXAMPLE",
+    "meaning": "Sebagai contoh",
+    "hint": "Memberikan contoh dari sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 199,
+    "word": "IN OTHER WORDS",
+    "meaning": "Dengan kata lain",
+    "hint": "Menjelaskan kembali dengan cara yang berbeda.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 200,
+    "word": "THAT IS TO SAY",
+    "meaning": "Maksudnya",
+    "hint": "Memberikan penjelasan yang lebih jelas.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 201,
+    "word": "I MEAN",
+    "meaning": "Maksud saya",
+    "hint": "Koreksi atau penjelasan dari ucapan sebelumnya.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 202,
+    "word": "WHAT I MEAN IS",
+    "meaning": "Yang saya maksud adalah",
+    "hint": "Penjelasan lebih lanjut atas maksud sebelumnya.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 203,
+    "word": "DO YOU FOLLOW?",
+    "meaning": "Apakah kamu mengerti",
+    "hint": "Pertanyaan untuk memastikan lawan bicara paham.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 204,
+    "word": "DO YOU GET IT?",
+    "meaning": "Apakah kamu paham",
+    "hint": "Pertanyaan informal untuk memastikan pemahaman.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 205,
+    "word": "ARE YOU WITH ME?",
+    "meaning": "Apakah kamu paham",
+    "hint": "Pertanyaan untuk memastikan lawan bicara mengikuti.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 206,
+    "word": "I GET IT",
+    "meaning": "Saya mengerti",
+    "hint": "Ungkapan bahwa kita memahami.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 207,
+    "word": "I SEE",
+    "meaning": "Saya mengerti",
+    "hint": "Ungkapan bahwa kita memahami penjelasan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 208,
+    "word": "NOW I UNDERSTAND",
+    "meaning": "Sekarang saya mengerti",
+    "hint": "Ungkapan bahwa akhirnya kita paham.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 209,
+    "word": "THAT MAKES SENSE",
+    "meaning": "Masuk akal",
+    "hint": "Ungkapan bahwa penjelasan masuk akal.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 210,
+    "word": "IT'S CLEAR",
+    "meaning": "Sudah jelas",
+    "hint": "Ungkapan bahwa semuanya sudah dipahami.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 211,
+    "word": "I'M CONFUSED",
+    "meaning": "Saya bingung",
+    "hint": "Ungkapan bahwa kita tidak mengerti.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 212,
+    "word": "IT DOESN'T MAKE SENSE",
+    "meaning": "Tidak masuk akal",
+    "hint": "Ungkapan bahwa penjelasan tidak logis.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 213,
+    "word": "WHAT'S YOUR POINT?",
+    "meaning": "Apa maksudmu",
+    "hint": "Pertanyaan untuk meminta inti pembicaraan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 214,
+    "word": "GET TO THE POINT",
+    "meaning": "Langsung ke intinya",
+    "hint": "Permintaan untuk langsung pada tujuan pembicaraan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 215,
+    "word": "IN SHORT",
+    "meaning": "Singkatnya",
+    "hint": "Cara untuk meringkas penjelasan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 216,
+    "word": "IN CONCLUSION",
+    "meaning": "Kesimpulannya",
+    "hint": "Cara untuk mengakhiri penjelasan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 217,
+    "word": "TO SUM UP",
+    "meaning": "Secara singkat",
+    "hint": "Cara untuk meringkas penjelasan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 218,
+    "word": "OVERALL",
+    "meaning": "Secara keseluruhan",
+    "hint": "Cara untuk melihat dari sudut pandang umum.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 219,
+    "word": "GENERALLY SPEAKING",
+    "meaning": "Secara umum",
+    "hint": "Cara untuk memberikan pernyataan umum.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 220,
+    "word": "IN GENERAL",
+    "meaning": "Umumnya",
+    "hint": "Cara untuk memberikan pernyataan yang bersifat umum.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 221,
+    "word": "ON THE OTHER HAND",
+    "meaning": "Di sisi lain",
+    "hint": "Memberikan sudut pandang yang berbeda.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 222,
+    "word": "AT THE SAME TIME",
+    "meaning": "Di waktu yang sama",
+    "hint": "Menunjukkan dua hal yang terjadi bersamaan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 223,
+    "word": "IN THE MEANTIME",
+    "meaning": "Sementara itu",
+    "hint": "Menunjukkan waktu di antara dua kejadian.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 224,
+    "word": "MEANWHILE",
+    "meaning": "Sementara itu",
+    "hint": "Menunjukkan sesuatu yang terjadi bersamaan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 225,
+    "word": "AFTER ALL",
+    "meaning": "Bagaimanapun juga",
+    "hint": "Menunjukkan sesuatu yang terjadi meskipun ada keraguan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 226,
+    "word": "ALL IN ALL",
+    "meaning": "Secara keseluruhan",
+    "hint": "Cara untuk menyimpulkan segalanya.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 227,
+    "word": "BELIEVE IT OR NOT",
+    "meaning": "Percaya atau tidak",
+    "hint": "Cara untuk mengatakan sesuatu yang tidak biasa.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 228,
+    "word": "AS A MATTER OF FACT",
+    "meaning": "Sebenarnya",
+    "hint": "Cara untuk mengungkapkan fakta yang sebenarnya.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 229,
+    "word": "AS FAR AS I KNOW",
+    "meaning": "Sejauh yang saya tahu",
+    "hint": "Memberikan informasi berdasarkan pengetahuan kita.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 230,
+    "word": "AS FAR AS I'M CONCERNED",
+    "meaning": "Menurut saya",
+    "hint": "Memberikan pendapat pribadi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 231,
+    "word": "IN MY CASE",
+    "meaning": "Dalam kasus saya",
+    "hint": "Memberikan pengalaman pribadi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 232,
+    "word": "FOR ME",
+    "meaning": "Bagi saya",
+    "hint": "Memberikan pendapat pribadi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 233,
+    "word": "AS FOR ME",
+    "meaning": "Mengenai saya",
+    "hint": "Memberikan pendapat pribadi setelah orang lain.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 234,
+    "word": "I GUESS",
+    "meaning": "Saya kira",
+    "hint": "Memberikan pendapat yang tidak terlalu pasti.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 235,
+    "word": "I SUPPOSE",
+    "meaning": "Saya rasa",
+    "hint": "Memberikan pendapat dengan keraguan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 236,
+    "word": "I RECKON",
+    "meaning": "Saya pikir",
+    "hint": "Memberikan pendapat informal.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 237,
+    "word": "IT SEEMS TO ME",
+    "meaning": "Menurut saya",
+    "hint": "Memberikan pendapat berdasarkan apa yang terlihat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 238,
+    "word": "IT OCCURRED TO ME",
+    "meaning": "Saya tersadar",
+    "hint": "Memberikan pemikiran yang baru muncul.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 239,
+    "word": "IT HIT ME",
+    "meaning": "Saya tersadar",
+    "hint": "Pemikiran yang tiba-tiba muncul.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 240,
+    "word": "IT CROSSED MY MIND",
+    "meaning": "Terlintas di pikiran saya",
+    "hint": "Pikiran yang singkat muncul.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 241,
+    "word": "I'VE BEEN THINKING",
+    "meaning": "Saya telah memikirkan",
+    "hint": "Memulai pembicaraan tentang sesuatu yang dipikirkan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 242,
+    "word": "LET ME THINK ABOUT IT",
+    "meaning": "Biarkan saya pikirkan",
+    "hint": "Meminta waktu untuk memikirkan sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 243,
+    "word": "I'LL THINK ABOUT IT",
+    "meaning": "Saya akan pikirkan",
+    "hint": "Janji untuk mempertimbangkan sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 244,
+    "word": "I'LL CONSIDER IT",
+    "meaning": "Saya akan pertimbangkan",
+    "hint": "Janji untuk mempertimbangkan sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 245,
+    "word": "I'LL DECIDE LATER",
+    "meaning": "Saya akan memutuskan nanti",
+    "hint": "Menunda keputusan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 246,
+    "word": "I'LL LET YOU KNOW",
+    "meaning": "Saya akan memberi tahu",
+    "hint": "Janji untuk memberi kabar.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 247,
+    "word": "I'LL KEEP YOU UPDATED",
+    "meaning": "Saya akan memberikan kabar terbaru",
+    "hint": "Janji untuk selalu memberi informasi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 248,
+    "word": "KEEP ME POSTED",
+    "meaning": "Kabari saya",
+    "hint": "Permintaan untuk selalu diberi informasi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 249,
+    "word": "LET ME KNOW",
+    "meaning": "Beri tahu saya",
+    "hint": "Permintaan untuk diinformasikan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 250,
+    "word": "FILL ME IN",
+    "meaning": "Ceritakan semua",
+    "hint": "Permintaan untuk diberitahu semua detail.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 251,
+    "word": "SOUNDS INTERESTING",
+    "meaning": "Kedengarannya menarik",
+    "hint": "Ungkapan ketertarikan pada suatu cerita.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 252,
+    "word": "SOUNDS FUN",
+    "meaning": "Kedengarannya menyenangkan",
+    "hint": "Ungkapan antusias terhadap suatu aktivitas.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 253,
+    "word": "I CAN'T WAIT",
+    "meaning": "Saya tidak sabar",
+    "hint": "Ungkapan antusias terhadap sesuatu yang akan datang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 254,
+    "word": "I'M LOOKING FORWARD TO IT",
+    "meaning": "Saya menantikannya",
+    "hint": "Ungkapan antusias terhadap sesuatu yang akan datang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 255,
+    "word": "WE'LL SEE",
+    "meaning": "Nanti kita lihat",
+    "hint": "Ungkapan bahwa keputusan belum pasti.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 256,
+    "word": "TIME WILL TELL",
+    "meaning": "Waktu yang akan menjawab",
+    "hint": "Ungkapan bahwa kebenaran akan terlihat dengan waktu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 257,
+    "word": "IT'S UP TO YOU",
+    "meaning": "Terserah kamu",
+    "hint": "Memberikan pilihan kepada orang lain.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 258,
+    "word": "IT'S YOUR CHOICE",
+    "meaning": "Itu pilihanmu",
+    "hint": "Memberikan kebebasan memilih kepada orang lain.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 259,
+    "word": "I DON'T CARE",
+    "meaning": "Saya tidak peduli",
+    "hint": "Ungkapan bahwa tidak ada preferensi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 260,
+    "word": "I DON'T MIND",
+    "meaning": "Saya tidak keberatan",
+    "hint": "Ungkapan bahwa kita menerima apapun.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 261,
+    "word": "EITHER WAY",
+    "meaning": "Bagaimanapun",
+    "hint": "Ungkapan bahwa hasilnya tetap sama.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 262,
+    "word": "WHATEVER",
+    "meaning": "Terserah",
+    "hint": "Ungkapan bahwa apapun pilihan tidak masalah.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 263,
+    "word": "COME ON",
+    "meaning": "Ayo",
+    "hint": "Ajakan atau dorongan untuk melakukan sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 264,
+    "word": "GET UP",
+    "meaning": "Bangun",
+    "hint": "Ungkapan untuk menyuruh seseorang bangun.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 265,
+    "word": "GO TO BED",
+    "meaning": "Tidur",
+    "hint": "Ungkapan untuk menyuruh seseorang tidur.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 266,
+    "word": "WAKE UP",
+    "meaning": "Bangun",
+    "hint": "Ungkapan untuk membangunkan seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 267,
+    "word": "HAVE A GOOD SLEEP",
+    "meaning": "Selamat tidur",
+    "hint": "Ungkapan mendoakan tidur yang nyenyak.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 268,
+    "word": "SLEEP WELL",
+    "meaning": "Tidur yang nyenyak",
+    "hint": "Ungkapan perpisahan di malam hari.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 269,
+    "word": "HAVE A GOOD MEAL",
+    "meaning": "Selamat makan",
+    "hint": "Ungkapan sebelum makan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 270,
+    "word": "BON APPETIT",
+    "meaning": "Selamat makan",
+    "hint": "Ucapan Perancis yang artinya selamat makan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 271,
+    "word": "TAKE A SEAT",
+    "meaning": "Silakan duduk",
+    "hint": "Ungkapan untuk mempersilakan seseorang duduk.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 272,
+    "word": "MAKE YOURSELF COMFORTABLE",
+    "meaning": "Buatlah diri nyaman",
+    "hint": "Ungkapan untuk membuat tamu merasa nyaman.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 273,
+    "word": "HELP YOURSELF",
+    "meaning": "Silakan ambil sendiri",
+    "hint": "Mempersilakan mengambil makanan/minuman.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 274,
+    "word": "MAKE YOURSELF AT HOME",
+    "meaning": "Anggap seperti rumah sendiri",
+    "hint": "Ungkapan untuk membuat tamu nyaman.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 275,
+    "word": "IT'S MY TREAT",
+    "meaning": "Saya yang traktir",
+    "hint": "Ungkapan bahwa kita yang membayar.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 276,
+    "word": "LET ME PAY",
+    "meaning": "Biarkan saya membayar",
+    "hint": "Tawaran untuk membayar.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 277,
+    "word": "SPLIT THE BILL",
+    "meaning": "Bayar sama rata",
+    "hint": "Usulan untuk membagi tagihan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 278,
+    "word": "I'LL GET IT",
+    "meaning": "Saya yang bayar",
+    "hint": "Ungkapan bahwa kita akan membayar.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 279,
+    "word": "THAT'S EXPENSIVE",
+    "meaning": "Itu mahal",
+    "hint": "Ungkapan tentang harga yang tinggi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 280,
+    "word": "THAT'S CHEAP",
+    "meaning": "Itu murah",
+    "hint": "Ungkapan tentang harga yang rendah.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 281,
+    "word": "A BARGAIN",
+    "meaning": "Murah",
+    "hint": "Ungkapan bahwa barang tersebut murah.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 282,
+    "word": "A STEAL",
+    "meaning": "Sangat murah",
+    "hint": "Ungkapan bahwa barang tersebut sangat murah.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 283,
+    "word": "IT'S WORTH IT",
+    "meaning": "Seharga",
+    "hint": "Ungkapan bahwa harganya sebanding dengan nilai.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 284,
+    "word": "IT'S NOT WORTH IT",
+    "meaning": "Tidak seharga",
+    "hint": "Ungkapan bahwa harganya tidak sebanding.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 285,
+    "word": "I CAN'T AFFORD IT",
+    "meaning": "Saya tidak mampu",
+    "hint": "Ungkapan bahwa kita tidak punya cukup uang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 286,
+    "word": "I'M BROKE",
+    "meaning": "Saya sedang tidak punya uang",
+    "hint": "Ungkapan informal bahwa kita tidak punya uang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 287,
+    "word": "SAVE MONEY",
+    "meaning": "Menghemat uang",
+    "hint": "Ungkapan tentang menabung atau berhemat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 288,
+    "word": "WASTE MONEY",
+    "meaning": "Membuang uang",
+    "hint": "Ungkapan tentang penggunaan uang yang tidak berguna.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 289,
+    "word": "MAKE MONEY",
+    "meaning": "Menghasilkan uang",
+    "hint": "Ungkapan tentang mencari uang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 290,
+    "word": "EARN A LIVING",
+    "meaning": "Mencari nafkah",
+    "hint": "Ungkapan tentang bekerja untuk hidup.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 291,
+    "word": "BE OUT OF WORK",
+    "meaning": "Menganggur",
+    "hint": "Ungkapan tentang tidak memiliki pekerjaan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 292,
+    "word": "LOOK FOR A JOB",
+    "meaning": "Mencari pekerjaan",
+    "hint": "Ungkapan tentang mencari pekerjaan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 293,
+    "word": "GET A JOB",
+    "meaning": "Mendapatkan pekerjaan",
+    "hint": "Ungkapan tentang berhasil mendapatkan pekerjaan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 294,
+    "word": "QUIT A JOB",
+    "meaning": "Berhenti dari pekerjaan",
+    "hint": "Ungkapan tentang meninggalkan pekerjaan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 295,
+    "word": "WORK OVERTIME",
+    "meaning": "Lembur",
+    "hint": "Ungkapan tentang bekerja melebihi jam normal.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 296,
+    "word": "TAKE A DAY OFF",
+    "meaning": "Ambil cuti",
+    "hint": "Ungkapan tentang tidak bekerja dalam sehari.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 297,
+    "word": "HAVE A DAY OFF",
+    "meaning": "Libur",
+    "hint": "Ungkapan tentang hari bebas dari kerja.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 298,
+    "word": "WORK FROM HOME",
+    "meaning": "Bekerja dari rumah",
+    "hint": "Ungkapan tentang bekerja di rumah.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 299,
+    "word": "OFFICE HOURS",
+    "meaning": "Jam kantor",
+    "hint": "Jam kerja resmi di kantor.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 300,
+    "word": "BUSINESS HOURS",
+    "meaning": "Jam buka",
+    "hint": "Jam operasional suatu tempat usaha.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 301,
+    "word": "CLOSED",
+    "meaning": "Tutup",
+    "hint": "Ungkapan bahwa toko atau tempat tidak buka.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 302,
+    "word": "OPEN",
+    "meaning": "Buka",
+    "hint": "Ungkapan bahwa toko atau tempat buka.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 303,
+    "word": "OUT OF ORDER",
+    "meaning": "Rusak",
+    "hint": "Ungkapan bahwa mesin atau peralatan tidak berfungsi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 304,
+    "word": "OUT OF SERVICE",
+    "meaning": "Tidak beroperasi",
+    "hint": "Ungkapan bahwa layanan tidak tersedia.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 305,
+    "word": "UNDER CONSTRUCTION",
+    "meaning": "Dalam pembangunan",
+    "hint": "Ungkapan bahwa sesuatu sedang dibangun.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 306,
+    "word": "NO PARKING",
+    "meaning": "Dilarang parkir",
+    "hint": "Ungkapan bahwa parkir tidak diperbolehkan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 307,
+    "word": "NO SMOKING",
+    "meaning": "Dilarang merokok",
+    "hint": "Ungkapan bahwa merokok tidak diperbolehkan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 308,
+    "word": "NO ENTRY",
+    "meaning": "Dilarang masuk",
+    "hint": "Ungkapan bahwa masuk tidak diperbolehkan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 309,
+    "word": "KEEP OUT",
+    "meaning": "Jangan masuk",
+    "hint": "Ungkapan untuk mencegah orang masuk.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 310,
+    "word": "PLEASE WAIT",
+    "meaning": "Mohon tunggu",
+    "hint": "Permintaan untuk menunggu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 311,
+    "word": "PLEASE COME IN",
+    "meaning": "Silakan masuk",
+    "hint": "Mempersilakan seseorang masuk.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 312,
+    "word": "HOW DO I GET THERE?",
+    "meaning": "Bagaimana saya ke sana",
+    "hint": "Pertanyaan untuk menanyakan rute.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 313,
+    "word": "IT'S AROUND THE CORNER",
+    "meaning": "Di tikungan",
+    "hint": "Petunjuk bahwa tempatnya dekat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 314,
+    "word": "IT'S NEXT TO...",
+    "meaning": "Di samping...",
+    "hint": "Petunjuk lokasi di samping suatu tempat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 315,
+    "word": "IT'S OPPOSITE...",
+    "meaning": "Di seberang...",
+    "hint": "Petunjuk lokasi di seberang suatu tempat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 316,
+    "word": "IT'S BESIDE...",
+    "meaning": "Di sisi...",
+    "hint": "Petunjuk lokasi di sisi suatu tempat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 317,
+    "word": "IT'S BETWEEN... AND...",
+    "meaning": "Di antara... dan...",
+    "hint": "Petunjuk lokasi di antara dua tempat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 318,
+    "word": "IT'S IN FRONT OF...",
+    "meaning": "Di depan...",
+    "hint": "Petunjuk lokasi di depan suatu tempat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 319,
+    "word": "IT'S BEHIND...",
+    "meaning": "Di belakang...",
+    "hint": "Petunjuk lokasi di belakang suatu tempat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 320,
+    "word": "IT'S FAR FROM HERE",
+    "meaning": "Jauh dari sini",
+    "hint": "Ungkapan bahwa tempatnya jauh.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 321,
+    "word": "IT'S NEAR HERE",
+    "meaning": "Dekat dari sini",
+    "hint": "Ungkapan bahwa tempatnya dekat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 322,
+    "word": "HOW FAR IS IT?",
+    "meaning": "Seberapa jauh jaraknya",
+    "hint": "Pertanyaan untuk menanyakan jarak.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 323,
+    "word": "IT'S ABOUT 10 MINUTES",
+    "meaning": "Sekitar 10 menit",
+    "hint": "Jawaban tentang jarak dalam waktu tempuh.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 324,
+    "word": "TAKE A TAXI",
+    "meaning": "Naik taksi",
+    "hint": "Saran untuk menggunakan taksi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 325,
+    "word": "TAKE THE BUS",
+    "meaning": "Naik bus",
+    "hint": "Saran untuk menggunakan bus.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 326,
+    "word": "TAKE THE TRAIN",
+    "meaning": "Naik kereta",
+    "hint": "Saran untuk menggunakan kereta.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 327,
+    "word": "WALK THERE",
+    "meaning": "Jalan kaki ke sana",
+    "hint": "Saran untuk berjalan kaki.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 328,
+    "word": "DRIVE THERE",
+    "meaning": "Mengemudi ke sana",
+    "hint": "Saran untuk mengendarai mobil.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 329,
+    "word": "GET THERE",
+    "meaning": "Sampai di sana",
+    "hint": "Ungkapan untuk tiba di tujuan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 330,
+    "word": "ARRIVE ON TIME",
+    "meaning": "Tiba tepat waktu",
+    "hint": "Ungkapan tentang kedatangan sesuai jadwal.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 331,
+    "word": "BE ON TIME",
+    "meaning": "Tepat waktu",
+    "hint": "Ungkapan tentang tiba tidak terlambat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 332,
+    "word": "BE LATE",
+    "meaning": "Terlambat",
+    "hint": "Ungkapan tentang tiba setelah waktu yang dijadwalkan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 333,
+    "word": "BE EARLY",
+    "meaning": "Lebih awal",
+    "hint": "Ungkapan tentang tiba sebelum waktu yang dijadwalkan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 334,
+    "word": "WASTE TIME",
+    "meaning": "Membuang waktu",
+    "hint": "Ungkapan tentang menggunakan waktu tanpa manfaat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 335,
+    "word": "SAVE TIME",
+    "meaning": "Menghemat waktu",
+    "hint": "Ungkapan tentang menggunakan waktu secara efisien.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 336,
+    "word": "SPEND TIME",
+    "meaning": "Menghabiskan waktu",
+    "hint": "Ungkapan tentang menggunakan waktu untuk sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 337,
+    "word": "KILL TIME",
+    "meaning": "Menghabiskan waktu",
+    "hint": "Ungkapan tentang mengisi waktu luang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 338,
+    "word": "MAKE TIME",
+    "meaning": "Menyediakan waktu",
+    "hint": "Ungkapan tentang mengatur waktu untuk sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 339,
+    "word": "HAVE TIME",
+    "meaning": "Ada waktu",
+    "hint": "Ungkapan bahwa kita memiliki waktu luang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 340,
+    "word": "HAVE NO TIME",
+    "meaning": "Tidak ada waktu",
+    "hint": "Ungkapan bahwa kita tidak memiliki waktu luang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 341,
+    "word": "RUN OUT OF TIME",
+    "meaning": "Kehabisan waktu",
+    "hint": "Ungkapan bahwa waktu sudah habis.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 342,
+    "word": "IT'S ABOUT TIME",
+    "meaning": "Akhirnya",
+    "hint": "Ungkapan bahwa sesuatu akhirnya terjadi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 343,
+    "word": "IT'S HIGH TIME",
+    "meaning": "Sudah waktunya",
+    "hint": "Ungkapan bahwa sudah seharusnya terjadi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 344,
+    "word": "AT THE LAST MINUTE",
+    "meaning": "Di menit terakhir",
+    "hint": "Ungkapan tentang melakukan sesuatu pada akhir waktu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 345,
+    "word": "AT THE MOMENT",
+    "meaning": "Saat ini",
+    "hint": "Ungkapan tentang waktu sekarang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 346,
+    "word": "FROM TIME TO TIME",
+    "meaning": "Sesekali",
+    "hint": "Ungkapan tentang sesuatu yang terjadi kadang-kadang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 347,
+    "word": "ONCE IN A WHILE",
+    "meaning": "Sesekali",
+    "hint": "Ungkapan tentang sesuatu yang terjadi jarang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 348,
+    "word": "NOW AND THEN",
+    "meaning": "Sesekali",
+    "hint": "Ungkapan tentang sesuatu yang terjadi kadang-kadang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 349,
+    "word": "ALL THE TIME",
+    "meaning": "Sepanjang waktu",
+    "hint": "Ungkapan tentang sesuatu yang terjadi terus-menerus.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 350,
+    "word": "MOST OF THE TIME",
+    "meaning": "Sebagian besar waktu",
+    "hint": "Ungkapan tentang sesuatu yang sering terjadi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 351,
+    "word": "SOMETIMES",
+    "meaning": "Kadang-kadang",
+    "hint": "Ungkapan tentang sesuatu yang terjadi tidak selalu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 352,
+    "word": "OFTEN",
+    "meaning": "Sering",
+    "hint": "Ungkapan tentang sesuatu yang terjadi banyak.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 353,
+    "word": "USUALLY",
+    "meaning": "Biasanya",
+    "hint": "Ungkapan tentang sesuatu yang terjadi secara normal.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 354,
+    "word": "ALWAYS",
+    "meaning": "Selalu",
+    "hint": "Ungkapan tentang sesuatu yang terjadi setiap waktu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 355,
+    "word": "NEVER",
+    "meaning": "Tidak pernah",
+    "hint": "Ungkapan tentang sesuatu yang tidak terjadi sama sekali.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 356,
+    "word": "RARELY",
+    "meaning": "Jarang",
+    "hint": "Ungkapan tentang sesuatu yang hampir tidak pernah terjadi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 357,
+    "word": "HARDLY EVER",
+    "meaning": "Hampir tidak pernah",
+    "hint": "Ungkapan tentang sesuatu yang sangat jarang terjadi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 358,
+    "word": "OCCASIONALLY",
+    "meaning": "Kadang-kadang",
+    "hint": "Ungkapan tentang sesuatu yang terjadi tidak sering.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 359,
+    "word": "FREQUENTLY",
+    "meaning": "Sering",
+    "hint": "Ungkapan tentang sesuatu yang terjadi berulang kali.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 360,
+    "word": "REGULARLY",
+    "meaning": "Secara teratur",
+    "hint": "Ungkapan tentang sesuatu yang terjadi dengan pola tetap.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 361,
+    "word": "AS USUAL",
+    "meaning": "Seperti biasa",
+    "hint": "Ungkapan bahwa sesuatu seperti biasanya.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 362,
+    "word": "SAME OLD",
+    "meaning": "Hal yang sama",
+    "hint": "Ungkapan bahwa tidak ada yang berubah.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 363,
+    "word": "JUST LIKE ALWAYS",
+    "meaning": "Seperti biasanya",
+    "hint": "Ungkapan bahwa sesuatu seperti biasanya.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 364,
+    "word": "THINGS CHANGE",
+    "meaning": "Segalanya berubah",
+    "hint": "Ungkapan bahwa semuanya berubah.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 365,
+    "word": "TIME FLIES",
+    "meaning": "Waktu berlalu cepat",
+    "hint": "Ungkapan bahwa waktu terasa cepat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 366,
+    "word": "HOW TIME FLIES",
+    "meaning": "Betapa cepat waktu berlalu",
+    "hint": "Ungkapan kekaguman bahwa waktu cepat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 367,
+    "word": "IT'S BEEN A LONG TIME",
+    "meaning": "Sudah lama sekali",
+    "hint": "Ungkapan bahwa sudah lama tidak bertemu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 368,
+    "word": "LONG TIME NO SEE",
+    "meaning": "Lama tidak bertemu",
+    "hint": "Ungkapan saat bertemu setelah lama.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 369,
+    "word": "HOW'S EVERYTHING?",
+    "meaning": "Bagaimana semuanya",
+    "hint": "Sapaan untuk menanyakan kabar secara umum.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 370,
+    "word": "HOW ARE THINGS?",
+    "meaning": "Bagaimana keadaannya",
+    "hint": "Sapaan untuk menanyakan kabar.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 371,
+    "word": "HOW'S WORK?",
+    "meaning": "Bagaimana pekerjaannya",
+    "hint": "Pertanyaan tentang pekerjaan seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 372,
+    "word": "HOW'S SCHOOL?",
+    "meaning": "Bagaimana sekolahnya",
+    "hint": "Pertanyaan tentang sekolah seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 373,
+    "word": "HOW'S YOUR FAMILY?",
+    "meaning": "Bagaimana keluargamu",
+    "hint": "Pertanyaan tentang kabar keluarga.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 374,
+    "word": "EVERYTHING'S GOOD",
+    "meaning": "Semuanya baik",
+    "hint": "Jawaban bahwa semuanya baik.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 375,
+    "word": "SAME AS ALWAYS",
+    "meaning": "Sama seperti biasa",
+    "hint": "Jawaban bahwa tidak ada yang berubah.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 376,
+    "word": "CAN'T COMPLAIN",
+    "meaning": "Tidak ada yang dikeluhkan",
+    "hint": "Jawaban bahwa semuanya cukup baik.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 377,
+    "word": "NEVER BETTER",
+    "meaning": "Lebih baik dari sebelumnya",
+    "hint": "Jawaban bahwa keadaan sangat baik.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 378,
+    "word": "COULDN'T BE BETTER",
+    "meaning": "Tidak bisa lebih baik",
+    "hint": "Jawaban bahwa keadaan sempurna.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 379,
+    "word": "THANKS FOR ASKING",
+    "meaning": "Terima kasih sudah bertanya",
+    "hint": "Ucapan terima kasih atas perhatian.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 380,
+    "word": "I APPRECIATE YOUR CONCERN",
+    "meaning": "Saya menghargai perhatianmu",
+    "hint": "Ungkapan terima kasih atas kepedulian.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 381,
+    "word": "DON'T MENTION IT",
+    "meaning": "Tidak perlu disebutkan",
+    "hint": "Jawaban untuk mengabaikan ucapan terima kasih.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 382,
+    "word": "ANYTIME",
+    "meaning": "Kapan saja",
+    "hint": "Jawaban bahwa kita siap membantu kapan saja.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 383,
+    "word": "WITH PLEASURE",
+    "meaning": "Dengan senang hati",
+    "hint": "Jawaban kesediaan membantu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 384,
+    "word": "GOOD IDEA",
+    "meaning": "Ide bagus",
+    "hint": "Ungkapan setuju dengan ide seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 385,
+    "word": "THAT'S A GREAT IDEA",
+    "meaning": "Ide yang bagus",
+    "hint": "Ungkapan antusias terhadap ide seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 386,
+    "word": "I LIKE THAT IDEA",
+    "meaning": "Saya suka ide itu",
+    "hint": "Ungkapan persetujuan terhadap ide.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 387,
+    "word": "I'M NOT SURE ABOUT THAT",
+    "meaning": "Saya tidak yakin tentang itu",
+    "hint": "Ungkapan keraguan terhadap sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 388,
+    "word": "I HAVE MY DOUBTS",
+    "meaning": "Saya ragu",
+    "hint": "Ungkapan keraguan terhadap sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 389,
+    "word": "I'M OPEN TO SUGGESTIONS",
+    "meaning": "Saya terbuka untuk saran",
+    "hint": "Ungkapan bahwa kita menerima masukan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 390,
+    "word": "FEEL FREE TO...",
+    "meaning": "Silakan...",
+    "hint": "Memberi izin kepada seseorang untuk melakukan sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 391,
+    "word": "GO AHEAD",
+    "meaning": "Silakan",
+    "hint": "Memberi izin untuk melakukan sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 392,
+    "word": "BE MY GUEST",
+    "meaning": "Silakan",
+    "hint": "Memberi izin atau mempersilakan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 393,
+    "word": "AFTER YOU",
+    "meaning": "Silakan duluan",
+    "hint": "Mempersilakan orang lain duluan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 394,
+    "word": "THANK YOU FOR COMING",
+    "meaning": "Terima kasih sudah datang",
+    "hint": "Ucapan terima kasih kepada tamu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 395,
+    "word": "THANK YOU FOR YOUR TIME",
+    "meaning": "Terima kasih atas waktunya",
+    "hint": "Ucapan terima kasih untuk waktu yang diberikan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 396,
+    "word": "THANK YOU FOR YOUR HELP",
+    "meaning": "Terima kasih atas bantuannya",
+    "hint": "Ucapan terima kasih untuk bantuan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 397,
+    "word": "SORRY FOR BEING LATE",
+    "meaning": "Maaf terlambat",
+    "hint": "Permintaan maaf karena datang terlambat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 398,
+    "word": "SORRY FOR THE DELAY",
+    "meaning": "Maaf atas keterlambatan",
+    "hint": "Permintaan maaf karena sesuatu terlambat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 399,
+    "word": "I APOLOGIZE FOR...",
+    "meaning": "Saya minta maaf untuk...",
+    "hint": "Permintaan maaf formal.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 400,
+    "word": "PLEASE FORGIVE ME",
+    "meaning": "Mohon maafkan saya",
+    "hint": "Permintaan maaf yang sungguh-sungguh.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 401,
+    "word": "IT'S MY FAULT",
+    "meaning": "Ini salah saya",
+    "hint": "Mengakui kesalahan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 402,
+    "word": "IT WAS AN ACCIDENT",
+    "meaning": "Itu tidak sengaja",
+    "hint": "Menjelaskan bahwa itu terjadi tanpa sengaja.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 403,
+    "word": "I DIDN'T MEAN TO...",
+    "meaning": "Saya tidak bermaksud...",
+    "hint": "Menjelaskan bahwa itu tidak disengaja.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 404,
+    "word": "I DIDN'T KNOW",
+    "meaning": "Saya tidak tahu",
+    "hint": "Menjelaskan bahwa kita tidak memiliki informasi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 405,
+    "word": "I DIDN'T REALIZE",
+    "meaning": "Saya tidak menyadari",
+    "hint": "Menjelaskan bahwa kita tidak menyadarinya.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 406,
+    "word": "I DIDN'T NOTICE",
+    "meaning": "Saya tidak memperhatikan",
+    "hint": "Menjelaskan bahwa kita tidak melihatnya.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 407,
+    "word": "I SEE WHAT YOU MEAN",
+    "meaning": "Saya mengerti maksudmu",
+    "hint": "Ungkapan bahwa kita memahami.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 408,
+    "word": "I KNOW WHAT YOU MEAN",
+    "meaning": "Saya tahu maksudmu",
+    "hint": "Ungkapan bahwa kita memahami dan setuju.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 409,
+    "word": "THAT'S A GOOD POINT",
+    "meaning": "Poin yang bagus",
+    "hint": "Mengakui bahwa argumen seseorang bagus.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 410,
+    "word": "FAIR ENOUGH",
+    "meaning": "Cukup adil",
+    "hint": "Ungkapan bahwa kita menerima penjelasan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 411,
+    "word": "YOU HAVE A POINT",
+    "meaning": "Kamu punya poin",
+    "hint": "Mengakui bahwa pendapat seseorang benar.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 412,
+    "word": "MAYBE YOU'RE RIGHT",
+    "meaning": "Mungkin kamu benar",
+    "hint": "Mengakui kemungkinan kebenaran pendapat orang lain.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 413,
+    "word": "I GUESS SO",
+    "meaning": "Saya kira begitu",
+    "hint": "Persetujuan dengan sedikit keraguan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 414,
+    "word": "I THINK SO",
+    "meaning": "Saya pikir begitu",
+    "hint": "Persetujuan yang cukup yakin.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 415,
+    "word": "I HOPE SO",
+    "meaning": "Saya harap begitu",
+    "hint": "Harapan bahwa sesuatu benar.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 416,
+    "word": "I DON'T THINK SO",
+    "meaning": "Saya rasa tidak",
+    "hint": "Ungkapan ketidaksetujuan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 417,
+    "word": "I DON'T AGREE",
+    "meaning": "Saya tidak setuju",
+    "hint": "Ungkapan ketidaksetujuan langsung.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 418,
+    "word": "I COMPLETELY DISAGREE",
+    "meaning": "Saya sangat tidak setuju",
+    "hint": "Ketidaksetujuan yang kuat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 419,
+    "word": "THAT'S RIDICULOUS",
+    "meaning": "Itu konyol",
+    "hint": "Ungkapan bahwa sesuatu tidak masuk akal.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 420,
+    "word": "THAT'S NONSENSE",
+    "meaning": "Itu omong kosong",
+    "hint": "Ungkapan bahwa sesuatu tidak benar.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 421,
+    "word": "YOU CAN'T BE SERIOUS",
+    "meaning": "Kamu pasti bercanda",
+    "hint": "Ungkapan ketidakpercayaan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 422,
+    "word": "ARE YOU KIDDING ME?",
+    "meaning": "Apakah kamu bercanda",
+    "hint": "Pertanyaan ketidakpercayaan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 423,
+    "word": "YOU'RE JOKING",
+    "meaning": "Kamu bercanda",
+    "hint": "Ungkapan bahwa kita menganggapnya lelucon.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 424,
+    "word": "JUST KIDDING",
+    "meaning": "Hanya bercanda",
+    "hint": "Ungkapan bahwa kita bercanda.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 425,
+    "word": "I'M NOT JOKING",
+    "meaning": "Saya tidak bercanda",
+    "hint": "Ungkapan bahwa kita serius.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 426,
+    "word": "I MEAN IT",
+    "meaning": "Saya serius",
+    "hint": "Ungkapan bahwa kita serius.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 427,
+    "word": "I'LL MAKE IT UP TO YOU",
+    "meaning": "Saya akan ganti rugi",
+    "hint": "Janji untuk memperbaiki kesalahan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 428,
+    "word": "LET ME MAKE IT UP TO YOU",
+    "meaning": "Biarkan saya ganti rugi",
+    "hint": "Tawaran untuk memperbaiki kesalahan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 429,
+    "word": "I OWE YOU ONE",
+    "meaning": "Saya berhutang budi padamu",
+    "hint": "Ungkapan terima kasih dan janji balas.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 430,
+    "word": "I'VE GOT YOUR BACK",
+    "meaning": "Saya mendukungmu",
+    "hint": "Ungkapan dukungan kepada seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 431,
+    "word": "I'M HERE FOR YOU",
+    "meaning": "Saya di sini untukmu",
+    "hint": "Ungkapan dukungan dan kesediaan membantu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 432,
+    "word": "YOU CAN COUNT ON ME",
+    "meaning": "Kamu bisa mengandalkan saya",
+    "hint": "Janji untuk selalu membantu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 433,
+    "word": "I'LL BE THERE FOR YOU",
+    "meaning": "Saya akan ada untukmu",
+    "hint": "Janji dukungan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 434,
+    "word": "NO MATTER WHAT",
+    "meaning": "Apapun yang terjadi",
+    "hint": "Ungkapan bahwa kita akan tetap membantu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 435,
+    "word": "DON'T GIVE UP",
+    "meaning": "Jangan menyerah",
+    "hint": "Ungkapan dorongan untuk tetap berusaha.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 436,
+    "word": "NEVER GIVE UP",
+    "meaning": "Jangan pernah menyerah",
+    "hint": "Ungkapan dorongan yang kuat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 437,
+    "word": "KEEP GOING",
+    "meaning": "Teruskan",
+    "hint": "Ungkapan dorongan untuk terus berusaha.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 438,
+    "word": "STAY STRONG",
+    "meaning": "Tetap kuat",
+    "hint": "Ungkapan dorongan untuk tetap tegar.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 439,
+    "word": "HANG IN THERE",
+    "meaning": "Bertahan",
+    "hint": "Ungkapan dorongan untuk tetap bertahan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 440,
+    "word": "YOU'LL BE FINE",
+    "meaning": "Kamu akan baik-baik saja",
+    "hint": "Ungkapan penghiburan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 441,
+    "word": "EVERYTHING'S GONNA BE OKAY",
+    "meaning": "Semuanya akan baik-baik saja",
+    "hint": "Ungkapan penghiburan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 442,
+    "word": "IT'S NOT THE END OF THE WORLD",
+    "meaning": "Bukan kiamat",
+    "hint": "Ungkapan bahwa situasi tidak separah itu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 443,
+    "word": "THERE'S ALWAYS TOMORROW",
+    "meaning": "Selalu ada hari esok",
+    "hint": "Ungkapan bahwa masih ada harapan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 444,
+    "word": "THE SUN WILL COME UP",
+    "meaning": "Matahari akan terbit",
+    "hint": "Ungkapan bahwa selalu ada harapan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 445,
+    "word": "EVERY CLOUD HAS A SILVER LINING",
+    "meaning": "Setiap masalah ada hikmahnya",
+    "hint": "Ungkapan bahwa selalu ada sisi baik dari hal buruk.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 446,
+    "word": "ALL'S WELL THAT ENDS WELL",
+    "meaning": "Semua baik jika akhirnya baik",
+    "hint": "Ungkapan bahwa hasil akhir yang baik yang penting.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 447,
+    "word": "PRACTICE MAKES PERFECT",
+    "meaning": "Latihan membuat sempurna",
+    "hint": "Ungkapan bahwa latihan akan membuat lebih baik.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 448,
+    "word": "BETTER LATE THAN NEVER",
+    "meaning": "Lebih baik terlambat daripada tidak sama sekali",
+    "hint": "Ungkapan bahwa ketepatan tidak selalu penting.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 449,
+    "word": "EASY COME, EASY GO",
+    "meaning": "Mudah datang, mudah pergi",
+    "hint": "Ungkapan bahwa yang mudah diperoleh mudah hilang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 450,
+    "word": "NO PAIN, NO GAIN",
+    "meaning": "Tak ada hasil tanpa usaha",
+    "hint": "Ungkapan bahwa perlu usaha untuk mencapai hasil.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 451,
+    "word": "HONESTY IS THE BEST POLICY",
+    "meaning": "Kejujuran adalah kebijakan terbaik",
+    "hint": "Ungkapan bahwa kejujuran lebih baik.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 452,
+    "word": "ACTIONS SPEAK LOUDER THAN WORDS",
+    "meaning": "Tindakan lebih kuat dari kata-kata",
+    "hint": "Ungkapan bahwa perbuatan lebih penting daripada ucapan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 453,
+    "word": "DON'T JUDGE A BOOK BY ITS COVER",
+    "meaning": "Jangan menilai dari penampilan",
+    "hint": "Ungkapan bahwa penampilan tidak selalu mencerminkan isi.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 454,
+    "word": "THE EARLY BIRD CATCHES THE WORM",
+    "meaning": "Siapa cepat dia dapat",
+    "hint": "Ungkapan bahwa lebih baik memulai lebih awal.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 455,
+    "word": "WHAT GOES AROUND COMES AROUND",
+    "meaning": "Apa yang kita lakukan akan kembali",
+    "hint": "Ungkapan tentang karma atau akibat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 456,
+    "word": "WHEN IN ROME, DO AS ROMANS DO",
+    "meaning": "Di mana bumi dipijak, di situ langit dijunjung",
+    "hint": "Ungkapan bahwa kita harus mengikuti adat setempat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 457,
+    "word": "ROME WASN'T BUILT IN A DAY",
+    "meaning": "Roma tidak dibangun dalam sehari",
+    "hint": "Ungkapan bahwa hal besar membutuhkan waktu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 458,
+    "word": "TWO HEADS ARE BETTER THAN ONE",
+    "meaning": "Dua kepala lebih baik dari satu",
+    "hint": "Ungkapan bahwa bekerja sama lebih baik.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 459,
+    "word": "IT TAKES TWO TO TANGO",
+    "meaning": "Butuh dua untuk menari tango",
+    "hint": "Ungkapan bahwa perlu keterlibatan dua pihak.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 460,
+    "word": "THE GRASS IS ALWAYS GREENER ON THE OTHER SIDE",
+    "meaning": "Rumput tetangga selalu lebih hijau",
+    "hint": "Ungkapan bahwa orang selalu iri pada milik orang lain.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 461,
+    "word": "HAVE A NICE TRIP",
+    "meaning": "Selamat berpergian",
+    "hint": "Ucapan untuk orang yang akan berpergian.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 462,
+    "word": "SAFE TRAVELS",
+    "meaning": "Selamat berpergian",
+    "hint": "Ucapan untuk orang yang akan bepergian.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 463,
+    "word": "BON VOYAGE",
+    "meaning": "Selamat berpergian",
+    "hint": "Ucapan Perancis untuk orang yang bepergian.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 464,
+    "word": "HAVE A SAFE FLIGHT",
+    "meaning": "Selamat terbang",
+    "hint": "Ucapan untuk orang yang naik pesawat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 465,
+    "word": "TEXT ME WHEN YOU ARRIVE",
+    "meaning": "SMS saya saat kamu tiba",
+    "hint": "Permintaan untuk memberi kabar setelah tiba.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 466,
+    "word": "CALL ME WHEN YOU GET HOME",
+    "meaning": "Telepon saya saat kamu sampai rumah",
+    "hint": "Permintaan untuk menelepon setelah tiba di rumah.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 467,
+    "word": "LET ME KNOW YOU'RE SAFE",
+    "meaning": "Beri tahu saya bahwa kamu aman",
+    "hint": "Permintaan untuk memberi kabar bahwa selamat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 468,
+    "word": "I'LL PRAY FOR YOU",
+    "meaning": "Saya akan mendoakanmu",
+    "hint": "Ungkapan bahwa kita akan mendoakan seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 469,
+    "word": "THINKING OF YOU",
+    "meaning": "Memikirkanmu",
+    "hint": "Ungkapan bahwa kita memikirkan seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 470,
+    "word": "I'M THINKING OF YOU",
+    "meaning": "Saya memikirkanmu",
+    "hint": "Ungkapan bahwa kita memikirkan seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 471,
+    "word": "I LOVE YOU",
+    "meaning": "Saya mencintaimu",
+    "hint": "Ungkapan cinta kepada seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 472,
+    "word": "I LOVE YOU TOO",
+    "meaning": "Saya juga mencintaimu",
+    "hint": "Jawaban dari ungkapan cinta.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 473,
+    "word": "I MISS YOU",
+    "meaning": "Saya merindukanmu",
+    "hint": "Ungkapan rindu kepada seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 474,
+    "word": "I MISS YOU TOO",
+    "meaning": "Saya juga merindukanmu",
+    "hint": "Jawaban dari ungkapan rindu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 475,
+    "word": "I CAN'T LIVE WITHOUT YOU",
+    "meaning": "Saya tidak bisa hidup tanpamu",
+    "hint": "Ungkapan cinta yang sangat kuat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 476,
+    "word": "YOU MEAN THE WORLD TO ME",
+    "meaning": "Kamu berarti segalanya bagiku",
+    "hint": "Ungkapan bahwa seseorang sangat berharga.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 477,
+    "word": "YOU'RE THE BEST",
+    "meaning": "Kamu yang terbaik",
+    "hint": "Pujian bahwa seseorang sangat baik.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 478,
+    "word": "YOU'RE AMAZING",
+    "meaning": "Kamu luar biasa",
+    "hint": "Pujian yang kuat.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 479,
+    "word": "I'M SO LUCKY TO HAVE YOU",
+    "meaning": "Saya sangat beruntung memilikimu",
+    "hint": "Ungkapan rasa syukur memiliki seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 480,
+    "word": "I'M GRATEFUL FOR YOU",
+    "meaning": "Saya bersyukur memilikimu",
+    "hint": "Ungkapan rasa syukur kepada seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 481,
+    "word": "THANK YOU FOR BEING YOU",
+    "meaning": "Terima kasih karena menjadi dirimu",
+    "hint": "Ucapan terima kasih karena seseorang apa adanya.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 482,
+    "word": "I APPRECIATE YOU",
+    "meaning": "Saya menghargaimu",
+    "hint": "Ungkapan bahwa kita menghargai seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 483,
+    "word": "I VALUE YOU",
+    "meaning": "Saya menghargaimu",
+    "hint": "Ungkapan bahwa kita menghargai keberadaan seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 484,
+    "word": "YOU'RE SPECIAL TO ME",
+    "meaning": "Kamu istimewa bagiku",
+    "hint": "Ungkapan bahwa seseorang istimewa.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 485,
+    "word": "I DON'T KNOW WHAT I'D DO WITHOUT YOU",
+    "meaning": "Saya tidak tahu apa yang akan saya lakukan tanpamu",
+    "hint": "Ungkapan bahwa seseorang sangat penting.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 486,
+    "word": "I WANT TO SPEND MY LIFE WITH YOU",
+    "meaning": "Saya ingin menghabiskan hidupku denganmu",
+    "hint": "Ungkapan keinginan untuk bersama selamanya.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 487,
+    "word": "WILL YOU MARRY ME?",
+    "meaning": "Maukah kamu menikah denganku",
+    "hint": "Pertanyaan lamaran pernikahan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 488,
+    "word": "YES, I WILL",
+    "meaning": "Ya, saya mau",
+    "hint": "Jawaban menerima lamaran pernikahan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 489,
+    "word": "I'M SO HAPPY FOR YOU",
+    "meaning": "Saya sangat bahagia untukmu",
+    "hint": "Ucapan selamat atas kebahagiaan orang lain.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 490,
+    "word": "I'M SO PROUD",
+    "meaning": "Saya sangat bangga",
+    "hint": "Ungkapan kebanggaan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 491,
+    "word": "I'M EXCITED FOR YOU",
+    "meaning": "Saya bersemangat untukmu",
+    "hint": "Ungkapan antusias untuk kebahagiaan orang lain.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 492,
+    "word": "I'M HERE TO SUPPORT YOU",
+    "meaning": "Saya di sini untuk mendukungmu",
+    "hint": "Ungkapan kesediaan membantu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 493,
+    "word": "I BELIEVE IN YOU",
+    "meaning": "Saya percaya padamu",
+    "hint": "Ungkapan dukungan dan keyakinan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 494,
+    "word": "YOU CAN DO IT",
+    "meaning": "Kamu bisa melakukannya",
+    "hint": "Ungkapan dorongan untuk percaya diri.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 495,
+    "word": "YOU'RE CAPABLE",
+    "meaning": "Kamu mampu",
+    "hint": "Ungkapan bahwa seseorang memiliki kemampuan.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 496,
+    "word": "YOU'VE GOT THIS",
+    "meaning": "Kamu bisa",
+    "hint": "Ungkapan dorongan yang informal.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 497,
+    "word": "I'M ROOTING FOR YOU",
+    "meaning": "Saya mendukungmu",
+    "hint": "Ungkapan bahwa kita mendukung seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 498,
+    "word": "I'M IN YOUR CORNER",
+    "meaning": "Saya di pihakmu",
+    "hint": "Ungkapan bahwa kita mendukung seseorang.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 499,
+    "word": "WE'RE IN THIS TOGETHER",
+    "meaning": "Kita bersama dalam ini",
+    "hint": "Ungkapan bahwa kita bersama menghadapi sesuatu.",
+    "level": "dailymudah"
+  },
+  {
+    "id": 500,
+    "word": "TOGETHER WE CAN DO IT",
+    "meaning": "Bersama kita bisa melakukannya",
+    "hint": "Ungkapan bahwa bersama akan berhasil.",
+    "level": "dailymudah"
+  }
+]

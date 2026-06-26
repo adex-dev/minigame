@@ -4,6 +4,7 @@ import React, { useState, useMemo } from "react";
 import wordsDataB1 from "../data/words_b1.json";
 import wordsDataB2 from "../data/words_b2.json";
 import wordsDataC1 from "../data/words_c1.json";
+import wordsDataDailyB1 from "../data/b1_daily.json";
 
 interface GameSetupProps {
   onStartGame: (level: string, questionCount: number) => void;
@@ -42,6 +43,12 @@ const GameSetup: React.FC<GameSetupProps> = ({
       cfr: " - C1",
       color: "bg-gradient-to-r from-red-400 to-red-500",
     },
+     {
+      id: "dailymudah",
+      label: "🟢 Daily - Mudah",
+      cfr: " - B1",
+      color: "bg-gradient-to-r from-green-400 to-green-500",
+    }
   ];
 
   const getMaxQuestions = (level: string) => {
@@ -50,8 +57,12 @@ const GameSetup: React.FC<GameSetupProps> = ({
     }
     if (level === "sedang") {
       wordsData = [...wordsDataB2];
-    } else if (level === "sulit") {
+    } 
+    if (level === "sulit") {
       wordsData = [...wordsDataC1];
+    }
+    if (level === "dailymudah") {
+      wordsData = [...wordsDataDailyB1];
     }
     if (!wordsData || !Array.isArray(wordsData)) {
       return 0;

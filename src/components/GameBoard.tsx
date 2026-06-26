@@ -5,6 +5,7 @@ import ScoreBoard from "./ScoreBoard";
 import wordsDataB1 from "../data/words_b1.json";
 import wordsDataB2 from "../data/words_b2.json";
 import wordsDataC1 from "../data/words_c1.json";
+import daily_b1 from "../data/b1_daily.json";
 
 interface Word {
   id: number;
@@ -75,7 +76,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
   const initializeGame = async () => {
     setIsLoading(true);
     try {
-      let wordsData = [...wordsDataB1, ...wordsDataB2, ...wordsDataC1].map(
+      let wordsData = [...wordsDataB1, ...wordsDataB2, ...wordsDataC1,...daily_b1].map(
         (item, index) => ({
           ...item,
           id: index + 1,
@@ -89,6 +90,9 @@ const GameBoard: React.FC<GameBoardProps> = ({
       }
       if (selectedLevel === "sulit") {
         wordsData = [...wordsDataC1];
+      }
+      if (selectedLevel === "dailymudah") {
+        wordsData = [...daily_b1];
       }
       if (!wordsData || !Array.isArray(wordsData) || wordsData.length === 0) {
         await pesan("Data kata tidak tersedia!", "informasi", "info");
@@ -346,9 +350,9 @@ const GameBoard: React.FC<GameBoardProps> = ({
               </span>
               <span
                 className={`px-3 py-1 capitalize rounded-full text-xs font-medium ${
-                  getDifficulty() === "mudah"
+                  getDifficulty() === ("mudah" || "daily-mudah" )
                     ? "bg-green-100 text-green-700"
-                    : getDifficulty() === "sedang"
+                    : getDifficulty() === ("sedang" || "daily-sedang")
                       ? "bg-yellow-100 text-yellow-700"
                       : "bg-red-100 text-red-700"
                 }`}>
