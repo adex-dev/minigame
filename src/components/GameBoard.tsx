@@ -350,9 +350,9 @@ const GameBoard: React.FC<GameBoardProps> = ({
               </span>
               <span
                 className={`px-3 py-1 capitalize rounded-full text-xs font-medium ${
-                  getDifficulty() === ("mudah" || "daily-mudah" )
+                  ["mudah", "dailymudah"].includes(getDifficulty())
                     ? "bg-green-100 text-green-700"
-                    : getDifficulty() === ("sedang" || "daily-sedang")
+                    : ["sedang", "dailysedang"].includes(getDifficulty())
                       ? "bg-yellow-100 text-yellow-700"
                       : "bg-red-100 text-red-700"
                 }`}>
