@@ -154,6 +154,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
         setCurrentQuestionIndex(0);
         setUserAnswer("");
         setScore(0);
+        setCountSkip(0);
         setAttempts(0);
         setWrongAttempts(0);
         setIsGameOver(false);
