@@ -2,6 +2,7 @@ import React from 'react';
 
 interface ScoreBoardProps {
   score: number;
+  skipCount: number;
   totalWords: number;
   attempts: number;
   wrongAttempts: number;
