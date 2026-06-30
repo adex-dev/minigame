@@ -55,6 +55,9 @@ const GameSetup: React.FC<GameSetupProps> = ({
     if (level === "semua") {
       return totalAvailableQuestions || 0;
     }
+    if (level === "mudah") {
+      wordsData = [...wordsDataB1];
+    } 
     if (level === "sedang") {
       wordsData = [...wordsDataB2];
     } 

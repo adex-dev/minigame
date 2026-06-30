@@ -40,6 +40,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState<number>(0);
   const [score, setScore] = useState<number>(0);
   const [attempts, setAttempts] = useState<number>(0);
+  const [countSkip, setCountSkip] = useState<number>(0);
   const [wrongAttempts, setWrongAttempts] = useState<number>(0);
   const [isGameOver, setIsGameOver] = useState<boolean>(false);
   const [isWin, setIsWin] = useState<boolean>(false);
@@ -252,8 +253,8 @@ const GameBoard: React.FC<GameBoardProps> = ({
     setShowAnswer(true);
     setAnsweredQuestions(new Set([...answeredQuestions, currentQuestion.id]));
     setIsAnswered(true);
-
     setTimeout(() => {
+      setCountSkip((prev) => prev + 1);
       nextQuestion();
     }, 1500);
   };
@@ -335,6 +336,7 @@ const GameBoard: React.FC<GameBoardProps> = ({
         <ScoreBoard
           score={score}
           totalWords={questions.length}
+          skipCount={countSkip}
           attempts={attempts}
           wrongAttempts={wrongAttempts}
           remainingWords={questions.length - answeredQuestions.size}
@@ -362,9 +364,6 @@ const GameBoard: React.FC<GameBoardProps> = ({
                 {currentQuestion?.level}
               </span> */}
             </div>
-            <span className="text-sm text-gray-600">
-              ✅ {questions.length - answeredQuestions.size} terjawab
-            </span>
           </div>
 
           {/* Question Display */}
@@ -487,7 +486,9 @@ const GameBoard: React.FC<GameBoardProps> = ({
                 Skor Akhir:{" "} 
                 <span className="font-bold text-blue-600">{score}</span>
               </p>
+              <p>Akurasi : {attempts > 0 ? Math.round(((attempts - wrongAttempts) / attempts) * 100) : 0}%</p>
               <p>Total Percobaan: {attempts}</p>
+              <p>Terlewati: {countSkip}</p>
               <p>
                 Jawaban Benar:{" "}
                 {Number(attempts)-Number(wrongAttempts)}{" "}

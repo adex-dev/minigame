@@ -10,6 +10,7 @@ interface ScoreBoardProps {
 
 const ScoreBoard: React.FC<ScoreBoardProps> = ({
   score,
+  skipCount,
   totalWords,
   attempts,
   wrongAttempts,
@@ -21,8 +22,8 @@ const ScoreBoard: React.FC<ScoreBoardProps> = ({
   return (
     <div className="my-2 grid grid-cols-2 md:grid-cols-7 gap-3 p-4 bg-white rounded-xl shadow-lg">
       <Card containerClass="bg-blue-50" title="⭐ Skor" valueClass="text-blue-600" amount={score} />
-      <Card containerClass="bg-green-50" title="📝 Total" valueClass="text-green-600" amount={totalWords} />
-      <Card containerClass="bg-orange-50" title="🔄 Coba" valueClass="text-orange-600" amount={attempts} />
+      <Card containerClass="bg-green-50" title="📝 Total Soal" valueClass="text-green-600" amount={totalWords} />
+      <Card containerClass="bg-orange-50" title="⏭ Terlewati" valueClass="text-orange-600" amount={skipCount} />
       <Card containerClass="bg-green-50" title="✅ Benar" valueClass="text-green-600" amount={correctAttempts} />
       <Card containerClass="bg-red-50" title="❌ Salah" valueClass="text-red-600" amount={wrongAttempts} />
       <Card containerClass="bg-purple-50" title="📌 Sisa" valueClass="text-purple-600" amount={remainingWords} />
