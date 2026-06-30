@@ -262,14 +262,18 @@ const GameSetup: React.FC<GameSetupProps> = ({
                   <p>• Jawaban benar = +10 poin</p>
                   <p>• Jawaban salah = -3 poin</p>
                   <p>
-                    • Level{" "}
+                    • Pilihan Level :{" "}
                     {selectedLevel === "semua"
                       ? "semua akan diacak"
                       : selectedLevel}
                   </p>
                   <p>
-                    • Total soal tersedia:{" "}
-                    {maxQuestions > 1 ? maxQuestions : "belum ditentukan"}
+                    • Total soal tersedia :{" "}
+                    {maxQuestions > 1 ? maxQuestions: "belum ditentukan"}
+                  </p>
+                  <p>
+                    • Pilihan Soal ditampilkan :{" "} 
+                    {questionCount > 1 ? questionCount : "belum ditentukan"}
                   </p>
                 </div>
               </div>

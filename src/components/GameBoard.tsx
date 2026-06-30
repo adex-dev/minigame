@@ -484,13 +484,13 @@ const GameBoard: React.FC<GameBoardProps> = ({
             <div className="card-game-over">
               <h2>🎮 Quiz Selesai!</h2>
               <p>
-                Skor Akhir:{" "}
+                Skor Akhir:{" "} 
                 <span className="font-bold text-blue-600">{score}</span>
               </p>
               <p>Total Percobaan: {attempts}</p>
               <p>
                 Jawaban Benar:{" "}
-                {score == 0 ? 0 : questions.length - answeredQuestions.size}{" "}
+                {Number(attempts)-Number(wrongAttempts)}{" "}
                 dari {questions.length} pertanyaan
               </p>
               <p>Jawaban Salah: {wrongAttempts}</p>
